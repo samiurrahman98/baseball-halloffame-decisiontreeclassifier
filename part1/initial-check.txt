@@ -1,6 +1,9 @@
+This file entails the criteria that is satisfied by each of the records in the HallOfFame table. Based on the criteria that
+is met, each role is either immediately established as one that will be elected, merely nominated, or one that requires 
+additional screening in the form of statistical analysis.
+
 1st: Role - Player, Manager, Umpire, Pioneer/Executive
 2nd: Committee - BBWAA, Veterans, Centennial, Old Timers, Special Election, Final Ballot, Nominating Vote, Run Off, Negro League
-3rd: Position (from Player) - Pitcher, 
 
 If Manager -> all nominated by Veterans, Centennial, Old Timers were elected, otherwise not elected
 If Umpire -> all nominated by Veterans were elected, otherwise not elected
@@ -8,7 +11,3 @@ If Pioneer/Executive -> all nominated by Centennial, Old Timers, Veterans, Negro
 If Player -> all nominated by Old Timers, Special Election, Negro League were elected
           -> all nominated by Final Ballot, Nominating Vote were not elected
           -> otherwise (BBWAA, Run Off, Veterans) require additional screening
-
--- create ~/.my.cnf contents if can't write/read to/from
-/etc/my.cnf /etc/mysql/my.cnf /usr/local/etc/my.cnf ~/.my.cnf
-/etc/my.cnf /etc/mysql/my.cnf /usr/local/etc/my.cnf ~/.my.cnf 
