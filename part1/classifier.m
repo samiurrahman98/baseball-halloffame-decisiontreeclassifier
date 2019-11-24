@@ -1,9 +1,11 @@
-T = readtable('data/train_sample.csv');
-T_C = readtable('data/train_sample_classifications.csv');
+T = readtable('data/data.csv');
 
-DT = fitctree(T(:,2:end), T_C(:,2));
+N = size(T, 1);
+tf = false(N, 1);
+tf(1:round(N * 0.8)) = true;
+tf = tf(randperm(N));
 
-T = readtable('data/test_sample.csv');
-T_C = predict(DT, T(:,2:end));
+DT = fitctree(T(tf,2:end-1), T_C(tf,end));
+T_C = predict(DT, T(~tf,2:end-1));
 
 csvwrite('data/predictions.csv', T_C);
