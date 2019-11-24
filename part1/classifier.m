@@ -36,7 +36,7 @@ for i = 1:5
     end
 
     accuracy = (tp+tn)/(tp+tn+fp+fn);
-    fprintf(F_A,'"%d","%d"\n',i,accuracy);
+    fprintf(F_A,'"%d","%.4f"\n',i,accuracy);
 end
 
 fclose(F_A);
