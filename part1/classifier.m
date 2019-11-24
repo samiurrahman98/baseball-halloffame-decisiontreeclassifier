@@ -1,8 +1,10 @@
 T = readtable('data.csv');
 N = size(T,1);
 
-// T_A = table('Dataset number', 'Accuracy');
-// T_P = table('Iteration', 'Classification', 'Predictions');
+F_A = fopen('g4_DT_gini_accuracy.csv','w');
+fprintf(F_A,'"Dataset number","Accuracy"\n');
+F_P = fopen('g4_DT_gini_predictions.csv','w');
+fprintf(F_P,'"Iteration","Classification","Predictions"\n');
 
 for i = 1:5
     tp = 0; tn = 0; fp = 0; fn = 0;
@@ -13,27 +15,29 @@ for i = 1:5
 
     DT = fitctree(T(tf,2:end-1), T(tf,end));
 
-    labels = T.('classification');
+    classifications = T.('classification');
     predictions = predict(DT, T(~tf,2:end-1));
 
     M = size(predictions,1);
     for j = 1:M
-        label = char(labels(j));
+        classification = char(classifications(j));
         prediction = char(predictions(j));
 
-        if label == 'Y' && prediction == 'Y'
+        if classification == 'Y' && prediction == 'Y'
             tp = tp+1;
-        elseif label == 'N' && prediction == 'N'
+        elseif classification == 'N' && prediction == 'N'
             tn = tn+1;
-        elseif label == 'N' && prediction == 'Y'
+        elseif classification == 'N' && prediction == 'Y'
             fp = fp+1;
-        elseif label == 'Y' && prediction == 'N'
+        elseif classification == 'Y' && prediction == 'N'
             fn = fn+1;
         end
+        fprintf(F_P,'"%d","%c","%c"\n',i,classification,prediction);
     end
 
-    accuracy = (tp+tn)/(tp+tn+fp+fn)
+    accuracy = (tp+tn)/(tp+tn+fp+fn);
+    fprintf(F_A,'"%d","%d"\n',i,accuracy);
 end
 
-// writetable(T_A,'g4_DT_gini_accuracy.csv');
-// writetable(T_P,'g4_DT_gini_predictions.csv');
+fclose(F_A);
+fclose(F_P);
