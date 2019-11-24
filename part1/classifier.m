@@ -1,4 +1,4 @@
-T = readtable('data/data.csv');
+T = readtable('data.csv');
 N = size(T,1);
 
 T_A = table('Dataset number', 'Accuracy');
