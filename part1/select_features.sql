@@ -1,43 +1,50 @@
 SELECT
-    hof.playerID, 
+    distinct hof.playerID,
+    hof.category            AS feature1, -- role,
 
-    b.G + p.G   AS feature1, -- gamesPlayedPitched,
+    b.G                                                             AS feature2, -- gamesBatted,
+    b.H / b.AB                                                      AS feature3, -- battingAverage,
+    b.HR                                                            AS feature4, -- homeRuns,
+    b.RBI                                                           AS feature5, -- runsBattedIn,
+    b.R                                                             AS feature6, -- runs,
+    b.H                                                             AS feature7, -- hits,
+    b.H - (b.2B + b.3B + b.HR)                                      AS feature8, -- singles,
+    b.2B                                                            AS feature9, -- doubles,
+    b.3B                                                            AS feature10, -- triples,
+    b.SB                                                            AS feature11, -- stolenBases,
+    (b.H + b.BB + b.HBP) / (b.AB + b.BB + b.HBP + b.SF)             AS feature12, -- onBasePercentage,
+    (b.H - (b.2B + b.3B + b.HR) + 2*b.2B + 3*b.3B + 4*b.HR) / b.AB  AS feature13, -- sluggingPercentage,
 
-    b.H / b.AB                                                      AS feature2, -- battingAverage,
-    b.HR                                                            AS feature3, -- homeRuns,
-    b.RBI                                                           AS feature4, -- runsBattedIn,
-    b.R                                                             AS feature5, -- runs,
-    b.H                                                             AS feature6, -- hits,
-    b.H - (b.2B + b.3B + b.HR)                                      AS feature7, -- singles,
-    b.2B                                                            AS feature8, -- doubles,
-    b.3B                                                            AS feature9, -- triples,
-    b.SB                                                            AS feature10, -- stolenBases,
-    (b.H + b.BB + b.HBP) / (b.AB + b.BB + b.HBP + b.SF)             AS feature11, -- onBasePercentage,
-    (b.H - (b.2B + b.3B + b.HR) + 2*b.2B + 3*b.3B + 4*b.HR) / b.AB  AS feature12, -- sluggingPercentage,
+    p.G                 AS feature14, -- gamesPitched,
+    p.W                 AS feature15, -- wins,
+    p.L                 AS feature16, -- losses,
+    p.W / (p.W + p.L)   AS feature17, -- winLossPercentage,
+    9*p.ER / p.IP       AS feature18, -- earnedRunAverage,
+    p.CG                AS feature19, -- completeGames,
+    p.SHO               AS feature20, -- shutouts,
+    p.SV                AS feature21, -- saves,
+    p.IP                AS feature22, -- inningsPitched,
+    p.SO                AS feature23, -- strikeouts,
 
-    p.W                 AS feature13, -- wins,
-    p.L                 AS feature14, -- losses,
-    p.W / (p.W + p.L)   AS feature15, -- winLossPercentage,
-    9*p.ER / p.IP       AS feature16, -- earnedRunAverage,
-    p.CG                AS feature17, -- completeGames,
-    p.SHO               AS feature18, -- shutouts,
-    p.SV                AS feature19, -- saves,
-    p.IP                AS feature20, -- inningsPitched,
-    p.SO                AS feature21, -- strikeouts,
+    f.G     AS feature24, -- gamesFielded,
+    f.PO    AS feature25, -- putouts,
+    f.A     AS feature26, -- assists,
+    f.DP    AS feature27, -- doublePlays,
 
-    f.PO    AS feature22, -- putouts,
-    f.A     AS feature23, -- assists,
-    f.DP    AS feature24, -- doublePlays,
+    m.G     AS feature28, -- gamesManaged,
+    m.W     AS feature29, -- managedWins,
+    m.L     AS feature30, -- managedLosses,
+    m.R     AS feature31, -- managedRank,
 
-    a.S     AS feature25, -- allStarSelections,
+    a.S     AS feature32, -- allStarSelections,
 
-    ap.A    AS feature26, -- playerAwards,
+    ap.A    AS feature33, -- playerAwards,
 
-    am.A    AS feature27, -- managerAwards,
+    am.A    AS feature34, -- managerAwards,
 
     hof.inducted    AS classification
 FROM HallOfFame hof
-JOIN (
+LEFT JOIN (
     SELECT
         playerID,
         SUM(G)   AS G,
@@ -55,7 +62,7 @@ JOIN (
     FROM Batting
     GROUP BY playerID
 ) b USING(playerID)
-JOIN (
+LEFT JOIN (
     SELECT
         playerID,
         SUM(W)      AS W,
@@ -73,40 +80,41 @@ JOIN (
     FROM Pitching
     GROUP BY playerID
 ) p USING(playerID)
-JOIN (
+LEFT JOIN (
     SELECT
         playerID,
+        SUM(G)      AS G,
         SUM(PO)     AS PO,
         SUM(A)      AS A,
         SUM(DP)     AS DP
     FROM Fielding
     GROUP BY playerID
 ) f USING(playerID)
-JOIN (
+LEFT JOIN (
     SELECT
         playerID,
         COUNT(playerID)     AS S
     FROM AllstarFull
     GROUP BY playerID
 ) a USING(playerID)
-JOIN (
+LEFT JOIN (
     SELECT
         playerID,
         SUM(G)          AS G,
         SUM(W)          AS W,
         SUM(L)          AS L,
-        AVG(rank)   AS R
+        AVG(`rank`)     AS R
     FROM Managers
     GROUP BY playerID
 ) m USING(playerID)
-JOIN (
+LEFT JOIN (
     SELECT
         playerID,
         COUNT(awardID)  AS A
     FROM AwardsPlayers
     GROUP BY playerID
 ) ap USING(playerID)
-JOIN (
+LEFT JOIN (
     SELECT
         playerID,
         COUNT(awardID)  AS A
