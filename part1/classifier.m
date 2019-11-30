@@ -21,7 +21,7 @@ for i = 1:5
 
     classifications = char(T(~tf,:).('classification'));
     predictions = char(predict(DT,T(~tf,2:end-1)));
-    [a,c] = confusionmat(classifications,predictions);
+    [c,a] = confusionmat(classifications,predictions);
 
     M = size(predictions,1);
     for j = 1:M
@@ -42,7 +42,7 @@ for i = 1:5
 
     classifications = char(T(~tf,:).('classification'));
     predictions = char(predict(DT,T(~tf,2:end-1)));
-    [a,c] = confusionmat(classifications,predictions);
+    [c,a] = confusionmat(classifications,predictions);
 
     M = size(predictions,1);
     for j = 1:M
