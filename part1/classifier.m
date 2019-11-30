@@ -25,6 +25,11 @@ for i = 1:5
     predictions = char(predict(DT, T(~tf,2:end-1)));
     c = confusionmat(classifications, predictions);
 
+    M = size(predictions,1);
+    for j = 1:M
+        fprintf(F_gini_predictions,'"%d","%c","%c"\n',i,classifications(j),predictions(j));
+    end
+
     accuracy = (c(1,1) + c(2,2))/(c(1,1) + c(1,2) + c(2,1) + c(2,2));
     fprintf(F_gini_accuracy,'"%d","%.4f"\n',i,accuracy);
 end
@@ -43,7 +48,13 @@ for i = 1:5
     predictions = char(predict(DT, T(~tf,2:end-1)));
     c = confusionmat(classifications, predictions);
 
+    M = size(predictions,1);
+    for j = 1:M
+        fprintf(F_entropy_predictions,'"%d","%c","%c"\n',i,classifications(j),predictions(j));
+    end
+
     accuracy = (c(1,1) + c(2,2))/(c(1,1) + c(1,2) + c(2,1) + c(2,2));
+    fprintf(F_entropy_accuracy,'"%d","%.4f"\n',i,accuracy);
 end
 
 fclose(F_gini_accuracy);
