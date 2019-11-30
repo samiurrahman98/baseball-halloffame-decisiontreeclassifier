@@ -1,46 +1,39 @@
 SELECT
     distinct hof.playerID,
     hof.category            AS feature1, -- role,
+    hof.votedBy             AS feature2, -- committee,
 
-    b.G                                                             AS feature2, -- gamesBatted,
-    b.H / b.AB                                                      AS feature3, -- battingAverage,
-    b.HR                                                            AS feature4, -- homeRuns,
-    b.RBI                                                           AS feature5, -- runsBattedIn,
-    b.R                                                             AS feature6, -- runs,
-    b.H                                                             AS feature7, -- hits,
-    b.H - (b.2B + b.3B + b.HR)                                      AS feature8, -- singles,
-    b.2B                                                            AS feature9, -- doubles,
-    b.3B                                                            AS feature10, -- triples,
-    b.SB                                                            AS feature11, -- stolenBases,
-    (b.H + b.BB + b.HBP) / (b.AB + b.BB + b.HBP + b.SF)             AS feature12, -- onBasePercentage,
-    (b.H - (b.2B + b.3B + b.HR) + 2*b.2B + 3*b.3B + 4*b.HR) / b.AB  AS feature13, -- sluggingPercentage,
+    -- b.G                                                             AS feature2, -- gamesBatted,
+    -- IFNULL(b.H / b.AB, ' ')                                                      AS feature3, -- battingAverage,
+    -- b.HR                                                            AS feature4, -- homeRuns,
+    -- b.RBI                                                           AS feature5, -- runsBattedIn,
+    -- b.H                                                             AS feature6, -- hits,
+    -- IFNULL((b.H + b.BB + b.HBP) / (b.AB + b.BB + b.HBP + b.SF), ' ')             AS feature4, -- onBasePercentage,
+    IFNULL((b.H - (b.2B + b.3B + b.HR) + 2*b.2B + 3*b.3B + 4*b.HR) / b.AB, ' ')  AS feature3, -- sluggingPercentage,
 
-    p.G                 AS feature14, -- gamesPitched,
-    p.W                 AS feature15, -- wins,
-    p.L                 AS feature16, -- losses,
-    p.W / (p.W + p.L)   AS feature17, -- winLossPercentage,
-    9*p.ER / p.IP       AS feature18, -- earnedRunAverage,
-    p.CG                AS feature19, -- completeGames,
-    p.SHO               AS feature20, -- shutouts,
-    p.SV                AS feature21, -- saves,
-    p.IP                AS feature22, -- inningsPitched,
-    p.SO                AS feature23, -- strikeouts,
+    -- p.G                 AS feature14, -- gamesPitched,
+    -- p.W                 AS feature6, -- wins,
+    -- p.L                 AS feature7, -- losses,
+    -- p.W / (p.W + p.L)   AS feature5, -- winLossPercentage,
+    -- IFNULL(9*p.ER / p.IP, ' ')       AS feature6, -- earnedRunAverage,
+    IFNULL((p.BB + p.H / p.IP), ' ') AS feature4, -- walksAndHitsPerInningPitched,
+    -- p.CG                AS feature19, -- completeGames,
+    -- p.SHO               AS feature20, -- shutouts,
+    -- p.SV                AS feature9, -- saves,
+    -- p.IP                AS feature13, -- inningsPitched,
+    -- p.SO                AS feature8, -- strikeouts,
 
-    f.G     AS feature24, -- gamesFielded,
-    f.PO    AS feature25, -- putouts,
-    f.A     AS feature26, -- assists,
-    f.DP    AS feature27, -- doublePlays,
+    IFNULL((f.PO + f.A) / (f.PO + f.A + f.E), ' ')   AS feature5, -- fieldingPercentage
 
-    m.G     AS feature28, -- gamesManaged,
-    m.W     AS feature29, -- managedWins,
-    m.L     AS feature30, -- managedLosses,
-    m.R     AS feature31, -- managedRank,
+    -- m.G     AS feature15, -- gamesManaged,
+    -- IFNULL(m.W / (m.W + m.L), ' ')    AS feature6, -- managedWinLossPercentage
+    IFNULL(m.R, ' ')     AS feature6, -- managedRank,
 
-    a.S     AS feature32, -- allStarSelections,
+    IFNULL(a.S, ' ')     AS feature7, -- allStarSelections,
 
-    ap.A    AS feature33, -- playerAwards,
+    -- IFNULL(ap.A, ' ')    AS feature8, -- playerAwards,
 
-    am.A    AS feature34, -- managerAwards,
+    -- IFNULL(am.A, ' ')    AS feature9, -- managerAwards,
 
     hof.inducted    AS classification
 FROM HallOfFame hof
@@ -86,7 +79,7 @@ LEFT JOIN (
         SUM(G)      AS G,
         SUM(PO)     AS PO,
         SUM(A)      AS A,
-        SUM(DP)     AS DP
+        SUM(E)      AS E
     FROM Fielding
     GROUP BY playerID
 ) f USING(playerID)
