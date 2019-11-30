@@ -13,8 +13,6 @@ fprintf(F_entropy_predictions,'"Iteration","Classification","Predictions"\n');
 
 % Gini
 for i = 1:5
-    tp = 0; tn = 0; fp = 0; fn = 0;
-
     tf = false(N,1);
     tf(1:round(N*0.8)) = true;
     tf = tf(randperm(N));
@@ -36,8 +34,6 @@ end
 
 % Entropy
 for i = 1:5
-    tp = 0; tn = 0; fp = 0; fn = 0;
-
     tf = false(N,1);
     tf(1:round(N*0.8)) = true;
     tf = tf(randperm(N));
