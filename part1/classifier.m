@@ -23,27 +23,10 @@ for i = 1:5
 
     classifications = char(T(~tf,:).('classification'));
     predictions = char(predict(DT, T(~tf,2:end-1)));
+    c = confusionmat(classifications, predictions);
 
-    M = size(predictions,1);
-    for j = 1:M
-        classification = classifications(j);
-        prediction = predictions(j);
-
-        if classification == 'Y' && prediction == 'Y'
-            tp = tp+1;
-        elseif classification == 'N' && prediction == 'N'
-            tn = tn+1;
-        elseif classification == 'N' && prediction == 'Y'
-            fp = fp+1;
-        elseif classification == 'Y' && prediction == 'N'
-            fn = fn+1;
-        end
-        fprintf(F_gini_predictions,'"%d","%c","%c"\n',i,classification,prediction);
-    end
-
-    accuracy = (tp+tn)/(tp+tn+fp+fn);
+    accuracy = (c(1,1) + c(2,2))/(c(1,1) + c(1,2) + c(2,1) + c(2,2));
     fprintf(F_gini_accuracy,'"%d","%.4f"\n',i,accuracy);
-    confusionmat(classifications, predictions)
 end
 
 % Entropy
@@ -58,26 +41,9 @@ for i = 1:5
 
     classifications = char(T(~tf,:).('classification'));
     predictions = char(predict(DT, T(~tf,2:end-1)));
+    c = confusionmat(classifications, predictions);
 
-    M = size(predictions,1);
-    for j = 1:M
-        classification = classifications(j);
-        prediction = predictions(j);
-
-        if classification == 'Y' && prediction == 'Y'
-            tp = tp+1;
-        elseif classification == 'N' && prediction == 'N'
-            tn = tn+1;
-        elseif classification == 'N' && prediction == 'Y'
-            fp = fp+1;
-        elseif classification == 'Y' && prediction == 'N'
-            fn = fn+1;
-        end
-        fprintf(F_entropy_predictions,'"%d","%c","%c"\n',i,classification,prediction);
-    end
-
-    accuracy = (tp+tn)/(tp+tn+fp+fn);
-    fprintf(F_entropy_accuracy,'"%d","%.4f"\n',i,accuracy);
+    accuracy = (c(1,1) + c(2,2))/(c(1,1) + c(1,2) + c(2,1) + c(2,2));
     confusionmat(classifications, predictions)
 end
 
