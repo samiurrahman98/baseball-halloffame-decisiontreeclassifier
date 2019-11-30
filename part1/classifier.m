@@ -44,7 +44,6 @@ for i = 1:5
     c = confusionmat(classifications, predictions);
 
     accuracy = (c(1,1) + c(2,2))/(c(1,1) + c(1,2) + c(2,1) + c(2,2));
-    confusionmat(classifications, predictions)
 end
 
 fclose(F_gini_accuracy);
