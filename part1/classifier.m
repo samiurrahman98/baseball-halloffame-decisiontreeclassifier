@@ -11,7 +11,7 @@ F_entropy_predictions = fopen('g_4_DT_entropy_predictions.csv','w');
 fprintf(F_entropy_accuracy,'"Dataset number","Accuracy"\n');
 fprintf(F_entropy_predictions,'"Iteration","Classification","Predictions"\n');
 
-// Gini
+% Gini
 for i = 1:5
     tp = 0; tn = 0; fp = 0; fn = 0;
 
@@ -45,7 +45,7 @@ for i = 1:5
     fprintf(F_gini_accuracy,'"%d","%.4f"\n',i,accuracy);
 end
 
-// Entropy
+% Entropy
 for i = 1:5
     tp = 0; tn = 0; fp = 0; fn = 0;
 
