@@ -21,13 +21,13 @@ for i = 1:5
 
     DT = fitctree(T(tf,2:end-1), T(tf,end), 'SplitCriterion', 'gdi');
 
-    classifications = T.('classification');
-    predictions = predict(DT, T(~tf,2:end-1));
+    classifications = char(T(~tf,:).('classification'));
+    predictions = char(predict(DT, T(~tf,2:end-1)));
 
     M = size(predictions,1);
     for j = 1:M
-        classification = char(classifications(j));
-        prediction = char(predictions(j));
+        classification = classifications(j);
+        prediction = predictions(j);
 
         if classification == 'Y' && prediction == 'Y'
             tp = tp+1;
@@ -43,6 +43,7 @@ for i = 1:5
 
     accuracy = (tp+tn)/(tp+tn+fp+fn);
     fprintf(F_gini_accuracy,'"%d","%.4f"\n',i,accuracy);
+    confusionmat(classifications, predictions)
 end
 
 % Entropy
@@ -55,13 +56,13 @@ for i = 1:5
 
     DT = fitctree(T(tf,2:end-1), T(tf,end), 'SplitCriterion', 'deviance');
 
-    classifications = T.('classification');
-    predictions = predict(DT, T(~tf,2:end-1));
+    classifications = char(T(~tf,:).('classification'));
+    predictions = char(predict(DT, T(~tf,2:end-1)));
 
     M = size(predictions,1);
     for j = 1:M
-        classification = char(classifications(j));
-        prediction = char(predictions(j));
+        classification = classifications(j);
+        prediction = predictions(j);
 
         if classification == 'Y' && prediction == 'Y'
             tp = tp+1;
@@ -77,6 +78,7 @@ for i = 1:5
 
     accuracy = (tp+tn)/(tp+tn+fp+fn);
     fprintf(F_entropy_accuracy,'"%d","%.4f"\n',i,accuracy);
+    confusionmat(classifications, predictions)
 end
 
 fclose(F_gini_accuracy);
