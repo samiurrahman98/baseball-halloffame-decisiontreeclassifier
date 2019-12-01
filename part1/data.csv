@@ -1,1594 +1,1619 @@
-playerID,feature1,feature2,classification
-cobbty01,3.7674,0.7400,Y
-ruthba01,3.3552,0.8686,Y
-wagneho01,3.7357,0.6218,Y
-mathech01,2.6068,0.2337,Y
-johnswa01,2.4909,0.2583,Y
-speaktr01,3.6554,0.6748,N
-youngcy01,3.2244,0.3540,N
-sislege01,4.0229,0.6248,N
-alexape01,2.5747,0.2191,N
-bresnro01,3.0989,0.4716,N
-ansonca01,4.0733,0.7911,N
-ewingbu01,4.0783,0.8586,N
-wadderu01,2.6000,0.1488,N
-youngcy01,3.2244,0.3540,N
-foxxji01,3.5106,0.7557,N
-walshed01,2.3704,0.2026,N
-radboch01,3.8086,0.4717,N
-kellyki01,4.0509,0.9326,N
-grovele01,2.2116,0.1922,N
-rusieam01,3.5524,0.4292,N
-chaseha01,3.8650,0.5107,N
-comisch01,4.1698,0.7151,N
-dennyje01,3.9984,0.5772,N
-stoveha01,4.1306,1.0040,N
-wrighge01,4.8646,1.1252,N
-brownmo01,2.3185,0.1886,N
-clarkjo01,3.6154,0.4652,N
-wagneho01,3.7357,0.6218,N
-spaldal01,4.7640,1.0146,N
-barnero01,4.7936,1.3988,N
-nichoki01,3.2142,0.4206,N
-wardjo01,4.1901,0.7715,N
-broutda01,4.0114,0.9103,N
-dunlafr01,4.1181,0.7865,N
-glassja01,4.0495,0.6699,N
-willine01,3.7910,0.6736,N
-bendech01,2.2623,0.2012,N
-allisdo01,4.4245,0.7421,N
-battijo01,4.0688,0.4750,N
-becklja01,3.9925,0.6706,N
-bondto01,4.0471,0.4365,N
-burkeje01,4.0760,0.8325,N
-keefeti01,3.3706,0.4013,N
-kilroma01,3.2182,0.4939,N
-lowebo01,3.8856,0.6221,N
-mcaleji01,3.8990,0.6069,N
-mccarto01,4.0220,0.8384,N
-mcveyca01,4.7415,1.0472,N
-paborch01,4.2059,0.5941,N
-richaha01,4.2389,0.8415,N
-tennefr02,3.8089,0.6409,N
-vanhage01,4.0428,0.8261,N
-wallabo01,3.6164,0.4436,N
-whitede01,4.2462,0.7308,N
-bradlbi01,3.7166,0.5161,N
-marquru01,2.0653,0.1175,N
-ruckena01,2.3958,0.1310,N
-vanceda01,2.1968,0.1538,N
-cummica01,4.3279,0.5992,N
-richmle01,4.0558,0.6733,N
-speaktr01,3.6554,0.6748,Y
-youngcy01,3.2244,0.3540,Y
-alexape01,2.5747,0.2191,N
-sislege01,4.0229,0.6248,N
-wadderu01,2.6000,0.1488,N
-walshed01,2.3704,0.2026,N
-bresnro01,3.0989,0.4716,N
-brownmo01,2.3185,0.1886,N
-planked01,2.5508,0.2063,N
-chaseha01,3.8650,0.5107,N
-bendech01,2.2623,0.2012,N
-pennohe01,1.9581,0.1742,N
-marquru01,2.0653,0.1175,N
-woodjo02,2.8046,0.3822,N
-mcginjo01,2.7191,0.2285,N
-jossad01,2.7601,0.1554,N
-ruckena01,2.3958,0.1310,N
-vanceda01,2.1968,0.1538,N
-adamsba01,2.1141,0.1639,N
-donlimi01,3.6740,0.6378,N
-hoopeha01,3.8047,0.6189,N
-bradlbi01,3.7166,0.5161,N
-tennefr02,3.8089,0.6409,N
-griffcl01,2.8454,0.4165,N
-altroni01,2.3913,0.2261,N
-donovbi01,2.8366,0.3094,N
-faberre01,1.8940,0.1463,N
-lewisdu01,3.6676,0.4195,N
-nehfar01,1.9720,0.1940,N
-coombja01,2.4130,0.2674,N
-breitte01,3.0134,0.3893,N
-burkeje01,4.0760,0.8325,N
-chesbja01,2.8066,0.2163,N
-falkecy01,2.3223,0.1446,N
-gleaski01,3.7904,0.5188,N
-grimebu01,2.4288,0.2484,N
-kerrdi01,1.9231,0.2797,N
-leevesa01,2.5527,0.2314,N
-luquedo01,1.8658,0.1717,N
-raymobu01,1.9338,0.0882,N
-rixeyep01,2.1931,0.1369,N
-rudoldi01,2.4577,0.1620,N
-rusieam01,3.5524,0.4292,N
-veachbo01,3.6551,0.5233,N
-wallabo01,3.6164,0.4436,N
-wrighge01,4.8646,1.1252,Y
-alexape01,2.5747,0.2191,Y
-sislege01,4.0229,0.6248,N
-wadderu01,2.6000,0.1488,N
-walshed01,2.3704,0.2026,N
-bresnro01,3.0989,0.4716,N
-brownmo01,2.3185,0.1886,N
-planked01,2.5508,0.2063,N
-pennohe01,1.9581,0.1742,N
-mcginjo01,2.7191,0.2285,N
-bendech01,2.2623,0.2012,N
-jossad01,2.7601,0.1554,N
-ruckena01,2.3958,0.1310,N
-adamsba01,2.1141,0.1639,N
-griffcl01,2.8454,0.4165,N
-marquru01,2.0653,0.1175,N
-vanceda01,2.1968,0.1538,N
-rusieam01,3.5524,0.4292,N
-tennefr02,3.8089,0.6409,N
-altroni01,2.3913,0.2261,N
-wallabo01,3.6164,0.4436,N
-woodjo02,2.8046,0.3822,N
-donlimi01,3.6740,0.6378,N
-lewisdu01,3.6676,0.4195,N
-nehfar01,1.9720,0.1940,N
-dinnebi01,2.7410,0.2374,N
-hoopeha01,3.8047,0.6189,N
-kerrdi01,1.9231,0.2797,N
-nichoki01,3.2142,0.4206,N
-bradlbi01,3.7166,0.5161,N
-burkeje01,4.0760,0.8325,N
-chesbja01,2.8066,0.2163,N
-coombja01,2.4130,0.2674,N
-rixeyep01,2.1931,0.1369,N
-coaklan01,2.3933,0.0933,N
-coopewi01,2.3551,0.2131,N
-covelst01,2.3459,0.1552,N
-cranddo01,1.7740,0.2180,N
-donovbi01,2.8366,0.3094,N
-ehmkeho01,2.3520,0.1655,N
-faberre01,1.8940,0.1463,N
-gleaski01,3.7904,0.5188,N
-grimebu01,2.4288,0.2484,N
-luquedo01,1.8658,0.1717,N
-marbefi01,1.2123,0.1089,N
-perduhu01,1.8634,0.1242,N
-ricesa01,3.8557,0.6298,N
-shockur01,1.9369,0.2160,N
-sislege01,4.0229,0.6248,Y
-wadderu01,2.6000,0.1488,N
-walshed01,2.3704,0.2026,N
-bresnro01,3.0989,0.4716,N
-brownmo01,2.3185,0.1886,N
-bendech01,2.2623,0.2012,N
-pennohe01,1.9581,0.1742,N
-mcginjo01,2.7191,0.2285,N
-jossad01,2.7601,0.1554,N
-planked01,2.5508,0.2063,N
-griffcl01,2.8454,0.4165,N
-vanceda01,2.1968,0.1538,N
-ruckena01,2.3958,0.1310,N
-adamsba01,2.1141,0.1639,N
-dinnebi01,2.7410,0.2374,N
-nichoki01,3.2142,0.4206,N
-altroni01,2.3913,0.2261,N
-chesbja01,2.8066,0.2163,N
-lewisdu01,3.6676,0.4195,N
-rusieam01,3.5524,0.4292,N
-donlimi01,3.6740,0.6378,N
-hoopeha01,3.8047,0.6189,N
-kerrdi01,1.9231,0.2797,N
-wallabo01,3.6164,0.4436,N
-marquru01,2.0653,0.1175,N
-faberre01,1.8940,0.1463,N
-tennefr02,3.8089,0.6409,N
-donovbi01,2.8366,0.3094,N
-ewingbu01,4.0783,0.8586,N
-woodjo02,2.8046,0.3822,N
-bradlbi01,3.7166,0.5161,N
-coopewi01,2.3551,0.2131,N
-frasech01,2.8734,0.2926,N
-gleaski01,3.7904,0.5188,N
-grimebu01,2.4288,0.2484,N
-hahnno01,2.9959,0.2664,N
-haineje01,2.0071,0.1357,N
-hoytwa01,1.9095,0.1424,N
-jonessa01,1.7433,0.2118,N
-luquedo01,1.8658,0.1717,N
-nehfar01,1.9720,0.1940,N
-peitzhe01,3.3395,0.4311,N
-perduhu01,1.8634,0.1242,N
-phillde01,2.5995,0.2546,N
-schacal01,0.9623,0.1698,N
-shockur01,1.9369,0.2160,N
-ansonca01,4.0733,0.7911,Y
-comisch01,4.1698,0.7151,Y
-cummica01,4.3279,0.5992,Y
-ewingbu01,4.0783,0.8586,Y
-radboch01,3.8086,0.4717,Y
-spaldal01,4.7640,1.0146,Y
-wadderu01,2.6000,0.1488,N
-walshed01,2.3704,0.2026,N
-pennohe01,1.9581,0.1742,N
-griffcl01,2.8454,0.4165,N
-brownmo01,2.3185,0.1886,N
-planked01,2.5508,0.2063,N
-mcginjo01,2.7191,0.2285,N
-bresnro01,3.0989,0.4716,N
-bendech01,2.2623,0.2012,N
-vanceda01,2.1968,0.1538,N
-jossad01,2.7601,0.1554,N
-ruckena01,2.3958,0.1310,N
-adamsba01,2.1141,0.1639,N
-nichoki01,3.2142,0.4206,N
-burkeje01,4.0760,0.8325,N
-martipe01,3.4626,0.6341,N
-wallabo01,3.6164,0.4436,N
-becklja01,3.9925,0.6706,N
-bradlbi01,3.7166,0.5161,N
-dinnebi01,2.7410,0.2374,N
-dunnja01,3.3102,0.4020,N
-faberre01,1.8940,0.1463,N
-hoytwa01,1.9095,0.1424,N
-kerrdi01,1.9231,0.2797,N
-lowebo01,3.8856,0.6221,N
-phillde01,2.5995,0.2546,N
-rusieam01,3.5524,0.4292,N
-schaege01,3.2904,0.4322,N
-tennefr02,3.8089,0.6409,N
-woodjo02,2.8046,0.3822,N
-wadderu01,2.6000,0.1488,N
-walshed01,2.3704,0.2026,N
-bresnro01,3.0989,0.4716,N
-griffcl01,2.8454,0.4165,N
-brownmo01,2.3185,0.1886,N
-pennohe01,1.9581,0.1742,N
-mcginjo01,2.7191,0.2285,N
-bendech01,2.2623,0.2012,N
-planked01,2.5508,0.2063,N
-grovele01,2.2116,0.1922,N
-hubbeca01,2.4075,0.1776,N
-jossad01,2.7601,0.1554,N
-vanceda01,2.1968,0.1538,N
-deandi01,2.2062,0.2338,N
-ruckena01,2.3958,0.1310,N
-adamsba01,2.1141,0.1639,N
-gomezle01,2.4565,0.1603,N
-nichoki01,3.2142,0.4206,N
-lyonste01,2.2170,0.2298,N
-donovbi01,2.8366,0.3094,N
-wallabo01,3.6164,0.4436,N
-burkeje01,4.0760,0.8325,N
-lowebo01,3.8856,0.6221,N
-phillde01,2.5995,0.2546,N
-camniho01,2.0767,0.1288,N
-dinnebi01,2.7410,0.2374,N
-donlimi01,3.6740,0.6378,N
-dunnja01,3.3102,0.4020,N
-gleaski01,3.7904,0.5188,N
-kerrdi01,1.9231,0.2797,N
-lewisdu01,3.6676,0.4195,N
-martipe01,3.4626,0.6341,N
-mungova01,1.9195,0.1366,N
-rixeyep01,2.1931,0.1369,N
-rootch01,1.7184,0.1361,N
-rusieam01,3.5524,0.4292,N
-seymocy01,3.7186,0.4823,N
-tanneje01,2.7866,0.3735,N
-vandejo01,1.7932,0.1518,N
-bresnro01,3.0989,0.4716,Y
-broutda01,4.0114,0.9103,Y
-kellyki01,4.0509,0.9326,Y
-orourji01,4.2546,0.8649,Y
-wadderu01,2.6000,0.1488,N
-walshed01,2.3704,0.2026,N
-walshed01,2.3704,0.2026,N
-hubbeca01,2.4075,0.1776,N
-wadderu01,2.6000,0.1488,N
-griffcl01,2.8454,0.4165,N
-hubbeca01,2.4075,0.1776,N
-griffcl01,2.8454,0.4165,N
-grovele01,2.2116,0.1922,N
-grovele01,2.2116,0.1922,N
-brownmo01,2.3185,0.1886,N
-mcginjo01,2.7191,0.2285,N
-brownmo01,2.3185,0.1886,N
-mcginjo01,2.7191,0.2285,N
-deandi01,2.2062,0.2338,N
-pennohe01,1.9581,0.1742,N
-deandi01,2.2062,0.2338,N
-bendech01,2.2623,0.2012,N
-bendech01,2.2623,0.2012,N
-planked01,2.5508,0.2063,N
-vanceda01,2.1968,0.1538,N
-foxxji01,3.5106,0.7557,N
-pennohe01,1.9581,0.1742,N
-jossad01,2.7601,0.1554,N
-ruckena01,2.3958,0.1310,N
-adamsba01,2.1141,0.1639,N
-marquru01,2.0653,0.1175,N
-woodjo02,2.8046,0.3822,N
-donovbi01,2.8366,0.3094,N
-gomezle01,2.4565,0.1603,N
-lyonste01,2.2170,0.2298,N
-burkeje01,4.0760,0.8325,N
-coombja01,2.4130,0.2674,N
-bradlbi01,3.7166,0.5161,N
-chesbja01,2.8066,0.2163,N
-clarkjo01,3.6154,0.4652,N
-dinnebi01,2.7410,0.2374,N
-dunnja01,3.3102,0.4020,N
-hoytwa01,1.9095,0.1424,N
-martipe01,3.4626,0.6341,N
-nichoki01,3.2142,0.4206,N
-phillde01,2.5995,0.2546,N
-sparktu01,2.5495,0.1438,N
-tanneje01,2.7866,0.3735,N
-tennefr01,3.7568,0.4865,N
-burkeje01,4.0760,0.8325,Y
-chesbja01,2.8066,0.2163,Y
-griffcl01,2.8454,0.4165,Y
-mccarto01,4.0220,0.8384,Y
-mcginjo01,2.7191,0.2285,Y
-planked01,2.5508,0.2063,Y
-wadderu01,2.6000,0.1488,Y
-walshed01,2.3704,0.2026,Y
-hubbeca01,2.4075,0.1776,Y
-grovele01,2.2116,0.1922,Y
-deandi01,2.2062,0.2338,N
-pennohe01,1.9581,0.1742,N
-bendech01,2.2623,0.2012,N
-vanceda01,2.1968,0.1538,N
-woodjo02,2.8046,0.3822,N
-adamsba01,2.1141,0.1639,N
-marquru01,2.0653,0.1175,N
-foxxji01,3.5106,0.7557,N
-rixeyep01,2.1931,0.1369,N
-dyered01,1.2171,0.2403,N
-gelbech01,3.2751,0.4543,N
-gomezle01,2.4565,0.1603,N
-haineje01,2.0071,0.1357,N
-kellyge01,3.6948,0.5049,N
-pennohe01,1.9581,0.1742,Y
-foxxji01,3.5106,0.7557,N
-deandi01,2.2062,0.2338,N
-vanceda01,2.1968,0.1538,N
-gomezle01,2.4565,0.1603,N
-lyonste01,2.2170,0.2298,N
-grimebu01,2.4288,0.2484,N
-hoytwa01,1.9095,0.1424,N
-martipe01,3.4626,0.6341,N
-marquru01,2.0653,0.1175,N
-bendech01,2.2623,0.2012,N
-dykesji01,3.5259,0.4855,N
-rixeyep01,2.1931,0.1369,N
-woodjo02,2.8046,0.3822,N
-adamsba01,2.1141,0.1639,N
-odoulle01,3.3649,0.6433,N
-ruffire01,2.1961,0.2347,N
-earnsge01,2.2069,0.1912,N
-faberre01,1.8940,0.1463,N
-rommeed01,1.6292,0.1578,N
-rootch01,1.7184,0.1361,N
-coombja01,2.4130,0.2674,N
-coopewi01,2.3551,0.2131,N
-covelst01,2.3459,0.1552,N
-fitzsfr01,2.2515,0.2183,N
-haineje01,2.0071,0.1357,N
-hoopeha01,3.8047,0.6189,N
-kellyge01,3.6948,0.5049,N
-quinnja01,1.7497,0.1167,N
-schacal01,0.9623,0.1698,N
-cadorle01,2.2902,0.1451,N
-derripa01,2.1762,0.1209,N
-ferrewe01,2.1460,0.3193,N
-fonsele01,3.6329,0.5528,N
-hallabi01,1.6982,0.1311,N
-kremera01,2.2233,0.1845,N
-mulcahu01,1.7399,0.1076,N
-mungova01,1.9195,0.1366,N
-oeschjo01,1.6366,0.0929,N
-ricesa01,3.8557,0.6298,N
-schumha02,1.9911,0.2222,N
-sherdbi01,1.7486,0.1749,N
-shockur01,1.9369,0.2160,N
-smithsh01,1.8609,0.1549,N
-foxxji01,3.5106,0.7557,N
-deandi01,2.2062,0.2338,N
-foxxji01,3.5106,0.7557,N
-deandi01,2.2062,0.2338,N
-vanceda01,2.1968,0.1538,N
-lyonste01,2.2170,0.2298,N
-ruffire01,2.1961,0.2347,N
-gomezle01,2.4565,0.1603,N
-martipe01,3.4626,0.6341,N
-vanceda01,2.1968,0.1538,N
-lyonste01,2.2170,0.2298,N
-grimebu01,2.4288,0.2484,N
-dykesji01,3.5259,0.4855,N
-hoytwa01,1.9095,0.1424,N
-faberre01,1.8940,0.1463,N
-adamsba01,2.1141,0.1639,N
-coopewi01,2.3551,0.2131,N
-hardeme01,2.0599,0.1524,N
-marquru01,2.0653,0.1175,N
-odoulle01,3.3649,0.6433,N
-rixeyep01,2.1931,0.1369,N
-ruffire01,2.1961,0.2347,N
-covelst01,2.3459,0.1552,N
-ricesa01,3.8557,0.6298,N
-bendech01,2.2623,0.2012,N
-earnsge01,2.2069,0.1912,N
-fitzsfr01,2.2515,0.2183,N
-gelbech01,3.2751,0.4543,N
-haineje01,2.0071,0.1357,N
-lucasre01,1.5865,0.1709,N
-rommeed01,1.6292,0.1578,N
-shockur01,1.9369,0.2160,N
-warnelo01,2.0959,0.1895,N
-chapmbe01,3.7729,0.6663,N
-ehmkeho01,2.3520,0.1655,N
-ferrewe01,2.1460,0.3193,N
-kellyge01,3.6948,0.5049,N
-kerrdi01,1.9231,0.2797,N
-nehfar01,1.9720,0.1940,N
-pruethu01,1.0047,0.0427,N
-ringji01,2.0895,0.1509,N
-rootch01,1.7184,0.1361,N
-sherdbi01,1.7486,0.1749,N
-toneyfr01,2.2143,0.1190,N
-brownmo01,2.3185,0.1886,Y
-nichoki01,3.2142,0.4206,Y
-foxxji01,3.5106,0.7557,N
-deandi01,2.2062,0.2338,N
-vanceda01,2.1968,0.1538,N
-lyonste01,2.2170,0.2298,N
-gomezle01,2.4565,0.1603,N
-ruffire01,2.1961,0.2347,N
-haineje01,2.0071,0.1357,N
-hoytwa01,1.9095,0.1424,N
-faberre01,1.8940,0.1463,N
-odoulle01,3.3649,0.6433,N
-martipe01,3.4626,0.6341,N
-adamsba01,2.1141,0.1639,N
-bendech01,2.2623,0.2012,N
-grimebu01,2.4288,0.2484,N
-rixeyep01,2.1931,0.1369,N
-waltebu01,2.7497,0.3175,N
-chandsp01,2.5972,0.2512,N
-dykesji01,3.5259,0.4855,N
-earnsge01,2.2069,0.1912,N
-fonsele01,3.6329,0.5528,N
-hardeme01,2.0599,0.1524,N
-hoopeha01,3.8047,0.6189,N
-nehfar01,1.9720,0.1940,N
-covelst01,2.3459,0.1552,N
-derripa01,2.1762,0.1209,N
-fitzsfr01,2.2515,0.2183,N
-gelbech01,3.2751,0.4543,N
-lucasre01,1.5865,0.1709,N
-luquedo01,1.8658,0.1717,N
-marbefi01,1.2123,0.1089,N
-moorete01,3.6210,0.5539,N
-pruethu01,1.0047,0.0427,N
-ricesa01,3.8557,0.6298,N
-rommeed01,1.6292,0.1578,N
-rootch01,1.7184,0.1361,N
-sherdbi01,1.7486,0.1749,N
-woodjo02,2.8046,0.3822,N
-foxxji01,3.5106,0.7557,Y
-deandi01,2.2062,0.2338,N
-lyonste01,2.2170,0.2298,N
-vanceda01,2.1968,0.1538,N
-bendech01,2.2623,0.2012,N
-gomezle01,2.4565,0.1603,N
-martipe01,3.4626,0.6341,N
-hoytwa01,1.9095,0.1424,N
-odoulle01,3.3649,0.6433,N
-adamsba01,2.1141,0.1639,N
-ruffire01,2.1961,0.2347,N
-faberre01,1.8940,0.1463,N
-grimebu01,2.4288,0.2484,N
-rixeyep01,2.1931,0.1369,N
-woodjo02,2.8046,0.3822,N
-nehfar01,1.9720,0.1940,N
-schacal01,0.9623,0.1698,N
-dykesji01,3.5259,0.4855,N
-hoopeha01,3.8047,0.6189,N
-kerrdi01,1.9231,0.2797,N
-marquru01,2.0653,0.1175,N
-lewisdu01,3.6676,0.4195,N
-chandsp01,2.5972,0.2512,N
-coombja01,2.4130,0.2674,N
-coopewi01,2.3551,0.2131,N
-derripa01,2.1762,0.1209,N
-ehmkeho01,2.3520,0.1655,N
-gelbech01,3.2751,0.4543,N
-hardeme01,2.0599,0.1524,N
-paigesa01,0.6927,0.0112,N
-pruethu01,1.0047,0.0427,N
-ricesa01,3.8557,0.6298,N
-rommeed01,1.6292,0.1578,N
-rudoldi01,2.4577,0.1620,N
-sherdbi01,1.7486,0.1749,N
-deandi01,2.2062,0.2338,N
-vanceda01,2.1968,0.1538,N
-lyonste01,2.2170,0.2298,N
-bendech01,2.2623,0.2012,N
-martipe01,3.4626,0.6341,N
-gomezle01,2.4565,0.1603,N
-odoulle01,3.3649,0.6433,N
-hoytwa01,1.9095,0.1424,N
-lewisdu01,3.6676,0.4195,N
-hardeme01,2.0599,0.1524,N
-ruffire01,2.1961,0.2347,N
-adamsba01,2.1141,0.1639,N
-faberre01,1.8940,0.1463,N
-grimebu01,2.4288,0.2484,N
-kerrdi01,1.9231,0.2797,N
-marquru01,2.0653,0.1175,N
-dykesji01,3.5259,0.4855,N
-nehfar01,1.9720,0.1940,N
-rixeyep01,2.1931,0.1369,N
-waltebu01,2.7497,0.3175,N
-coopewi01,2.3551,0.2131,N
-rommeed01,1.6292,0.1578,N
-chapmbe01,3.7729,0.6663,N
-ehmkeho01,2.3520,0.1655,N
-luquedo01,1.8658,0.1717,N
-pruethu01,1.0047,0.0427,N
-ricesa01,3.8557,0.6298,N
-deandi01,2.2062,0.2338,Y
-vanceda01,2.1968,0.1538,N
-lyonste01,2.2170,0.2298,N
-bendech01,2.2623,0.2012,N
-martipe01,3.4626,0.6341,N
-gomezle01,2.4565,0.1603,N
-ruffire01,2.1961,0.2347,N
-lewisdu01,3.6676,0.4195,N
-marquru01,2.0653,0.1175,N
-adamsba01,2.1141,0.1639,N
-hoytwa01,1.9095,0.1424,N
-kerrdi01,1.9231,0.2797,N
-odoulle01,3.3649,0.6433,N
-waltebu01,2.7497,0.3175,N
-coopewi01,2.3551,0.2131,N
-faberre01,1.8940,0.1463,N
-grimebu01,2.4288,0.2484,N
-hardeme01,2.0599,0.1524,N
-dykesji01,3.5259,0.4855,N
-haineje01,2.0071,0.1357,N
-nehfar01,1.9720,0.1940,N
-ehmkeho01,2.3520,0.1655,N
-ricesa01,3.8557,0.6298,N
-rixeyep01,2.1931,0.1369,N
-altroni01,2.3913,0.2261,N
-luquedo01,1.8658,0.1717,N
-moorete01,3.6210,0.5539,N
-pruethu01,1.0047,0.0427,N
-rommeed01,1.6292,0.1578,N
-schaege01,3.2904,0.4322,N
-sherdbi01,1.7486,0.1749,N
-bendech01,2.2623,0.2012,Y
-wallabo01,3.6164,0.4436,Y
-wrighha01,4.5333,1.0167,Y
-lyonste01,2.2170,0.2298,N
-vanceda01,2.1968,0.1538,N
-gomezle01,2.4565,0.1603,N
-ruffire01,2.1961,0.2347,N
-lewisdu01,3.6676,0.4195,N
-marquru01,2.0653,0.1175,N
-hoytwa01,1.9095,0.1424,N
-adamsba01,2.1141,0.1639,N
-kerrdi01,1.9231,0.2797,N
-faberre01,1.8940,0.1463,N
-ricesa01,3.8557,0.6298,N
-coopewi01,2.3551,0.2131,N
-nehfar01,1.9720,0.1940,N
-haineje01,2.0071,0.1357,N
-rixeyep01,2.1931,0.1369,N
-ehmkeho01,2.3520,0.1655,N
-altroni01,2.3913,0.2261,N
-lyonste01,2.2170,0.2298,Y
-vanceda01,2.1968,0.1538,Y
-gomezle01,2.4565,0.1603,N
-ruffire01,2.1961,0.2347,N
-marquru01,2.0653,0.1175,N
-lewisdu01,3.6676,0.4195,N
-hoytwa01,1.9095,0.1424,N
-ricesa01,3.8557,0.6298,N
-faberre01,1.8940,0.1463,N
-kerrdi01,1.9231,0.2797,N
-adamsba01,2.1141,0.1639,N
-coopewi01,2.3551,0.2131,N
-haineje01,2.0071,0.1357,N
-rixeyep01,2.1931,0.1369,N
-nehfar01,1.9720,0.1940,N
-grimebu01,2.4288,0.2484,N
-earnsge01,2.2069,0.1912,N
-allenjo02,1.9616,0.2247,N
-derripa01,2.1762,0.1209,N
-dykesji01,3.5259,0.4855,N
-jonessa01,1.7433,0.2118,N
-schumha02,1.9911,0.2222,N
-sherdbi01,1.7486,0.1749,N
-ruffire01,2.1961,0.2347,N
-gomezle01,2.4565,0.1603,N
-ricesa01,3.8557,0.6298,N
-hoytwa01,1.9095,0.1424,N
-faberre01,1.8940,0.1463,N
-rixeyep01,2.1931,0.1369,N
-grimebu01,2.4288,0.2484,N
-haineje01,2.0071,0.1357,N
-derripa01,2.1762,0.1209,N
-ehmkeho01,2.3520,0.1655,N
-ferrewe01,2.1460,0.3193,N
-martipe01,3.4626,0.6341,N
-odoulle01,3.3649,0.6433,N
-waltebu01,2.7497,0.3175,N
-cramedo01,4.0822,0.6061,N
-bridgto01,2.3656,0.1958,N
-earnsge01,2.2069,0.1912,N
-fitzsfr01,2.2515,0.2183,N
-vandejo01,1.7932,0.1518,N
-bushgu01,1.6324,0.1048,N
-coopemo01,2.2020,0.1684,N
-fonsele01,3.6329,0.5528,N
-kellyge01,3.6948,0.5049,N
-schumha02,1.9911,0.2222,N
-tobinji01,2.0101,0.2045,N
-altroni01,2.3913,0.2261,N
-chandsp01,2.5972,0.2512,N
-dinnebi01,2.7410,0.2374,N
-dykesji01,3.5259,0.4855,N
-hallabi01,1.6982,0.1311,N
-jonessa01,1.7433,0.2118,N
-luquedo01,1.8658,0.1717,N
-quinnja01,1.7497,0.1167,N
-reynoal01,1.8042,0.1179,N
-schacal01,0.9623,0.1698,N
-sherdbi01,1.7486,0.1749,N
-turneji01,1.6765,0.1345,N
-uhlege01,1.8837,0.2382,N
-whiteea01,2.3558,0.1953,N
-ruffire01,2.1961,0.2347,N
-ricesa01,3.8557,0.6298,N
-gomezle01,2.4565,0.1603,N
-grimebu01,2.4288,0.2484,N
-faberre01,1.8940,0.1463,N
-martipe01,3.4626,0.6341,N
-hoytwa01,1.9095,0.1424,N
-vandejo01,1.7932,0.1518,N
-covelst01,2.3459,0.1552,N
-waltebu01,2.7497,0.3175,N
-rixeyep01,2.1931,0.1369,N
-odoulle01,3.3649,0.6433,N
-dykesji01,3.5259,0.4855,N
-haineje01,2.0071,0.1357,N
-altroni01,2.3913,0.2261,N
-fitzsfr01,2.2515,0.2183,N
-derripa01,2.1762,0.1209,N
-luquedo01,1.8658,0.1717,N
-nehfar01,1.9720,0.1940,N
-moorete01,3.6210,0.5539,N
-rowesc01,1.8513,0.2363,N
-bridgto01,2.3656,0.1958,N
-ferrewe01,2.1460,0.3193,N
-quinnja01,1.7497,0.1167,N
-ehmkeho01,2.3520,0.1655,N
-rommeed01,1.6292,0.1578,N
-hardeme01,2.0599,0.1524,N
-maysca01,2.1614,0.2251,N
-rootch01,1.7184,0.1361,N
-bushjo01,2.1325,0.2203,N
-groveor01,1.8019,0.1111,N
-marbefi01,1.2123,0.1089,N
-shockur01,1.9369,0.2160,N
-uhlege01,1.8837,0.2382,N
-coopemo01,2.2020,0.1684,N
-doakbi01,1.9978,0.0883,N
-fonsele01,3.6329,0.5528,N
-cramedo01,4.0822,0.6061,N
-kellyge01,3.6948,0.5049,N
-kremera01,2.2233,0.1845,N
-meadole01,2.2430,0.1606,N
-mungova01,1.9195,0.1366,N
-sherdbi01,1.7486,0.1749,N
-warnelo01,2.0959,0.1895,N
-whiteea01,2.3558,0.1953,N
-bentola01,1.5974,0.1169,N
-crowdal01,2.1017,0.1638,N
-daviscu01,1.8107,0.1559,N
-ellioju01,1.6443,0.1028,N
-hallabi01,1.6982,0.1311,N
-kressre01,3.6571,0.4968,N
-lucasre01,1.5865,0.1709,N
-pearsmo01,2.2800,0.2578,N
-schumha02,1.9911,0.2222,N
-scottja01,1.6667,0.1642,N
-sewelri01,1.7730,0.1915,N
-spahnwa01,2.3908,0.1801,N
-walberu01,1.6545,0.1426,N
-wyattwh01,1.6585,0.1448,N
-zachato01,2.0549,0.1447,N
-ricesa01,3.8557,0.6298,N
-rixeyep01,2.1931,0.1369,N
-grimebu01,2.4288,0.2484,N
-ruffire01,2.1961,0.2347,N
-faberre01,1.8940,0.1463,N
-gomezle01,2.4565,0.1603,N
-odoulle01,3.3649,0.6433,N
-vandejo01,1.7932,0.1518,N
-hoytwa01,1.9095,0.1424,N
-martipe01,3.4626,0.6341,N
-dykesji01,3.5259,0.4855,N
-reynoal01,1.8042,0.1179,N
-haineje01,2.0071,0.1357,N
-waltebu01,2.7497,0.3175,N
-altroni01,2.3913,0.2261,N
-fitzsfr01,2.2515,0.2183,N
-ehmkeho01,2.3520,0.1655,N
-hardeme01,2.0599,0.1524,N
-rommeed01,1.6292,0.1578,N
-schumha02,1.9911,0.2222,N
-derripa01,2.1762,0.1209,N
-ferrewe01,2.1460,0.3193,N
-brechha01,2.0966,0.1495,N
-groveor01,1.8019,0.1111,N
-moorete01,3.6210,0.5539,N
-grovele01,2.2116,0.1922,N
-newsobo01,2.1954,0.1412,N
-kellyge01,3.6948,0.5049,N
-bridgto01,2.3656,0.1958,N
-luquedo01,1.8658,0.1717,N
-uhlege01,1.8837,0.2382,N
-warnelo01,2.0959,0.1895,N
-whiteha01,0.7567,0.0445,N
-fonsele01,3.6329,0.5528,N
-kressre01,3.6571,0.4968,N
-rowesc01,1.8513,0.2363,N
-whiteea01,2.3558,0.1953,N
-hallabi01,1.6982,0.1311,N
-leonadu02,1.6469,0.0828,N
-marbefi01,1.2123,0.1089,N
-mungova01,1.9195,0.1366,N
-quinnja01,1.7497,0.1167,N
-rootch01,1.7184,0.1361,N
-sherdbi01,1.7486,0.1749,N
-coopemo01,2.2020,0.1684,N
-cramedo01,4.0822,0.6061,N
-crowdal01,2.1017,0.1638,N
-jossad01,2.7601,0.1554,N
-roepr01,1.8619,0.1111,N
-walberu01,1.6545,0.1426,N
-zachato01,2.0549,0.1447,N
-fellebo01,2.2491,0.1737,Y
-ricesa01,3.8557,0.6298,N
-ruffire01,2.1961,0.2347,N
-rixeyep01,2.1931,0.1369,N
-grimebu01,2.4288,0.2484,N
-faberre01,1.8940,0.1463,N
-gomezle01,2.4565,0.1603,N
-hoytwa01,1.9095,0.1424,N
-reynoal01,1.8042,0.1179,N
-odoulle01,3.3649,0.6433,N
-hardeme01,2.0599,0.1524,N
-dykesji01,3.5259,0.4855,N
-martipe01,3.4626,0.6341,N
-whiteea01,2.3558,0.1953,N
-vandejo01,1.7932,0.1518,N
-waltebu01,2.7497,0.3175,N
-newhoha01,2.0305,0.1443,N
-haineje01,2.0071,0.1357,N
-newsobo01,2.1954,0.1412,N
-chandsp01,2.5972,0.2512,N
-marbefi01,1.2123,0.1089,N
-warnelo01,2.0959,0.1895,N
-bridgto01,2.3656,0.1958,N
-cramedo01,4.0822,0.6061,N
-ferrewe01,2.1460,0.3193,N
-fitzsfr01,2.2515,0.2183,N
-hutchfr01,1.8362,0.2006,N
-kellyge01,3.6948,0.5049,N
-moorete01,3.6210,0.5539,N
-raschvi01,2.2602,0.1673,N
-roepr01,1.8619,0.1111,N
-sainjo01,1.7875,0.1594,N
-schumha02,1.9911,0.2222,N
-sewelri01,1.7730,0.1915,N
-clarkjo01,3.6154,0.4652,Y
-ricesa01,3.8557,0.6298,Y
-rixeyep01,2.1931,0.1369,Y
-ruffire01,2.1961,0.2347,N
-ruffire01,2.1961,0.2347,N
-hardeme01,2.0599,0.1524,N
-vandejo01,1.7932,0.1518,N
-reynoal01,1.8042,0.1179,N
-waltebu01,2.7497,0.3175,N
-newhoha01,2.0305,0.1443,N
-lemonbo01,1.9236,0.2407,N
-vandejo01,1.7932,0.1518,N
-martipe01,3.4626,0.6341,N
-newsobo01,2.1954,0.1412,N
-bridgto01,2.3656,0.1958,N
-moorete01,3.6210,0.5539,N
-hardeme01,2.0599,0.1524,N
-maglisa01,1.8520,0.0954,N
-warnelo01,2.0959,0.1895,N
-cramedo01,4.0822,0.6061,N
-hutchfr01,1.8362,0.2006,N
-schumha02,1.9911,0.2222,N
-raschvi01,2.2602,0.1673,N
-waltebu01,2.7497,0.3175,N
-chandsp01,2.5972,0.2512,N
-reynoal01,1.8042,0.1179,N
-martipe01,3.4626,0.6341,N
-truckvi01,1.8356,0.1219,N
-kindeel01,0.9174,0.0702,N
-sainjo01,1.7875,0.1594,N
-lemonbo01,1.9236,0.2407,N
-newhoha01,2.0305,0.1443,N
-houttar01,1.5545,0.1121,N
-gromest01,1.3404,0.1234,N
-kuzavbo01,1.1963,0.0981,N
-sewelri01,1.7730,0.1915,N
-troutdi01,1.7963,0.1850,N
-bridgto01,2.3656,0.1958,N
-newsobo01,2.1954,0.1412,N
-faberre01,1.8940,0.1463,Y
-grimebu01,2.4288,0.2484,Y
-keefeti01,3.3706,0.4013,Y
-wardjo01,4.1901,0.7715,Y
-galvipu01,3.7592,0.3803,Y
-willite01,3.3621,0.7845,Y
-ruffire01,2.1961,0.2347,N
-vandejo01,1.7932,0.1518,N
-reynoal01,1.8042,0.1179,N
-waltebu01,2.7497,0.3175,N
-hardeme01,2.0599,0.1524,N
-newhoha01,2.0305,0.1443,N
-newsobo01,2.1954,0.1412,N
-lemonbo01,1.9236,0.2407,N
-darkal01,3.9491,0.5821,N
-bridgto01,2.3656,0.1958,N
-newcodo01,1.9425,0.2080,N
-erskica01,1.6333,0.1417,N
-grissma01,0.5309,0.0253,N
-martimo01,0.6600,0.0600,N
-hearnji01,1.3598,0.1092,N
-portebo01,1.6025,0.1056,N
-ruffire01,2.1961,0.2347,Y
-ruffire01,2.1961,0.2347,N
-vandejo01,1.7932,0.1518,N
-reynoal01,1.8042,0.1179,N
-waltebu01,2.7497,0.3175,N
-newhoha01,2.0305,0.1443,N
-hardeme01,2.0599,0.1524,N
-darkal01,3.9491,0.5821,N
-lemonbo01,1.9236,0.2407,N
-vandejo01,1.7932,0.1518,N
-waltebu01,2.7497,0.3175,N
-newsobo01,2.1954,0.1412,N
-reynoal01,1.8042,0.1179,N
-newcodo01,1.9425,0.2080,N
-hardeme01,2.0599,0.1524,N
-newhoha01,2.0305,0.1443,N
-darkal01,3.9491,0.5821,N
-lemonbo01,1.9236,0.2407,N
-newsobo01,2.1954,0.1412,N
-moorete01,3.6210,0.5539,N
-newcodo01,1.9425,0.2080,N
-garvene01,1.8057,0.1900,N
-hearnji01,1.3598,0.1092,N
-reynoal01,1.8042,0.1179,N
-vandejo01,1.7932,0.1518,N
-newhoha01,2.0305,0.1443,N
-waltebu01,2.7497,0.3175,N
-lemonbo01,1.9236,0.2407,N
-darkal01,3.9491,0.5821,N
-moorete01,3.6210,0.5539,N
-newsobo01,2.1954,0.1412,N
-maglisa01,1.8520,0.0954,N
-erskica01,1.6333,0.1417,N
-newcodo01,1.9425,0.2080,N
-sainjo01,1.7875,0.1594,N
-rowesc01,1.8513,0.2363,N
-blackew01,1.8692,0.1308,N
-leonadu02,1.6469,0.0828,N
-brechha01,2.0966,0.1495,N
-lopated01,2.4846,0.2437,N
-roepr01,1.8619,0.1111,N
-raschvi01,2.2602,0.1673,N
-musiast01,3.6259,0.6441,Y
-reynoal01,1.8042,0.1179,N
-vandejo01,1.7932,0.1518,N
-wynnea01,2.1407,0.1709,N
-newhoha01,2.0305,0.1443,N
-lemonbo01,1.9236,0.2407,N
-darkal01,3.9491,0.5821,N
-newsobo01,2.1954,0.1412,N
-waltebu01,2.7497,0.3175,N
-rowesc01,1.8513,0.2363,N
-blackew01,1.8692,0.1308,N
-sainjo01,1.7875,0.1594,N
-erskica01,1.6333,0.1417,N
-leonadu02,1.6469,0.0828,N
-coopemo01,2.2020,0.1684,N
-newcodo01,1.9425,0.2080,N
-raschvi01,2.2602,0.1673,N
-brechha01,2.0966,0.1495,N
-lopated01,2.4846,0.2437,N
-covelst01,2.3459,0.1552,Y
-hoytwa01,1.9095,0.1424,Y
-wynnea01,2.1407,0.1709,N
-reynoal01,1.8042,0.1179,N
-vandejo01,1.7932,0.1518,N
-newhoha01,2.0305,0.1443,N
-lemonbo01,1.9236,0.2407,N
-darkal01,3.9491,0.5821,N
-waltebu01,2.7497,0.3175,N
-blackew01,1.8692,0.1308,N
-newsobo01,2.1954,0.1412,N
-sainjo01,1.7875,0.1594,N
-shantbo01,0.9481,0.1038,N
-leonadu02,1.6469,0.0828,N
-newcodo01,1.9425,0.2080,N
-piercbi02,1.7890,0.1526,N
-brechha01,2.0966,0.1495,N
-erskica01,1.6333,0.1417,N
-lopated01,2.4846,0.2437,N
-roepr01,1.8619,0.1111,N
-haineje01,2.0071,0.1357,Y
-wynnea01,2.1407,0.1709,N
-reynoal01,1.8042,0.1179,N
-vandejo01,1.7932,0.1518,N
-newhoha01,2.0305,0.1443,N
-lemonbo01,1.9236,0.2407,N
-darkal01,3.9491,0.5821,N
-newsobo01,2.1954,0.1412,N
-sainjo01,1.7875,0.1594,N
-haddiha01,1.5028,0.1789,N
-newcodo01,1.9425,0.2080,N
-brechha01,2.0966,0.1495,N
-piercbi02,1.7890,0.1526,N
-shantbo01,0.9481,0.1038,N
-lopated01,2.4846,0.2437,N
-erskica01,1.6333,0.1417,N
-leonadu02,1.6469,0.0828,N
-roepr01,1.8619,0.1111,N
-raschvi01,2.2602,0.1673,N
-becklja01,3.9925,0.6706,Y
-hoopeha01,3.8047,0.6189,Y
-marquru01,2.0653,0.1175,Y
-paigesa01,0.6927,0.0112,Y
-koufasa01,1.9547,0.0655,Y
-wynnea01,2.1407,0.1709,Y
-lemonbo01,1.9236,0.2407,N
-reynoal01,1.8042,0.1179,N
-newhoha01,2.0305,0.1443,N
-darkal01,3.9491,0.5821,N
-newsobo01,2.1954,0.1412,N
-sainjo01,1.7875,0.1594,N
-haddiha01,1.5028,0.1789,N
-shantbo01,0.9481,0.1038,N
-newcodo01,1.9425,0.2080,N
-brechha01,2.0966,0.1495,N
-leonadu02,1.6469,0.0828,N
-erskica01,1.6333,0.1417,N
-piercbi02,1.7890,0.1526,N
-raschvi01,2.2602,0.1673,N
-lopated01,2.4846,0.2437,N
-roepr01,1.8619,0.1111,N
-gomezle01,2.4565,0.1603,Y
-spahnwa01,2.3908,0.1801,Y
-fordwh01,2.0460,0.1820,N
-roberro01,2.2166,0.1555,N
-lemonbo01,1.9236,0.2407,N
-reynoal01,1.8042,0.1179,N
-newhoha01,2.0305,0.1443,N
-darkal01,3.9491,0.5821,N
-sainjo01,1.7875,0.1594,N
-newsobo01,2.1954,0.1412,N
-burdele01,1.5180,0.1517,N
-newcodo01,1.9425,0.2080,N
-lawve01,1.7112,0.1860,N
-raschvi01,2.2602,0.1673,N
-leonadu02,1.6469,0.0828,N
-shantbo01,0.9481,0.1038,N
-simmocu01,1.8637,0.1527,N
-erskica01,1.6333,0.1417,N
-piercbi02,1.7890,0.1526,N
-brechha01,2.0966,0.1495,N
-haddiha01,1.5028,0.1789,N
-kellyge01,3.6948,0.5049,Y
-welchmi01,3.6320,0.4422,Y
-fordwh01,2.0460,0.1820,Y
-roberro01,2.2166,0.1555,N
-lemonbo01,1.9236,0.2407,N
-reynoal01,1.8042,0.1179,N
-newhoha01,2.0305,0.1443,N
-darkal01,3.9491,0.5821,N
-sainjo01,1.7875,0.1594,N
-larsedo01,1.2417,0.1354,N
-erskica01,1.6333,0.1417,N
-haddiha01,1.5028,0.1789,N
-burdele01,1.5180,0.1517,N
-newcodo01,1.9425,0.2080,N
-lawve01,1.7112,0.1860,N
-piercbi02,1.7890,0.1526,N
-raschvi01,2.2602,0.1673,N
-shantbo01,0.9481,0.1038,N
-simmocu01,1.8637,0.1527,N
-colavro01,3.5323,0.5274,N
-roberro01,2.2166,0.1555,N
-lemonbo01,1.9236,0.2407,N
-newhoha01,2.0305,0.1443,N
-sainjo01,1.7875,0.1594,N
-drysddo01,2.1371,0.1755,N
-darkal01,3.9491,0.5821,N
-raschvi01,2.2602,0.1673,N
-larsedo01,1.2417,0.1354,N
-burdele01,1.5180,0.1517,N
-newcodo01,1.9425,0.2080,N
-haddiha01,1.5028,0.1789,N
-whitewi01,3.6675,0.4144,N
-lawve01,1.7112,0.1860,N
-podrejo01,1.6494,0.1320,N
-colavro01,3.5323,0.5274,N
-roberro01,2.2166,0.1555,Y
-lemonbo01,1.9236,0.2407,Y
-drysddo01,2.1371,0.1755,N
-darkal01,3.9491,0.5821,N
-larsedo01,1.2417,0.1354,N
-facero01,0.2274,0.0106,N
-burdele01,1.5180,0.1517,N
-newcodo01,1.9425,0.2080,N
-lawve01,1.7112,0.1860,N
-haddiha01,1.5028,0.1789,N
-whitewi01,3.6675,0.4144,N
-podrejo01,1.6494,0.1320,N
-drysddo01,2.1371,0.1755,N
-bunniji01,2.1215,0.1364,N
-burdele01,1.5180,0.1517,N
-darkal01,3.9491,0.5821,N
-newcodo01,1.9425,0.2080,N
-larsedo01,1.2417,0.1354,N
-facero01,0.2274,0.0106,N
-haddiha01,1.5028,0.1789,N
-lawve01,1.7112,0.1860,N
-whitewi01,3.6675,0.4144,N
-pascuca02,1.7841,0.1310,N
-podrejo01,1.6494,0.1320,N
-rusieam01,3.5524,0.4292,Y
-drysddo01,2.1371,0.1755,N
-bunniji01,2.1215,0.1364,N
-wilheho01,0.4037,0.0224,N
-burdele01,1.5180,0.1517,N
-darkal01,3.9491,0.5821,N
-newcodo01,1.9425,0.2080,N
-larsedo01,1.2417,0.1354,N
-facero01,0.2274,0.0106,N
-haddiha01,1.5028,0.1789,N
-lawve01,1.7112,0.1860,N
-malonji01,1.9564,0.1589,N
-mclaide01,2.1614,0.1123,N
-pascuca02,1.7841,0.1310,N
-grantmu01,1.1379,0.1199,N
-ramospe01,1.0101,0.1092,N
-jossad01,2.7601,0.1554,Y
-drysddo01,2.1371,0.1755,N
-wilheho01,0.4037,0.0224,N
-bunniji01,2.1215,0.1364,N
-darkal01,3.9491,0.5821,N
-burdele01,1.5180,0.1517,N
-larsedo01,1.2417,0.1354,N
-newcodo01,1.9425,0.2080,N
-facero01,0.2274,0.0106,N
-lawve01,1.7112,0.1860,N
-haddiha01,1.5028,0.1789,N
-perraro01,0.2266,0.0081,N
-pappami01,2.0361,0.1366,N
-mclaide01,2.1614,0.1123,N
-malonji01,1.9564,0.1589,N
-shortch02,1.3775,0.0573,N
-bolinbo01,0.8528,0.0786,N
-culpra01,1.8696,0.1242,N
-fisheed02,0.3565,0.0159,N
-gladdfr01,0.1400,0.0022,N
-stephjo03,0.0000,0.0000,N
-drysddo01,2.1371,0.1755,N
-wilheho01,0.4037,0.0224,N
-bunniji01,2.1215,0.1364,N
-burdele01,1.5180,0.1517,N
-newcodo01,1.9425,0.2080,N
-darkal01,3.9491,0.5821,N
-larsedo01,1.2417,0.1354,N
-facero01,0.2274,0.0106,N
-alouma01,3.4727,0.4679,N
-stottme01,2.0464,0.1475,N
-blassst01,1.8508,0.1424,N
-hickmji02,2.7966,0.3645,N
-mcmahdo02,0.1922,0.0092,N
-akerja01,0.1855,0.0060,N
-barbest01,1.2082,0.0515,N
-krausle02,1.0599,0.0689,N
-linzyfr01,0.2345,0.0097,N
-millebo04,0.4229,0.0113,N
-pizarju01,1.3266,0.1452,N
-rayji01,0.3786,0.0129,N
-richepe01,0.6659,0.0471,N
-selmadi01,0.6265,0.0401,N
-vealebo01,1.5789,0.0652,N
-gibsobo01,2.2282,0.2215,Y
-drysddo01,2.1371,0.1755,N
-wilheho01,0.4037,0.0224,N
-maricju01,2.5705,0.1537,N
-bunniji01,2.1215,0.1364,N
-burdele01,1.5180,0.1517,N
-larsedo01,1.2417,0.1354,N
-facero01,0.2274,0.0106,N
-perryji01,1.4000,0.1150,N
-mcnalda01,1.7200,0.1153,N
-osteecl01,1.8690,0.1531,N
-mcdanli01,0.3826,0.0192,N
-siebeso01,1.6296,0.1284,N
-handsbi01,1.2620,0.0508,N
-lockebo01,0.5833,0.0714,N
-mcdowsa01,1.8042,0.0793,N
-maricju01,2.5705,0.1537,N
-wilheho01,0.4037,0.0224,N
-drysddo01,2.1371,0.1755,N
-bunniji01,2.1215,0.1364,N
-burdele01,1.5180,0.1517,N
-larsedo01,1.2417,0.1354,N
-facero01,0.2274,0.0106,N
-mcnalda01,1.7200,0.1153,N
-mcdanli01,0.3826,0.0192,N
-breweji01,0.2389,0.0034,N
-osteecl01,1.8690,0.1531,N
-siebeso01,1.6296,0.1284,N
-tovarce01,3.7426,0.5605,N
-maricju01,2.5705,0.1537,Y
-wilheho01,0.4037,0.0224,N
-drysddo01,2.1371,0.1755,N
-bunniji01,2.1215,0.1364,N
-burdele01,1.5180,0.1517,N
-facero01,0.2274,0.0106,N
-larsedo01,1.2417,0.1354,N
-perryji01,1.4000,0.1150,N
-sadecra01,1.3441,0.1005,N
-giustda01,0.6006,0.0423,N
-cuellmi01,1.4496,0.0811,N
-dierkla01,2.2101,0.1064,N
-dobsopa01,0.7657,0.0314,N
-downial01,1.7531,0.0880,N
-hoernjo01,0.1197,0.0041,N
-nolanga01,2.0992,0.1429,N
-rojasco01,3.4627,0.3919,N
-seguidi01,0.6000,0.0406,N
-singebi01,1.2747,0.0617,N
-drysddo01,2.1371,0.1755,Y
-wilheho01,0.4037,0.0224,N
-bunniji01,2.1215,0.1364,N
-burdele01,1.5180,0.1517,N
-facero01,0.2274,0.0106,N
-larsedo01,1.2417,0.1354,N
-woodwi01,0.4946,0.0169,N
-boutoji01,1.1303,0.0261,N
-brilene01,1.0376,0.0642,N
-carrocl02,0.2845,0.0233,N
-colboji01,0.1821,0.0000,N
-wilheho01,0.4037,0.0224,Y
-bunniji01,2.1215,0.1364,N
-hunteca01,1.2777,0.1165,N
-burdele01,1.5180,0.1517,N
-lolicmi01,1.3868,0.1064,N
-facero01,0.2274,0.0106,N
-larsedo01,1.2417,0.1354,N
-woodwi01,0.4946,0.0169,N
-haddiha01,1.5028,0.1789,N
-mcnalda01,1.7200,0.1153,N
-holtzke01,1.3311,0.0768,N
-lonboji01,1.8075,0.0962,N
-messean01,2.0652,0.1388,N
-mclaide01,2.1614,0.1123,N
-ellisdo01,1.2603,0.1082,N
-carrocl02,0.2845,0.0233,N
-hunteca01,1.2777,0.1165,N
-bunniji01,2.1215,0.1364,N
-burdele01,1.5180,0.1517,N
-lolicmi01,1.3868,0.1064,N
-facero01,0.2274,0.0106,N
-larsedo01,1.2417,0.1354,N
-woodwi01,0.4946,0.0169,N
-mcnalda01,1.7200,0.1153,N
-hillejo01,0.1850,0.0037,N
-richajr01,2.3096,0.1632,N
-holtzke01,1.3311,0.0768,N
-lonboji01,1.8075,0.0962,N
-messean01,2.0652,0.1388,N
-billija01,1.1744,0.0441,N
-davalvi01,2.7551,0.3491,N
-knowlda01,0.1632,0.0026,N
-hunteca01,1.2777,0.1165,Y
-bunniji01,2.1215,0.1364,N
-burdele01,1.5180,0.1517,N
-lolicmi01,1.3868,0.1064,N
-facero01,0.2274,0.0106,N
-larsedo01,1.2417,0.1354,N
-woodwi01,0.4946,0.0169,N
-marshmi01,0.2469,0.0152,N
-bandosa01,3.4968,0.4864,N
-stonest01,0.6441,0.0265,N
-bunniji01,2.1215,0.1364,N
-tiantlu01,0.8953,0.0628,N
-lolicmi01,1.3868,0.1064,N
-facero01,0.2274,0.0106,N
-lylesp01,0.0868,0.0089,N
-larsedo01,1.2417,0.1354,N
-woodwi01,0.4946,0.0169,N
-leebi03,0.4702,0.0286,N
-hraboal01,0.1026,0.0073,N
-bahnsst01,0.8330,0.0383,N
-grimsro02,1.0202,0.0607,N
-jacksgr01,0.3287,0.0279,N
-jonesra01,1.8777,0.1160,N
-mcgloly01,1.4250,0.0938,N
-medicdo01,0.1720,0.0096,N
-wiseri01,1.3072,0.1174,N
-perryga01,1.3672,0.0610,N
-bunniji01,2.1215,0.1364,N
-jenkife01,1.3474,0.0812,N
-kaatji01,1.2460,0.1165,N
-facero01,0.2274,0.0106,N
-lolicmi01,1.3868,0.1064,N
-tiantlu01,0.8953,0.0628,N
-lylesp01,0.0868,0.0089,N
-campabe01,3.7302,0.5073,N
-woodwi01,0.4946,0.0169,N
-barrji01,1.0665,0.0582,N
-frymawo01,0.9744,0.0352,N
-goltzda01,0.2640,0.0028,N
-matlajo01,1.2182,0.0884,N
-mayru01,0.6362,0.0224,N
-palmeji01,0.8490,0.0903,Y
-perryga01,1.3672,0.0610,N
-jenkife01,1.3474,0.0812,N
-bunniji01,2.1215,0.1364,N
-kaatji01,1.2460,0.1165,N
-facero01,0.2274,0.0106,N
-tiantlu01,0.8953,0.0628,N
-lolicmi01,1.3868,0.1064,N
-lylesp01,0.0868,0.0089,N
-mcgratu01,0.2591,0.0169,N
-bibbyji01,0.6129,0.0440,N
-torremi01,0.8257,0.0481,N
-caldwmi01,0.4528,0.0231,N
-splitpa01,0.2814,0.0279,N
-tidrodi01,0.1532,0.0097,N
-perryga01,1.3672,0.0610,Y
-jenkife01,1.3474,0.0812,Y
-fingero01,0.1905,0.0106,N
-bunniji01,2.1215,0.1364,N
-kaatji01,1.2460,0.1165,N
-lolicmi01,1.3868,0.1064,N
-tiantlu01,0.8953,0.0628,N
-lylesp01,0.0868,0.0089,N
-koosmje01,1.4951,0.0588,N
-hootobu01,1.5551,0.0873,N
-bailobo01,3.0754,0.3550,N
-gurala01,0.0815,0.0025,N
-kisonbr01,1.0412,0.0799,N
-rogerst01,2.1700,0.1158,N
-zachrpa01,1.0853,0.0307,N
-zahnge01,0.1414,0.0099,N
-seaveto01,1.9424,0.1462,Y
-fingero01,0.1905,0.0106,Y
-kaatji01,1.2460,0.1165,N
-tiantlu01,0.8953,0.0628,N
-lolicmi01,1.3868,0.1064,N
-bluevi01,1.0079,0.0728,N
-kingmda01,3.4400,0.4642,N
-leonade01,0.0000,0.0000,N
-dennyjo01,1.7485,0.1350,N
-forscke01,0.7351,0.0307,N
-vuckope01,0.7273,0.0524,N
-newhoha01,2.0305,0.1443,Y
-niekrph01,1.7748,0.0924,N
-kaatji01,1.2460,0.1165,N
-tiantlu01,0.8953,0.0628,N
-lolicmi01,1.3868,0.1064,N
-bluevi01,1.0079,0.0728,N
-campbbi02,0.0371,0.0029,N
-carltst01,2.3074,0.1651,Y
-niekrph01,1.7748,0.0924,N
-suttodo01,1.7248,0.0815,N
-suttebr01,0.1543,0.0091,N
-kaatji01,1.2460,0.1165,N
-tiantlu01,0.8953,0.0628,N
-conceda01,3.5060,0.3991,N
-guidrro01,0.0000,0.0105,N
-lolicmi01,1.3868,0.1064,N
-bluevi01,1.0079,0.0728,N
-niekrjo01,1.3782,0.0779,N
-mcgresc01,0.0000,0.0000,N
-sotoma01,1.7492,0.1056,N
-niekrph01,1.7748,0.0924,N
-suttodo01,1.7248,0.0815,N
-suttebr01,0.1543,0.0091,N
-kaatji01,1.2460,0.1165,N
-johnto01,1.1827,0.0565,N
-tiantlu01,0.8953,0.0628,N
-conceda01,3.5060,0.3991,N
-bluevi01,1.0079,0.0728,N
-lolicmi01,1.3868,0.1064,N
-guidrro01,0.0000,0.0105,N
-tekulke01,0.1152,0.0076,N
-forscbo01,1.7544,0.1513,N
-hernawi01,0.0843,0.0054,N
-krukomi01,1.9461,0.1186,N
-alexado01,0.4715,0.0338,N
-grossgr01,2.0702,0.2482,N
-rhoderi01,1.7822,0.1358,N
-willivi01,2.8117,0.2015,Y
-niekrph01,1.7748,0.0924,N
-suttodo01,1.7248,0.0815,N
-suttebr01,0.1543,0.0091,N
-johnto01,1.1827,0.0565,N
-kaatji01,1.2460,0.1165,N
-tiantlu01,0.8953,0.0628,N
-conceda01,3.5060,0.3991,N
-guidrro01,0.0000,0.0105,N
-lolicmi01,1.3868,0.1064,N
-quiseda01,0.0089,0.0000,N
-reussje01,1.6228,0.1125,N
-tudorjo01,1.3287,0.0761,N
-kneppbo01,1.8708,0.1047,N
-bunniji01,2.1215,0.1364,Y
-niekrph01,1.7748,0.0924,Y
-suttodo01,1.7248,0.0815,N
-suttebr01,0.1543,0.0091,N
-kaatji01,1.2460,0.1165,N
-johnto01,1.1827,0.0565,N
-conceda01,3.5060,0.3991,N
-tiantlu01,0.8953,0.0628,N
-lolicmi01,1.3868,0.1064,N
-guidrro01,0.0000,0.0105,N
-reuscri01,1.9257,0.1416,N
-scottmi03,1.8764,0.0948,N
-lasorto01,0.5185,0.0000,Y
-suttodo01,1.7248,0.0815,Y
-suttebr01,0.1543,0.0091,N
-johnto01,1.1827,0.0565,N
-kaatji01,1.2460,0.1165,N
-blylebe01,0.6452,0.0272,N
-conceda01,3.5060,0.3991,N
-tiantlu01,0.8953,0.0628,N
-lolicmi01,1.3868,0.1064,N
-guidrro01,0.0000,0.0105,N
-flanami01,0.0000,0.0000,N
-dempsri01,2.6569,0.2973,N
-davisge01,3.8138,0.6499,Y
-ryanno01,1.0558,0.0496,Y
-suttebr01,0.1543,0.0091,N
-kaatji01,1.2460,0.1165,N
-johnto01,1.1827,0.0565,N
-blylebe01,0.6452,0.0272,N
-conceda01,3.5060,0.3991,N
-tiantlu01,0.8953,0.0628,N
-guidrro01,0.0000,0.0105,N
-lolicmi01,1.3868,0.1064,N
-candejo01,0.9884,0.0647,N
-boddimi01,0.0000,0.0058,N
-leibrch01,0.6777,0.0178,N
-tananfr01,0.0923,0.0047,N
-wittmi01,0.0000,0.0000,N
-suttebr01,0.1543,0.0091,N
-gossari01,0.0847,0.0010,N
-johnto01,1.1827,0.0565,N
-kaatji01,1.2460,0.1165,N
-morrija02,0.0018,0.0070,N
-blylebe01,0.6452,0.0272,N
-tiantlu01,0.8953,0.0628,N
-conceda01,3.5060,0.3991,N
-guidrro01,0.0000,0.0105,N
-reardje01,0.0648,0.0000,N
-sutclri01,1.2060,0.0901,N
-houghch01,0.2634,0.0082,N
-gullibi01,1.4472,0.0754,N
-hurstbr01,0.7211,0.0289,N
-welchbo01,1.1192,0.0500,N
-suttebr01,0.1543,0.0091,N
-gossari01,0.0847,0.0010,N
-johnto01,1.1827,0.0565,N
-kaatji01,1.2460,0.1165,N
-blylebe01,0.6452,0.0272,N
-morrija02,0.0018,0.0070,N
-conceda01,3.5060,0.3991,N
-tiantlu01,0.8953,0.0628,N
-stewada01,0.0975,0.0096,N
-guidrro01,0.0000,0.0105,N
-henketo01,0.0016,0.0000,N
-righeda01,0.0153,0.0000,N
-bedrost01,0.2090,0.0041,N
-brownto05,1.9167,0.1296,N
-darliro01,1.3085,0.0970,N
-deshaji01,1.4457,0.0504,N
-rijojo01,1.1804,0.0663,N
-suttebr01,0.1543,0.0091,N
-gossari01,0.0847,0.0010,N
-johnto01,1.1827,0.0565,N
-blylebe01,0.6452,0.0272,N
-kaatji01,1.2460,0.1165,N
-morrija02,0.0018,0.0070,N
-tiantlu01,0.8953,0.0628,N
-conceda01,3.5060,0.3991,N
-guidrro01,0.0000,0.0105,N
-stewada01,0.0975,0.0096,N
-violafr01,0.4394,0.0190,N
-wallati01,3.6614,0.4105,N
-hennemi01,0.0018,0.0000,N
-russeje01,0.1337,0.0051,N
-sandesc02,0.5466,0.0169,N
-suttebr01,0.1543,0.0091,N
-smithle02,0.0626,0.0020,N
-gossari01,0.0847,0.0010,N
-blylebe01,0.6452,0.0272,N
-kaatji01,1.2460,0.1165,N
-johnto01,1.1827,0.0565,N
-morrija02,0.0018,0.0070,N
-conceda01,3.5060,0.3991,N
-valenfe01,1.9747,0.1181,N
-kileda01,1.8049,0.1044,N
-fernasi01,1.7557,0.0912,N
-honeyri01,0.2272,0.0162,N
-davisma01,0.2672,0.0256,N
-jacksda02,1.2056,0.0789,N
-willimi02,0.0258,0.0032,N
-worreto01,0.0438,0.0016,N
-eckerde01,0.1687,0.0084,Y
-suttebr01,0.1543,0.0091,N
-gossari01,0.0847,0.0010,N
-smithle02,0.0626,0.0020,N
-blylebe01,0.6452,0.0272,N
-morrija02,0.0018,0.0070,N
-johnto01,1.1827,0.0565,N
-conceda01,3.5060,0.3991,N
-valenfe01,1.9747,0.1181,N
-martide01,0.7482,0.0360,N
-stiebda01,0.0044,0.0044,N
-keyji01,0.0042,0.0000,N
-drabedo01,1.7379,0.1019,N
-myersra01,0.0823,0.0069,N
-darwida01,0.4224,0.0208,N
-tewksbo01,1.2541,0.0660,N
-boggswa01,3.7623,0.6201,Y
-suttebr01,0.1543,0.0091,N
-gossari01,0.0847,0.0010,N
-blylebe01,0.6452,0.0272,N
-smithle02,0.0626,0.0020,N
-morrija02,0.0018,0.0070,N
-johnto01,1.1827,0.0565,N
-conceda01,3.5060,0.3991,N
-abbotji01,0.0798,0.0000,N
-mcdowja01,0.0000,0.0000,N
-davisch01,3.5603,0.5090,N
-candito01,0.6615,0.0243,N
-montgje01,0.0029,0.0000,N
-langsma01,0.2004,0.0109,N
-suttebr01,0.1543,0.0091,Y
-gossari01,0.0847,0.0010,N
-blylebe01,0.6452,0.0272,N
-smithle02,0.0626,0.0020,N
-morrija02,0.0018,0.0070,N
-johnto01,1.1827,0.0565,N
-conceda01,3.5060,0.3991,N
-hershor01,1.5577,0.1250,N
-goodedw01,1.7074,0.1382,N
-gaettga01,3.5704,0.4507,N
-wettejo01,0.0680,0.0065,N
-aguilri01,0.1886,0.0163,N
-jonesdo01,0.0083,0.0000,N
-fernaal01,0.4737,0.0263,N
-gossari01,0.0847,0.0010,N
-blylebe01,0.6452,0.0272,N
-smithle02,0.0626,0.0020,N
-morrija02,0.0018,0.0070,N
-johnto01,1.1827,0.0565,N
-conceda01,3.5060,0.3991,N
-hershor01,1.5577,0.1250,N
-oneilpa01,3.5645,0.5071,N
-saberbr01,0.4715,0.0323,N
-cansejo01,3.7398,0.6285,N
-bonilbo01,3.4136,0.5130,N
-wittbo01,0.1461,0.0046,N
-gossari01,0.0847,0.0010,Y
-blylebe01,0.6452,0.0272,N
-smithle02,0.0626,0.0020,N
-morrija02,0.0018,0.0070,N
-johnto01,1.1827,0.0565,N
-conceda01,3.5060,0.3991,N
-beckro01,0.0270,0.0000,N
-nenro01,0.0233,0.0000,N
-finlech01,0.1011,0.0057,N
-stottto01,0.6488,0.0617,N
-rijojo01,1.1804,0.0663,N
-blylebe01,0.6452,0.0272,N
-smithle02,0.0626,0.0020,N
-morrija02,0.0018,0.0070,N
-johnto01,1.1827,0.0565,N
-gracema01,3.5924,0.5252,N
-coneda01,0.9135,0.0621,N
-oroscje01,0.0471,0.0024,N
-plesada01,0.0141,0.0000,N
-blylebe01,0.6452,0.0272,N
-morrija02,0.0018,0.0070,N
-smithle02,0.0626,0.0020,N
-venturo01,3.3978,0.4839,N
-hentgpa01,0.2442,0.0116,N
-appieke01,0.2005,0.0097,N
-reynosh01,1.7843,0.1111,N
-zeileto01,3.5093,0.4569,N
-jacksmi02,0.0279,0.0030,N
-blylebe01,0.6452,0.0272,Y
-morrija02,0.0018,0.0070,N
-smithle02,0.0626,0.0020,N
-francjo01,0.0304,0.0018,N
-brownke01,1.0102,0.0408,N
-leiteal01,1.2649,0.0358,N
-harrile01,2.0620,0.2417,N
-rueteki01,1.7822,0.1261,N
-morrija02,0.0018,0.0070,N
-smithle02,0.0626,0.0020,N
-radkebr01,0.0767,0.0000,N
-mulhote01,0.9010,0.0378,N
-morrija02,0.0018,0.0070,N
-smithle02,0.0626,0.0020,N
-schilcu01,1.3538,0.0683,N
-clemero02,0.2525,0.0071,N
-wellsda01,0.2697,0.0121,N
-finlest01,3.6380,0.5587,N
-seleaa01,0.1436,0.0124,N
-cirilje01,3.3370,0.4947,N
-mesajo01,0.0020,0.0010,N
-stantmi01,0.0144,0.0000,N
-hernaro01,0.0020,0.0000,N
-williwo02,1.2190,0.1174,N
-odayha01,3.5216,0.3276,Y
-whitede01,4.2462,0.7308,Y
-maddugr01,2.0962,0.1357,Y
-glavito02,1.8660,0.1312,Y
-morrija02,0.0018,0.0070,N
-clemero02,0.2525,0.0071,N
-smithle02,0.0626,0.0020,N
-schilcu01,1.3538,0.0683,N
-mussimi01,0.0968,0.0056,N
-nomohi01,1.4969,0.0679,N
-gagneer01,0.2139,0.0124,N
-benitar01,0.0105,0.0000,N
-rogerke01,0.0865,0.0066,N
-timlimi01,0.0066,0.0000,N
-jonesto02,0.0193,0.0010,N
-johnsra05,1.0097,0.0323,Y
-martipe02,0.9099,0.0461,Y
-smoltjo01,1.2898,0.1048,Y
-schilcu01,1.3538,0.0683,N
-clemero02,0.2525,0.0071,N
-smithle02,0.0626,0.0020,N
-mussimi01,0.0968,0.0056,N
-percitr01,0.0071,0.0000,N
-gordoto01,0.0022,0.0000,N
-guarded01,0.0011,0.0000,N
-schmija01,1.8426,0.0895,N
-hoffmtr01,0.0329,0.0010,N
-schilcu01,1.3538,0.0683,N
-clemero02,0.2525,0.0071,N
-mussimi01,0.0968,0.0056,N
-smithle02,0.0626,0.0020,N
-wagnebi02,0.0234,0.0012,N
-hamptmi01,1.6183,0.2165,N
-hoffmtr01,0.0329,0.0010,N
-clemero02,0.2525,0.0071,N
-mussimi01,0.0968,0.0056,N
-schilcu01,1.3538,0.0683,N
-smithle02,0.0626,0.0020,N
-wagnebi02,0.0234,0.0012,N
-wakefti01,0.1762,0.0063,N
-rhodear01,0.0066,0.0000,N
+playerID,feature1,feature2,feature3,feature4,feature5,feature6,feature7,classification
+cobbty01,Player,BBWAA,0.5120,3.6000,3.2000,0.9614,0.5190,Y
+ruthba01,Player,BBWAA,0.6898,2.2770,441.7975,0.9677, ,Y
+wagneho01,Player,BBWAA,0.4662,0.0000,6.8400,0.9469,0.2000,Y
+mathech01,Player,BBWAA,0.2714,2.1330,844.8823,0.9701,0.4824,Y
+johnswa01,Player,BBWAA,0.3421,2.1668,1363.8306,0.9688,0.5505,Y
+lajoina01,Player,BBWAA,0.4666, , ,0.9671,0.5496,N
+speaktr01,Player,BBWAA,0.5003,9.0000,2.0000,0.9706,0.5427,N
+youngcy01,Player,BBWAA,0.2818,2.6273,1217.9643,0.9387,0.5000,N
+hornsro01,Player,BBWAA,0.5765, , ,0.9578,0.4633,N
+cochrmi01,Player,BBWAA,0.4778, , ,0.9849,0.5819,N
+sislege01,Player,BBWAA,0.4682,2.3514,52.8198,0.9868,0.4749,N
+collied01,Player,BBWAA,0.4290, , ,0.9694,0.5210,N
+colliji01,Player,BBWAA,0.4088, , ,0.9281,0.5475,N
+alexape01,Player,BBWAA,0.2746,2.5595,951.9380,0.9847, ,N
+gehrilo01,Player,BBWAA,0.6324, , ,0.9906, ,N
+bresnro01,Player,BBWAA,0.3771,3.9338,16.3510,0.9645,0.4316,N
+keelewi01,Player,BBWAA,0.4146, , ,0.9549, ,N
+ansonca01,Player,Veterans,0.4451,4.5000,3.0000,0.9612,0.5778,N
+ewingbu01,Player,Veterans,0.4557,3.4468,24.1702,0.9343,0.5532,N
+keelewi01,Player,Veterans,0.4146, , ,0.9549, ,N
+wadderu01,Player,BBWAA,0.2186,2.1609,803.8307,0.9096, ,N
+youngcy01,Player,Veterans,0.2818,2.6273,1217.9643,0.9387,0.5000,N
+delahed01,Player,Veterans,0.5051, , ,0.9426, ,N
+foxxji01,Player,BBWAA,0.6093,1.5211,14.5493,0.9902, ,N
+walshed01,Player,BBWAA,0.2546,1.8156,617.7914,0.9621,0.3333,N
+mcgrajo01,Player,Veterans,0.4100, , ,0.8995,0.5865,N
+delahed01,Player,BBWAA,0.5051, , ,0.9426, ,N
+radboch01,Player,Veterans,0.2807,2.6750,875.9558,0.8976, ,N
+traynpi01,Player,BBWAA,0.4351, , ,0.9457,0.5295,N
+kellyki01,Player,Veterans,0.4382,4.1387,31.3796,0.8621,0.5389,N
+longhe01,Player,Veterans,0.3826, , ,0.9077, ,N
+friscfr01,Player,BBWAA,0.4321, , ,0.9702,0.5135,N
+grovele01,Player,BBWAA,0.2075,3.0581,1187.9767,0.9539, ,N
+jennihu01,Player,Veterans,0.4056, , ,0.9424,0.5434,N
+rusieam01,Player,Veterans,0.3191,3.0727,1704.8977,0.8949, ,N
+chaseha01,Player,BBWAA,0.3909,0.0000,0.0000,0.9787,0.5181,N
+youngro01,Player,BBWAA,0.4407, , ,0.9520, ,N
+clarkfr01,Player,Veterans,0.4288, , ,0.9502,0.5756,N
+terrybi01,Player,BBWAA,0.5059, , ,0.9919,0.5546,N
+colliji01,Player,Veterans,0.4088, , ,0.9281,0.5475,N
+klingjo01,Player,BBWAA,0.3570, , ,0.9705,0.3399,N
+crigelo01,Player,BBWAA,0.2898, , ,0.9701, ,N
+comisch01,Player,Veterans,0.3380,0.7297,4.0541,0.9720,0.6083,N
+dennyje01,Player,Veterans,0.3837,9.0000,5.2500,0.8903, ,N
+langebi01,Player,Veterans,0.4585, , ,0.9317, ,N
+robinwi01,Player,Veterans,0.3460, , ,0.9406,0.5002,N
+stoveha01,Player,Veterans,0.4614,6.7500,4.6071,0.9435,0.4565,N
+wrighge01,Player,Veterans,0.3993,1.8000,1.2000,0.8696,0.7024,N
+brownmo01,Player,BBWAA,0.2476,2.0568,673.8536,0.9658,0.4425,N
+eversjo01,Player,BBWAA,0.3342, , ,0.9528,0.4839,N
+clarkjo01,Player,Veterans,0.3186,2.8113,1191.9468,0.8865, ,N
+wagneho01,Player,Veterans,0.4662,0.0000,6.8400,0.9469,0.2000,N
+chancfr01,Player,BBWAA,0.3935, , ,0.9840,0.5935,N
+spaldal01,Player,Veterans,0.3815,2.1358,157.1316,0.9021,0.6240,N
+mcgrajo01,Player,BBWAA,0.4100, , ,0.8995,0.5865,N
+schalra01,Player,BBWAA,0.3157, , ,0.9809,0.4493,N
+simmoal01,Player,BBWAA,0.5349, , ,0.9821, ,N
+barnero01,Player,Veterans,0.4636,20.2505,5.2501,0.8670, ,N
+bennech01,Player,Veterans,0.3873, , ,0.9368, ,N
+duffyhu01,Player,Veterans,0.4492, , ,0.9388,0.4436,N
+nichoki01,Player,Veterans,0.2996,2.9547,1268.9715,0.9472,0.4762,N
+wardjo01,Player,Veterans,0.3407,2.1022,253.9412,0.8969,0.5628,N
+broutda01,Player,Veterans,0.5191,7.8261,12.9130,0.9699, ,N
+dunlafr01,Player,Veterans,0.4056,6.7499,2.2500,0.9242,0.5870,N
+glassja01,Player,Veterans,0.3741,6.4286,8.7143,0.9106,0.5000,N
+hamilbi01,Player,Veterans,0.4320, , ,0.9264, ,N
+lajoina01,Player,Veterans,0.4666, , ,0.9671,0.5496,N
+willine01,Player,Veterans,0.3841,3.3429,6.0857,0.8726, ,N
+bendech01,Player,BBWAA,0.2799,2.4551,712.8767,0.9468, ,N
+jacksjo01,Player,BBWAA,0.5174, , ,0.9637, ,N
+roushed01,Player,BBWAA,0.4459, , ,0.9723, ,N
+allisdo01,Player,Veterans,0.3198,1.8000,3.2000,0.8696,0.0870,N
+battijo01,Player,Veterans,0.2811,3.5217,3.5652,0.8548,0.2813,N
+becklja01,Player,Veterans,0.4353,6.7500,3.2500,0.9811, ,N
+bondto01,Player,Veterans,0.2765,2.3116,199.0381,0.9016,0.3333,N
+burkeje01,Player,Veterans,0.4464,5.5610,95.1707,0.9168, ,N
+crigelo01,Player,Veterans,0.2898, , ,0.9701, ,N
+dahlebi01,Player,Veterans,0.3818, , ,0.9259,0.4142,N
+daubeja01,Player,Veterans,0.4006, , ,0.9914, ,N
+doyleja01,Player,Veterans,0.3853, , ,0.9596,0.5000,N
+keefeti01,Player,Veterans,0.2698,2.6246,1220.8794,0.8877, ,N
+kilroma01,Player,Veterans,0.2797,3.4697,755.0038,0.8911, ,N
+lathaar01,Player,Veterans,0.3414, , ,0.8717,0.0000,N
+lowebo01,Player,Veterans,0.3599,9.0000,4.0000,0.9465,0.4054,N
+mcaleji01,Player,Veterans,0.3105,0.0000,9.0006,0.9442,0.4526,N
+mccarto01,Player,Veterans,0.3756,4.9327,27.1971,0.8865,0.5556,N
+mcveyca01,Player,Veterans,0.4465,3.7259,17.3327,0.9048,0.5871,N
+paborch01,Player,Veterans,0.3357,5.6104,11.5779,0.7880,0.1688,N
+pikeli01,Player,Veterans,0.4650, , ,0.8161,0.2817,N
+remseja01,Player,Veterans,0.3168, , ,0.8806, ,N
+richaha01,Player,Veterans,0.4348,3.9375,14.0000,0.9126, ,N
+tennefr02,Player,Veterans,0.3583,4.5000,3.5000,0.9820,0.3344,N
+vanhage01,Player,Veterans,0.4172,4.0474,245.1736,0.9076,0.0909,N
+wallabo01,Player,Veterans,0.3583,3.8731,157.1667,0.9383,0.2870,N
+whitede01,Player,Veterans,0.3918,7.2000,3.9000,0.8729,0.4500,N
+bakerfr01,Player,BBWAA,0.4423, , ,0.9428, ,N
+bradlbi01,Player,BBWAA,0.3707,0.0000,4.0000,0.9343,0.4974,N
+clarkfr01,Player,BBWAA,0.4288, , ,0.9502,0.5756,N
+crawfsa01,Player,BBWAA,0.4522, , ,0.9688, ,N
+elberki01,Player,BBWAA,0.3390, , ,0.9231,0.2755,N
+mackco01,Player,BBWAA,0.3002, , ,0.9301,0.4859,N
+marquru01,Player,BBWAA,0.2023,3.0756,858.9777,0.9512, ,N
+ruckena01,Player,BBWAA,0.2261,2.4211,701.8795,0.9659, ,N
+vanceda01,Player,BBWAA,0.1977,3.2400,840.9469,0.9748, ,N
+cummica01,Player,Veterans,0.2563,2.4911,118.1662,0.8592, ,N
+flintsi01,Player,Veterans,0.3251, , ,0.9098,0.2941,N
+richmle01,Player,Veterans,0.3340,3.0587,270.1137,0.8390, ,N
+gehrich01,Player,BBWAA,0.4805, , ,0.9759, ,N
+hartnga01,Player,BBWAA,0.4888, , ,0.9841,0.5356,N
+sullibi03,Player,BBWAA,0.2811, , ,0.9760,0.5132,N
+lajoina01,Player,BBWAA,0.4666, , ,0.9671,0.5496,Y
+speaktr01,Player,BBWAA,0.5003,9.0000,2.0000,0.9706,0.5427,Y
+youngcy01,Player,BBWAA,0.2818,2.6273,1217.9643,0.9387,0.5000,Y
+maranra01,Player,BBWAA,0.3397, , ,0.9558,0.4340,N
+planked01,Player,BBWAA,0.2446,2.3503,1072.8804,0.9710, ,N
+pennohe01,Player,BBWAA,0.2348,3.5983,917.0919,0.9727, ,N
+tinkejo01,Player,BBWAA,0.3530, , ,0.9377,0.4967,N
+woodjo02,Player,BBWAA,0.4109,2.0302,421.7923,0.9623, ,N
+mcginjo01,Player,BBWAA,0.2251,2.6571,812.9520,0.9191, ,N
+jossad01,Player,BBWAA,0.1885,1.8874,364.8113,0.9663, ,N
+heilmha01,Player,BBWAA,0.5205, , ,0.9748, ,N
+adamsba01,Player,BBWAA,0.2807,2.7553,430.9485,0.9765, ,N
+duffyhu01,Player,BBWAA,0.4492, , ,0.9388,0.4436,N
+archeji01,Player,BBWAA,0.3333, , ,0.9717, ,N
+careyma01,Player,BBWAA,0.3858, , ,0.9661,0.4756,N
+donlimi01,Player,BBWAA,0.4683,7.1633,14.9796,0.9362, ,N
+hoopeha01,Player,BBWAA,0.3870,0.0000,2.0000,0.9663, ,N
+carribi02,Player,BBWAA,0.3142, , ,0.9715,0.4944,N
+huggimi01,Manager,BBWAA,0.3143, , ,0.9556,0.5548,N
+mcgrajo01,Manager,BBWAA,0.4100, , ,0.8995,0.5865,N
+robinwi01,Manager,BBWAA,0.3460, , ,0.9406,0.5002,N
+tennefr02,Player,BBWAA,0.3583,4.5000,3.5000,0.9820,0.3344,N
+wheatza01,Player,BBWAA,0.4503, , ,0.9662, ,N
+combsea01,Player,BBWAA,0.4624, , ,0.9737, ,N
+griffcl01,Pioneer/Executive,BBWAA,0.3101,3.3122,775.0840,0.9326,0.5217,N
+jennihu01,Player,BBWAA,0.4056, , ,0.9424,0.5434,N
+altroni01,Player,BBWAA,0.2073,2.6453,272.9610,0.9623, ,N
+bancrda01,Player,BBWAA,0.3584, , ,0.9442,0.4069,N
+burnsge01,Player,BBWAA,0.3836, , ,0.9698, ,N
+donovbi01,Player,BBWAA,0.2488,2.6897,1059.8875,0.9427,0.4487,N
+faberre01,Player,BBWAA,0.1608,3.1493,1214.0047,0.9458, ,N
+lewisdu01,Player,BBWAA,0.3844,18.0000,3.0000,0.9589, ,N
+nehfar01,Player,BBWAA,0.2787,3.2042,641.0027,0.9760, ,N
+peckiro01,Player,BBWAA,0.3354, , ,0.9488,0.5045,N
+bergema01,Player,BBWAA,0.3466, , ,0.9530, ,N
+bodiepi01,Player,BBWAA,0.3959, , ,0.9635, ,N
+coombja01,Player,BBWAA,0.2946,2.7815,841.8767,0.9687,0.2903,N
+cravaga01,Player,BBWAA,0.4781, , ,0.9436,0.3991,N
+daubeja01,Player,BBWAA,0.4006, , ,0.9914, ,N
+doylela01,Player,BBWAA,0.4077, , ,0.9493, ,N
+fletcar01,Player,BBWAA,0.3649, , ,0.9383,0.3823,N
+gowdyha01,Player,BBWAA,0.3580, , ,0.9752,0.7500,N
+loberha01,Player,BBWAA,0.3662, , ,0.9414,0.2745,N
+mageesh01,Player,BBWAA,0.4267, , ,0.9707, ,N
+schreos01,Player,BBWAA,0.3448, , ,0.9700, ,N
+scottev01,Player,BBWAA,0.3151, , ,0.9649, ,N
+breitte01,Player,BBWAA,0.2673,4.0380,1204.0427,0.9378, ,N
+burkeje01,Player,BBWAA,0.4464,5.5610,95.1707,0.9168, ,N
+bushdo01,Player,BBWAA,0.3003, , ,0.9366,0.4797,N
+chesbja01,Player,BBWAA,0.2675,2.6845,690.9121,0.9437, ,N
+cissebi01,Player,BBWAA,0.3604, , ,0.9498, ,N
+collish01,Player,BBWAA,0.3645, , ,0.9730,0.3527,N
+dooinre01,Player,BBWAA,0.2977, , ,0.9568,0.5144,N
+duganjo01,Player,BBWAA,0.3717, , ,0.9468, ,N
+falkecy01,Player,BBWAA,0.1803,2.6822,690.9187,0.9408, ,N
+gleaski01,Player,BBWAA,0.3174,3.7931,907.0681,0.9343,0.5185,N
+grimebu01,Player,BBWAA,0.3062,3.5268,1296.0555,0.9541,0.4338,N
+grohhe01,Player,BBWAA,0.3843, , ,0.9626,0.7000,N
+hinchbi01,Player,BBWAA,0.3677, , ,0.9494, ,N
+judgejo01,Player,BBWAA,0.4199, , ,0.9931, ,N
+kerrdi01,Player,BBWAA,0.2836,3.8381,251.0797,0.9532, ,N
+leachto01,Player,BBWAA,0.3696, , ,0.9337, ,N
+leevesa01,Player,BBWAA,0.2356,2.4727,587.9204,0.9562, ,N
+longhe01,Player,BBWAA,0.3826, , ,0.9077, ,N
+luquedo01,Player,BBWAA,0.2905,3.2447,919.0033,0.9578, ,N
+mcinnst01,Player,BBWAA,0.3808, , ,0.9911,0.3312,N
+mcleala01,Player,BBWAA,0.3226, , ,0.9724, ,N
+meusebo01,Player,BBWAA,0.4966, , ,0.9555, ,N
+milleha01,Player,BBWAA,0.4900, , ,0.9621, ,N
+moranpa01,Player,BBWAA,0.3121, , ,0.9721,0.5607,N
+murphda02,Player,BBWAA,0.4053, , ,0.9552, ,N
+murrare01,Player,BBWAA,0.3786, , ,0.9496, ,N
+paskedo01,Player,BBWAA,0.3610, , ,0.9680, ,N
+raymobu01,Player,BBWAA,0.1977,2.4852,282.8471,0.9405, ,N
+rixeyep01,Player,BBWAA,0.2240,3.1477,1083.0308,0.9779, ,N
+rudoldi01,Player,BBWAA,0.2335,2.6574,402.9619,0.9697, ,N
+rusieam01,Player,BBWAA,0.3191,3.0727,1704.8977,0.8949, ,N
+schulfr01,Player,BBWAA,0.3946, , ,0.9655, ,N
+seweljo01,Player,BBWAA,0.4129, , ,0.9542, ,N
+steinha01,Player,BBWAA,0.3597, , ,0.9271, ,N
+streega01,Player,BBWAA,0.2558, , ,0.9742,0.5237,N
+veachbo01,Player,BBWAA,0.4420,4.5000,3.0000,0.9635, ,N
+wallabo01,Player,BBWAA,0.3583,3.8731,157.1667,0.9383,0.2870,N
+wilsoha01,Player,BBWAA,0.5447, , ,0.9645, ,N
+bulkemo99,Pioneer/Executive,Centennial, , , , , ,Y
+johnsba99,Pioneer/Executive,Centennial, , , , , ,Y
+mackco01,Manager,Centennial,0.3002, , ,0.9301,0.4859,Y
+mcgrajo01,Manager,Veterans,0.4100, , ,0.8995,0.5865,Y
+wrighge01,Pioneer/Executive,Centennial,0.3993,1.8000,1.2000,0.8696,0.7024,Y
+alexape01,Player,BBWAA,0.2746,2.5595,951.9380,0.9847, ,Y
+dinnebi01,Player,BBWAA,0.2187,3.0120,829.9617,0.9412, ,N
+barryja01,Player,BBWAA,0.3032, , ,0.9437,0.5921,N
+nichoki01,Player,BBWAA,0.2996,2.9547,1268.9715,0.9472,0.4762,N
+fosteed02,Player,BBWAA,0.3257, , ,0.9352, ,N
+stengca01,Manager,BBWAA,0.4102, , ,0.9638,0.5084,N
+beaumgi01,Player,BBWAA,0.3926, , ,0.9555, ,N
+chapmra01,Player,BBWAA,0.3773, , ,0.9393, ,N
+coaklan01,Player,BBWAA,0.1309,2.3500,314.9521,0.9356, ,N
+coopewi01,Player,BBWAA,0.3089,2.8940,853.9813,0.9548, ,N
+covelst01,Player,BBWAA,0.2051,2.8910,802.9912,0.9725, ,N
+cranddo01,Player,BBWAA,0.3980,2.9211,379.9944,0.9481, ,N
+cruiswa01,Player,BBWAA,0.3856, , ,0.9635, ,N
+dahlebi01,Player,BBWAA,0.3818, , ,0.9259,0.4142,N
+ehmkeho01,Player,BBWAA,0.2577,3.7459,1043.0186,0.9577, ,N
+flickel01,Player,BBWAA,0.4452, , ,0.9472, ,N
+granted01,Player,BBWAA,0.2948, , ,0.9377, ,N
+harribu01,Manager,BBWAA,0.3539, , ,0.9649,0.4930,N
+herzobu01,Player,BBWAA,0.3352, , ,0.9432,0.4220,N
+irwinch01,Player,BBWAA,0.3438, , ,0.9173, ,N
+jonesfi01,Player,BBWAA,0.3467, , ,0.9621,0.5399,N
+lathaar01,Player,BBWAA,0.3414, , ,0.8717,0.0000,N
+marbefi01,Player,BBWAA,0.2365,3.6308,686.9911,0.9645, ,N
+milancl01,Player,BBWAA,0.3534, , ,0.9531,0.4481,N
+perduhu01,Player,BBWAA,0.1500,3.8515,200.1292,0.9292, ,N
+ricesa01,Player,BBWAA,0.4267,2.5170,19.7881,0.9648, ,N
+sheckji01,Player,BBWAA,0.3784, , ,0.9525, ,N
+shockur01,Player,BBWAA,0.2494,3.1715,658.0102,0.9805, ,N
+stahlja01,Player,BBWAA,0.3825, , ,0.9820,0.4934,N
+thomair01,Player,BBWAA,0.3077, , ,0.9703, ,N
+willicy01,Player,BBWAA,0.4702, , ,0.9728, ,N
+zimmech01,Player,BBWAA,0.3687, , ,0.9518,0.3630,N
+cartwal99,Pioneer/Executive,Centennial, , , , , ,Y
+chadwhe99,Pioneer/Executive,Centennial, , , , , ,Y
+sislege01,Player,BBWAA,0.4682,2.3514,52.8198,0.9868,0.4749,Y
+collied01,Player,BBWAA,0.4290, , ,0.9694,0.5210,Y
+keelewi01,Player,BBWAA,0.4146, , ,0.9549, ,Y
+mccarjo99,Manager,BBWAA, , , , ,0.6145,N
+ewingbu01,Player,BBWAA,0.4557,3.4468,24.1702,0.9343,0.5532,N
+crossla01,Player,BBWAA,0.3822, , ,0.9374,0.2105,N
+frasech01,Player,BBWAA,0.2310,3.6767,1333.0310,0.9309, ,N
+grimmch01,Player,BBWAA,0.3974, , ,0.9926,0.5467,N
+hahnno01,Player,BBWAA,0.2367,2.5457,381.9442,0.9100, ,N
+haineje01,Player,BBWAA,0.2180,3.6408,872.0783,0.9656, ,N
+hoytwa01,Player,BBWAA,0.2354,3.5882,1004.0730,0.9660, ,N
+jonessa01,Player,BBWAA,0.2550,3.8383,1397.0518,0.9537, ,N
+kellejo01,Player,BBWAA,0.4512, , ,0.9646,0.5129,N
+knabeot01,Player,BBWAA,0.3135, , ,0.9563,0.4253,N
+peitzhe01,Player,BBWAA,0.3611,7.3125,8.3750,0.9596, ,N
+phillde01,Player,BBWAA,0.2337,2.5857,363.9659,0.9550, ,N
+schacal01,Player,BBWAA,0.2353,4.4772,62.2893,0.9322, ,N
+ansonca01,Player,Old Timers,0.4451,4.5000,3.0000,0.9612,0.5778,Y
+comisch01,Pioneer/Executive,Old Timers,0.3380,0.7297,4.0541,0.9720,0.6083,Y
+cummica01,Pioneer/Executive,Old Timers,0.2563,2.4911,118.1662,0.8592, ,Y
+ewingbu01,Player,Old Timers,0.4557,3.4468,24.1702,0.9343,0.5532,Y
+gehrilo01,Player,Special Election,0.6324, , ,0.9906, ,Y
+radboch01,Player,Old Timers,0.2807,2.6750,875.9558,0.8976, ,Y
+spaldal01,Pioneer/Executive,Old Timers,0.3815,2.1358,157.1316,0.9021,0.6240,Y
+hornsro01,Player,BBWAA,0.5765, , ,0.9578,0.4633,Y
+rickebr01,Pioneer/Executive,BBWAA,0.3236, , ,0.9381,0.4734,N
+martipe01,Player,BBWAA,0.4430,2.2500,2.5000,0.9521, ,N
+becklja01,Player,BBWAA,0.4353,6.7500,3.2500,0.9811, ,N
+boleyjo01,Player,BBWAA,0.3545, , ,0.9566, ,N
+dunnja01,Player,BBWAA,0.2922,4.1127,335.1303,0.9082, ,N
+hamilbi01,Player,BBWAA,0.4320, , ,0.9264, ,N
+hermaba01,Player,BBWAA,0.5319, , ,0.9712, ,N
+lowebo01,Player,BBWAA,0.3599,9.0000,4.0000,0.9465,0.4054,N
+schaege01,Player,BBWAA,0.3203,18.0000,3.0000,0.9516, ,N
+wambsbi01,Player,BBWAA,0.3271, , ,0.9535, ,N
+landike99,Pioneer/Executive,Old Timers, , , , , ,Y
+hubbeca01,Player,BBWAA,0.2267,2.9780,725.9640,0.9674, ,N
+deandi01,Player,BBWAA,0.3013,3.0239,453.9754,0.9599, ,N
+dickebi01,Player,BBWAA,0.4860, , ,0.9880,0.5429,N
+gomezle01,Player,BBWAA,0.1593,3.3440,1095.9149,0.9574, ,N
+lyonste01,Player,BBWAA,0.2853,3.6683,1122.0788,0.9580,0.4302,N
+greenha01,Player,BBWAA,0.6050, , ,0.9897, ,N
+mckecbi01,Manager,BBWAA,0.3127, , ,0.9539,0.5239,N
+camniho01,Player,BBWAA,0.1521,2.7492,656.8881,0.9466, ,N
+conrowi01,Player,BBWAA,0.3286, , ,0.9365, ,N
+davisha01,Player,BBWAA,0.4084, , ,0.9777,0.4320,N
+dimagjo01,Player,BBWAA,0.5788, , ,0.9781, ,N
+gordojo01,Player,BBWAA,0.4656, , ,0.9701,0.4976,N
+lazzeto01,Player,BBWAA,0.4666, , ,0.9649, ,N
+mungova01,Player,BBWAA,0.2618,3.4714,868.9262,0.9597, ,N
+ritchcl01,Player,BBWAA,0.3418, , ,0.9523, ,N
+rootch01,Player,BBWAA,0.2661,3.5861,890.0171,0.9756, ,N
+seymocy01,Player,BBWAA,0.4048,3.7609,655.9242,0.9325, ,N
+southbi01,Player,BBWAA,0.4145, , ,0.9652,0.5973,N
+sweenbi02,Player,BBWAA,0.3440, , ,0.9365, ,N
+tanneje01,Player,BBWAA,0.3383,2.7880,478.0133,0.9483, ,N
+vandejo01,Player,BBWAA,0.1796,3.4424,1132.8548,0.9437, ,N
+yerkest02,Player,BBWAA,0.3499, , ,0.9501, ,N
+bresnro01,Player,Old Timers,0.3771,3.9338,16.3510,0.9645,0.4316,Y
+broutda01,Player,Old Timers,0.5191,7.8261,12.9130,0.9699, ,Y
+clarkfr01,Player,Old Timers,0.4288, , ,0.9502,0.5756,Y
+colliji01,Player,Old Timers,0.4088, , ,0.9281,0.5475,Y
+delahed01,Player,Old Timers,0.5051, , ,0.9426, ,Y
+duffyhu01,Player,Old Timers,0.4492, , ,0.9388,0.4436,Y
+jennihu01,Player,Old Timers,0.4056, , ,0.9424,0.5434,Y
+kellyki01,Player,Old Timers,0.4382,4.1387,31.3796,0.8621,0.5389,Y
+orourji01,Player,Old Timers,0.4228,4.1186,2.8644,0.9024,0.4881,Y
+robinwi01,Manager,Old Timers,0.3460, , ,0.9406,0.5002,Y
+chancfr01,Player,Final Ballot,0.3935, , ,0.9840,0.5935,N
+chancfr01,Player,Nominating Vote,0.3935, , ,0.9840,0.5935,N
+eversjo01,Player,Nominating Vote,0.3342, , ,0.9528,0.4839,N
+huggimi01,Player,Nominating Vote,0.3143, , ,0.9556,0.5548,N
+wadderu01,Player,Nominating Vote,0.2186,2.1609,803.8307,0.9096, ,N
+walshed01,Player,Nominating Vote,0.2546,1.8156,617.7914,0.9621,0.3333,N
+eversjo01,Player,Final Ballot,0.3342, , ,0.9528,0.4839,N
+huggimi01,Player,Final Ballot,0.3143, , ,0.9556,0.5548,N
+walshed01,Player,Final Ballot,0.2546,1.8156,617.7914,0.9621,0.3333,N
+friscfr01,Player,Nominating Vote,0.4321, , ,0.9702,0.5135,N
+hubbeca01,Player,Nominating Vote,0.2267,2.9780,725.9640,0.9674, ,N
+wadderu01,Player,Final Ballot,0.2186,2.1609,803.8307,0.9096, ,N
+griffcl01,Player,Final Ballot,0.3101,3.3122,775.0840,0.9326,0.5217,N
+cochrmi01,Player,Nominating Vote,0.4778, , ,0.9849,0.5819,N
+hubbeca01,Player,Final Ballot,0.2267,2.9780,725.9640,0.9674, ,N
+griffcl01,Player,Nominating Vote,0.3101,3.3122,775.0840,0.9326,0.5217,N
+grovele01,Player,Nominating Vote,0.2075,3.0581,1187.9767,0.9539, ,N
+friscfr01,Player,Final Ballot,0.4321, , ,0.9702,0.5135,N
+cochrmi01,Player,Final Ballot,0.4778, , ,0.9849,0.5819,N
+traynpi01,Player,Nominating Vote,0.4351, , ,0.9457,0.5295,N
+grovele01,Player,Final Ballot,0.2075,3.0581,1187.9767,0.9539, ,N
+brownmo01,Player,Nominating Vote,0.2476,2.0568,673.8536,0.9658,0.4425,N
+tinkejo01,Player,Nominating Vote,0.3530, , ,0.9377,0.4967,N
+traynpi01,Player,Final Ballot,0.4351, , ,0.9457,0.5295,N
+mcginjo01,Player,Nominating Vote,0.2251,2.6571,812.9520,0.9191, ,N
+maranra01,Player,Nominating Vote,0.3397, , ,0.9558,0.4340,N
+brownmo01,Player,Final Ballot,0.2476,2.0568,673.8536,0.9658,0.4425,N
+mcginjo01,Player,Final Ballot,0.2251,2.6571,812.9520,0.9191, ,N
+deandi01,Player,Final Ballot,0.3013,3.0239,453.9754,0.9599, ,N
+tinkejo01,Player,Final Ballot,0.3530, , ,0.9377,0.4967,N
+gehrich01,Player,Nominating Vote,0.4805, , ,0.9759, ,N
+pennohe01,Player,Nominating Vote,0.2348,3.5983,917.0919,0.9727, ,N
+deandi01,Player,Nominating Vote,0.3013,3.0239,453.9754,0.9599, ,N
+dickebi01,Player,Nominating Vote,0.4860, , ,0.9880,0.5429,N
+bakerfr01,Player,Nominating Vote,0.4423, , ,0.9428, ,N
+bendech01,Player,Nominating Vote,0.2799,2.4551,712.8767,0.9468, ,N
+bakerfr01,Player,Final Ballot,0.4423, , ,0.9428, ,N
+schalra01,Player,Nominating Vote,0.3157, , ,0.9809,0.4493,N
+bendech01,Player,Final Ballot,0.2799,2.4551,712.8767,0.9468, ,N
+planked01,Player,Nominating Vote,0.2446,2.3503,1072.8804,0.9710, ,N
+dickebi01,Player,Final Ballot,0.4860, , ,0.9880,0.5429,N
+terrybi01,Player,Nominating Vote,0.5059, , ,0.9919,0.5546,N
+vanceda01,Player,Nominating Vote,0.1977,3.2400,840.9469,0.9748, ,N
+maranra01,Player,Final Ballot,0.3397, , ,0.9558,0.4340,N
+foxxji01,Player,Nominating Vote,0.6093,1.5211,14.5493,0.9902, ,N
+youngro01,Player,Nominating Vote,0.4407, , ,0.9520, ,N
+gehrich01,Player,Final Ballot,0.4805, , ,0.9759, ,N
+heilmha01,Player,Nominating Vote,0.5205, , ,0.9748, ,N
+klingjo01,Player,Nominating Vote,0.3570, , ,0.9705,0.3399,N
+pennohe01,Player,Final Ballot,0.2348,3.5983,917.0919,0.9727, ,N
+jossad01,Player,Nominating Vote,0.1885,1.8874,364.8113,0.9663, ,N
+ruckena01,Player,Nominating Vote,0.2261,2.4211,701.8795,0.9659, ,N
+roushed01,Player,Nominating Vote,0.4459, , ,0.9723, ,N
+crawfsa01,Player,Nominating Vote,0.4522, , ,0.9688, ,N
+adamsba01,Player,Nominating Vote,0.2807,2.7553,430.9485,0.9765, ,N
+crigelo01,Player,Nominating Vote,0.2898, , ,0.9701, ,N
+marquru01,Player,Nominating Vote,0.2023,3.0756,858.9777,0.9512, ,N
+wheatza01,Player,Nominating Vote,0.4503, , ,0.9662, ,N
+woodjo02,Player,Nominating Vote,0.4109,2.0302,421.7923,0.9623, ,N
+donovbi01,Player,Nominating Vote,0.2488,2.6897,1059.8875,0.9427,0.4487,N
+gomezle01,Player,Nominating Vote,0.1593,3.3440,1095.9149,0.9574, ,N
+wanerpa01,Player,Nominating Vote,0.4734, , ,0.9757, ,N
+lyonste01,Player,Nominating Vote,0.2853,3.6683,1122.0788,0.9580,0.4302,N
+burkeje01,Player,Nominating Vote,0.4464,5.5610,95.1707,0.9168, ,N
+bushdo01,Player,Nominating Vote,0.3003, , ,0.9366,0.4797,N
+coombja01,Player,Nominating Vote,0.2946,2.7815,841.8767,0.9687,0.2903,N
+davisha01,Player,Nominating Vote,0.4084, , ,0.9777,0.4320,N
+hartnga01,Player,Nominating Vote,0.4888, , ,0.9841,0.5356,N
+jacksjo01,Player,Nominating Vote,0.5174, , ,0.9637, ,N
+mckecbi01,Player,Nominating Vote,0.3127, , ,0.9539,0.5239,N
+bancrda01,Player,Nominating Vote,0.3584, , ,0.9442,0.4069,N
+beaumgi01,Player,Nominating Vote,0.3926, , ,0.9555, ,N
+bradlbi01,Player,Nominating Vote,0.3707,0.0000,4.0000,0.9343,0.4974,N
+chesbja01,Player,Nominating Vote,0.2675,2.6845,690.9121,0.9437, ,N
+clarkjo01,Player,Nominating Vote,0.3186,2.8113,1191.9468,0.8865, ,N
+cravaga01,Player,Nominating Vote,0.4781, , ,0.9436,0.3991,N
+dinnebi01,Player,Nominating Vote,0.2187,3.0120,829.9617,0.9412, ,N
+dunnja01,Player,Nominating Vote,0.2922,4.1127,335.1303,0.9082, ,N
+granted01,Player,Nominating Vote,0.2948, , ,0.9377, ,N
+grimmch01,Player,Nominating Vote,0.3974, , ,0.9926,0.5467,N
+hoytwa01,Player,Nominating Vote,0.2354,3.5882,1004.0730,0.9660, ,N
+jonesfi01,Player,Nominating Vote,0.3467, , ,0.9621,0.5399,N
+killebi01,Player,Nominating Vote,0.2829, , ,0.9765,0.4572,N
+knabeot01,Player,Nominating Vote,0.3135, , ,0.9563,0.4253,N
+longhe01,Player,Nominating Vote,0.3826, , ,0.9077, ,N
+mageesh01,Player,Nominating Vote,0.4267, , ,0.9707, ,N
+martipe01,Player,Nominating Vote,0.4430,2.2500,2.5000,0.9521, ,N
+nichoki01,Player,Nominating Vote,0.2996,2.9547,1268.9715,0.9472,0.4762,N
+phillde01,Player,Nominating Vote,0.2337,2.5857,363.9659,0.9550, ,N
+ruelmu01,Player,Nominating Vote,0.3321, , ,0.9823,0.3831,N
+sheckji01,Player,Nominating Vote,0.3784, , ,0.9525, ,N
+simmoal01,Player,Nominating Vote,0.5349, , ,0.9821, ,N
+southbi01,Player,Nominating Vote,0.4145, , ,0.9652,0.5973,N
+sparktu01,Player,Nominating Vote,0.1441,2.7936,629.9552,0.9340, ,N
+sullibi03,Player,Nominating Vote,0.2811, , ,0.9760,0.5132,N
+tanneje01,Player,Nominating Vote,0.3383,2.7880,478.0133,0.9483, ,N
+tennefr01,Player,Nominating Vote,0.2518,2.0930,9.8605,0.8505, ,N
+burkeje01,Player,Old Timers,0.4464,5.5610,95.1707,0.9168, ,Y
+chancfr01,Player,Old Timers,0.3935, , ,0.9840,0.5935,Y
+chesbja01,Player,Old Timers,0.2675,2.6845,690.9121,0.9437, ,Y
+eversjo01,Player,Old Timers,0.3342, , ,0.9528,0.4839,Y
+griffcl01,Player,Old Timers,0.3101,3.3122,775.0840,0.9326,0.5217,Y
+mccarto01,Player,Old Timers,0.3756,4.9327,27.1971,0.8865,0.5556,Y
+mcginjo01,Player,Old Timers,0.2251,2.6571,812.9520,0.9191, ,Y
+planked01,Player,Old Timers,0.2446,2.3503,1072.8804,0.9710, ,Y
+tinkejo01,Player,Old Timers,0.3530, , ,0.9377,0.4967,Y
+wadderu01,Player,Old Timers,0.2186,2.1609,803.8307,0.9096, ,Y
+walshed01,Player,Old Timers,0.2546,1.8156,617.7914,0.9621,0.3333,Y
+hubbeca01,Player,BBWAA,0.2267,2.9780,725.9640,0.9674, ,Y
+friscfr01,Player,BBWAA,0.4321, , ,0.9702,0.5135,Y
+cochrmi01,Player,BBWAA,0.4778, , ,0.9849,0.5819,Y
+grovele01,Player,BBWAA,0.2075,3.0581,1187.9767,0.9539, ,Y
+cronijo01,Player,BBWAA,0.4679, , ,0.9531,0.5395,N
+turnete01,Player,BBWAA,0.3182, , ,0.9585, ,N
+dyered01,Player,BBWAA,0.3439,4.7461,97.2344,0.9346,0.5785,N
+gelbech01,Player,BBWAA,0.3736,9.0000,4.2500,0.9520, ,N
+hargrbu01,Player,BBWAA,0.4516, , ,0.9835, ,N
+kellyge01,Player,BBWAA,0.4524,0.0000,1.8000,0.9906, ,N
+pennohe01,Player,BBWAA,0.2348,3.5983,917.0919,0.9727, ,Y
+traynpi01,Player,BBWAA,0.4351, , ,0.9457,0.5295,Y
+wanerpa01,Player,BBWAA,0.4734, , ,0.9757, ,N
+wilsoji01,Player,BBWAA,0.3704, , ,0.9765,0.4015,N
+dykesji01,Player,BBWAA,0.3993,4.5000,2.0000,0.9590,0.4771,N
+jackstr01,Player,BBWAA,0.4331, , ,0.9518, ,N
+bottoji01,Player,BBWAA,0.5002, , ,0.9885,0.2727,N
+odoulle01,Player,BBWAA,0.5319,4.8670,50.3391,0.9639, ,N
+ruffire01,Player,BBWAA,0.3887,3.7977,1541.9862,0.9686, ,N
+cuyleki01,Player,BBWAA,0.4735, , ,0.9722, ,N
+earnsge01,Player,BBWAA,0.2955,4.3841,810.0343,0.9364, ,N
+kleinch01,Player,BBWAA,0.5430, , ,0.9623, ,N
+rommeed01,Player,BBWAA,0.2446,3.5418,725.0675,0.9682, ,N
+bluegos01,Player,BBWAA,0.3556, , ,0.9613,0.4876,N
+fitzsfr01,Player,BBWAA,0.2788,3.5094,847.0345,0.9768,0.3662,N
+hackst01,Player,BBWAA,0.3969, , ,0.9588,0.4225,N
+oneilst01,Player,BBWAA,0.3366, , ,0.9725,0.5588,N
+quinnja01,Player,BBWAA,0.2402,3.2898,861.0810,0.9685, ,N
+wrighgl01,Player,BBWAA,0.4469, , ,0.9415, ,N
+bartedi01,Player,BBWAA,0.3914, , ,0.9546, ,N
+bigbeca01,Player,BBWAA,0.3686, , ,0.9642, ,N
+cadorle01,Player,BBWAA,0.2828,3.1352,290.0125,0.9588, ,N
+camildo01,Player,BBWAA,0.4917, , ,0.9905, ,N
+davissp01,Player,BBWAA,0.4303, , ,0.9838,0.3333,N
+derripa01,Player,BBWAA,0.2079,3.4593,762.0733,0.9689, ,N
+durocle01,Manager,BBWAA,0.3204, , ,0.9607,0.5402,N
+ferrewe01,Player,BBWAA,0.4456,4.0385,1041.0846,0.9758, ,N
+fonsele01,Player,BBWAA,0.4321,0.0000,0.0000,0.9829,0.3797,N
+gosligo01,Player,BBWAA,0.4997, , ,0.9599, ,N
+hafeych01,Player,BBWAA,0.5261, , ,0.9705, ,N
+hallabi01,Player,BBWAA,0.2011,4.0285,780.0561,0.9254, ,N
+hermabi01,Player,BBWAA,0.4069, , ,0.9676,0.4082,N
+johnsbo01,Player,BBWAA,0.5059, , ,0.9669, ,N
+kremera01,Player,BBWAA,0.2489,3.7572,484.0784,0.9735, ,N
+manushe01,Player,BBWAA,0.4788, , ,0.9794, ,N
+medwijo01,Player,BBWAA,0.5045, , ,0.9804, ,N
+milledo02,Player,BBWAA,0.3566, , ,0.9741, ,N
+mulcahu01,Player,BBWAA,0.1881,4.4858,488.0941,0.9601, ,N
+oeschjo01,Player,BBWAA,0.1870,3.8119,652.0649,0.9587, ,N
+schanwa01,Player,BBWAA,0.4008, , ,0.9637, ,N
+schumha02,Player,BBWAA,0.2868,3.3573,902.9765,0.9709, ,N
+selkige01,Player,BBWAA,0.4828, , ,0.9770, ,N
+severha01,Player,BBWAA,0.3673, , ,0.9777, ,N
+sewellu01,Player,BBWAA,0.3413, , ,0.9777,0.4848,N
+sherdbi01,Player,BBWAA,0.2979,3.7205,662.1139,0.9555, ,N
+smithea02,Player,BBWAA,0.4315, , ,0.9711, ,N
+smithsh01,Player,BBWAA,0.3202,3.3191,441.0883,0.9593, ,N
+westsa01,Player,BBWAA,0.4249, , ,0.9830, ,N
+gehrich01,Player,Run Off,0.4805, , ,0.9759, ,Y
+ottme01,Player,Run Off,0.5331, , ,0.9742,0.4668,N
+ottme01,Player,BBWAA,0.5331, , ,0.9742,0.4668,N
+foxxji01,Player,Run Off,0.6093,1.5211,14.5493,0.9902, ,N
+deandi01,Player,Run Off,0.3013,3.0239,453.9754,0.9599, ,N
+simmoal01,Player,Run Off,0.5349, , ,0.9821, ,N
+wanerpa01,Player,Run Off,0.4734, , ,0.9757, ,N
+heilmha01,Player,Run Off,0.5205, , ,0.9748, ,N
+terrybi01,Player,Run Off,0.5059, , ,0.9919,0.5546,N
+greenha01,Player,Run Off,0.6050, , ,0.9897, ,N
+dickebi01,Player,Run Off,0.4860, , ,0.9880,0.5429,N
+maranra01,Player,Run Off,0.3397, , ,0.9558,0.4340,N
+schalra01,Player,Run Off,0.3157, , ,0.9809,0.4493,N
+cronijo01,Player,Run Off,0.4679, , ,0.9531,0.5395,N
+vanceda01,Player,Run Off,0.1977,3.2400,840.9469,0.9748, ,N
+lyonste01,Player,Run Off,0.2853,3.6683,1122.0788,0.9580,0.4302,N
+wilsoha01,Player,Run Off,0.5447, , ,0.9645, ,N
+harribu01,Player,BBWAA,0.3539, , ,0.9649,0.4930,N
+youngro01,Player,Run Off,0.4407, , ,0.9520, ,N
+hartnga01,Player,Run Off,0.4888, , ,0.9841,0.5356,N
+lazzeto01,Player,Run Off,0.4666, , ,0.9649, ,N
+hardeme01,Player,BBWAA,0.2153,3.8009,1119.0816,0.9545,1.0000,N
+ruffire01,Player,Run Off,0.3887,3.7977,1541.9862,0.9686, ,N
+stengca01,Player,BBWAA,0.4102, , ,0.9638,0.5084,N
+wanerll01,Player,BBWAA,0.3933, , ,0.9830, ,N
+jurgebi01,Player,BBWAA,0.3354, , ,0.9636,0.4836,N
+lucasre01,Player,BBWAA,0.3475,3.7211,456.0763,0.9768, ,N
+warnelo01,Player,BBWAA,0.2672,3.1829,739.9798,0.9881, ,N
+averiea01,Player,BBWAA,0.5336, , ,0.9701, ,N
+chapmbe01,Player,BBWAA,0.4398,4.4043,72.0426,0.9607,0.4153,N
+durocle01,Player,BBWAA,0.3204, , ,0.9607,0.5402,N
+lindsfr01,Player,BBWAA,0.4489, , ,0.9655, ,N
+lopezal01,Player,BBWAA,0.3367, , ,0.9844,0.5841,N
+myerbu01,Player,BBWAA,0.4061, , ,0.9678, ,N
+pruethu01,Player,BBWAA,0.2028,4.6268,397.0953,0.9425, ,N
+ringji01,Player,BBWAA,0.1922,4.1247,954.0810,0.9672, ,N
+toneyfr01,Player,BBWAA,0.1976,2.6886,583.9234,0.9592, ,N
+werbebi01,Player,BBWAA,0.3917, , ,0.9404, ,N
+wittwh01,Player,BBWAA,0.3637, , ,0.9471, ,N
+brownmo01,Player,Old Timers,0.2476,2.0568,673.8536,0.9658,0.4425,Y
+nichoki01,Player,Old Timers,0.2996,2.9547,1268.9715,0.9472,0.4762,Y
+rolfere01,Player,BBWAA,0.4127, , ,0.9550,0.5206,N
+ofarrbo01,Player,BBWAA,0.3877, , ,0.9759,0.5021,N
+ruelmu01,Player,BBWAA,0.3321, , ,0.9823,0.3831,N
+waltebu01,Player,BBWAA,0.3444,3.3018,1121.9631,0.9597,0.3971,N
+lombaer01,Player,BBWAA,0.4599, , ,0.9786, ,N
+chandsp01,Player,BBWAA,0.2901,2.8364,463.8936,0.9800, ,N
+higgipi01,Player,BBWAA,0.4275, , ,0.9348,0.5018,N
+theveto01,Player,BBWAA,0.2939, , ,0.9524, ,N
+crosefr01,Player,BBWAA,0.3545, , ,0.9494, ,N
+ensje01,Player,BBWAA,0.3925, , ,0.9630,0.5131,N
+gonzami01,Player,BBWAA,0.3241, , ,0.9812,0.4091,N
+moorejo02,Player,BBWAA,0.4083, , ,0.9747, ,N
+moorete01,Player,BBWAA,0.3994,0.0000,0.0000,0.9842,0.4545,N
+ottme01,Player,BBWAA,0.5331, , ,0.9742,0.4668,Y
+foxxji01,Player,BBWAA,0.6093,1.5211,14.5493,0.9902, ,Y
+jordati01,Player,BBWAA,0.3817, , ,0.9795, ,N
+paigesa01,Player,BBWAA,0.0968,3.2899,180.9013,1.0000, ,N
+heilmha01,Player,BBWAA,0.5205, , ,0.9748, ,Y
+wanerpa01,Player,BBWAA,0.4734, , ,0.9757, ,Y
+henrito01,Player,BBWAA,0.4912, , ,0.9851, ,N
+lopezal01,Manager,BBWAA,0.3367, , ,0.9844,0.5841,N
+deandi01,Player,BBWAA,0.3013,3.0239,453.9754,0.9599, ,Y
+simmoal01,Player,BBWAA,0.5349, , ,0.9821, ,Y
+applilu01,Player,BBWAA,0.3984, , ,0.9479,0.2500,N
+doerrbo01,Player,BBWAA,0.4610, , ,0.9803, ,N
+kellech01,Player,BBWAA,0.5177, , ,0.9802, ,N
+langebi01,Player,BBWAA,0.4585, , ,0.9317, ,N
+olearch01,Player,BBWAA,0.2723, , ,0.9387, ,N
+roberda01,Player,BBWAA,0.4092, , ,0.9548, ,N
+vaughar01,Player,BBWAA,0.4535, , ,0.9528, ,N
+barroed99,Pioneer/Executive,Veterans, , , , ,0.4921,Y
+bendech01,Player,Veterans,0.2799,2.4551,712.8767,0.9468, ,Y
+connoto99,Umpire,Veterans, , , , , ,Y
+klembi99,Umpire,Veterans, , , , , ,Y
+wallabo01,Player,Veterans,0.3583,3.8731,157.1667,0.9383,0.2870,Y
+wrighha01,Pioneer/Executive,Veterans,0.3382,3.8054,16.5000,0.8402,0.5806,Y
+maranra01,Player,BBWAA,0.3397, , ,0.9558,0.4340,Y
+dickebi01,Player,BBWAA,0.4860, , ,0.9880,0.5429,Y
+terrybi01,Player,BBWAA,0.5059, , ,0.9919,0.5546,Y
+bluelu01,Player,BBWAA,0.4006, , ,0.9886, ,N
+dimagjo01,Player,BBWAA,0.5788, , ,0.9781, ,Y
+lyonste01,Player,BBWAA,0.2853,3.6683,1122.0788,0.9580,0.4302,Y
+vanceda01,Player,BBWAA,0.1977,3.2400,840.9469,0.9748, ,Y
+hartnga01,Player,BBWAA,0.4888, , ,0.9841,0.5356,Y
+allenjo02,Player,BBWAA,0.2151,3.7517,738.9480,0.9572, ,N
+berrych02,Player,BBWAA,0.3736, , ,0.9824, ,N
+bishoma01,Player,BBWAA,0.3660, , ,0.9764, ,N
+haasmu01,Player,BBWAA,0.4020, , ,0.9827, ,N
+bakerfr01,Player,Veterans,0.4423, , ,0.9428, ,Y
+schalra01,Player,Veterans,0.3157, , ,0.9809,0.4493,Y
+greenha01,Player,BBWAA,0.6050, , ,0.9897, ,Y
+cronijo01,Player,BBWAA,0.4679, , ,0.9531,0.5395,Y
+cramedo01,Player,BBWAA,0.3753,4.5000,3.7500,0.9793, ,N
+bridgto01,Player,BBWAA,0.2233,3.5728,1192.9465,0.9623, ,N
+mccorfr01,Player,BBWAA,0.4335, , ,0.9947, ,N
+boudrlo01,Player,BBWAA,0.4147, , ,0.9725,0.4870,N
+bushgu01,Player,BBWAA,0.1791,3.8553,860.0838,0.9738, ,N
+coopemo01,Player,BBWAA,0.2462,2.9679,571.9051,0.9524, ,N
+critzhu01,Player,BBWAA,0.3524, , ,0.9736, ,N
+stephri01,Player,BBWAA,0.4732, , ,0.9692, ,N
+tobinji01,Player,BBWAA,0.3455,3.4389,558.0153,0.9652, ,N
+bergewa01,Player,BBWAA,0.5216, , ,0.9748, ,N
+cuccito01,Player,BBWAA,0.3941, , ,0.9682, ,N
+ferreri01,Player,BBWAA,0.3633, , ,0.9841, ,N
+kuheljo01,Player,BBWAA,0.4057, , ,0.9917,0.3453,N
+marioma01,Player,BBWAA,0.3454, , ,0.9688,0.4890,N
+mostijo01,Player,BBWAA,0.4266, , ,0.9698, ,N
+reynoal01,Player,BBWAA,0.1984,3.3041,1261.8799,0.9350, ,N
+rizzuph01,Player,BBWAA,0.3551, , ,0.9677, ,N
+suhrgu01,Player,BBWAA,0.4277, , ,0.9917, ,N
+turneji01,Player,BBWAA,0.2707,3.2200,283.9920,0.9643, ,N
+uhlege01,Player,BBWAA,0.3838,3.9927,967.0953,0.9603, ,N
+whitebu01,Player,BBWAA,0.3305, , ,0.9707, ,N
+whiteea01,Player,BBWAA,0.2424,4.3578,1432.0988,0.9486, ,N
+willike01,Player,BBWAA,0.5304, , ,0.9580, ,N
+crawfsa01,Player,Veterans,0.4522, , ,0.9688, ,Y
+mccarjo99,Manager,Veterans, , , , ,0.6145,Y
+rowesc01,Player,BBWAA,0.3817,3.8728,559.0508,0.9737, ,N
+tebbebi01,Player,BBWAA,0.3583, , ,0.9782,0.5148,N
+maysca01,Player,BBWAA,0.3502,2.9163,734.9638,0.9676, ,N
+reisepe01,Player,BBWAA,0.4497, , ,0.9752, ,N
+bushjo01,Player,BBWAA,0.3446,3.5127,1263.9691,0.9687, ,N
+groveor01,Player,BBWAA,0.1582,3.7785,445.0513,0.9507, ,N
+bergmo01,Player,BBWAA,0.2990, , ,0.9730, ,N
+lavagco01,Player,BBWAA,0.3767, , ,0.9437,0.4137,N
+doakbi01,Player,BBWAA,0.1580,2.9756,851.9617,0.9602, ,N
+gustifr01,Player,BBWAA,0.3588, , ,0.9458, ,N
+kammwi01,Player,BBWAA,0.3842, , ,0.9674, ,N
+holmeto01,Player,BBWAA,0.4321, , ,0.9889,0.4692,N
+leachfr01,Player,BBWAA,0.4460, , ,0.9777, ,N
+mcmanma01,Player,BBWAA,0.4299, , ,0.9647,0.3831,N
+meadole01,Player,BBWAA,0.2301,3.3743,957.0378,0.9473, ,N
+perkicy01,Player,BBWAA,0.3518, , ,0.9778,0.4000,N
+adamssp01,Player,BBWAA,0.3527, , ,0.9633, ,N
+austiji01,Player,BBWAA,0.3142, , ,0.9330,0.4133,N
+bentola01,Player,BBWAA,0.1951,4.0318,692.1141,0.9623, ,N
+bladera01,Player,BBWAA,0.4600, , ,0.9603,0.5573,N
+casege01,Player,BBWAA,0.3583, , ,0.9698, ,N
+chapmsa01,Player,BBWAA,0.4377, , ,0.9720, ,N
+crowdal01,Player,BBWAA,0.2267,4.1155,801.0464,0.9844, ,N
+danniha01,Player,BBWAA,0.4147, , ,0.9849, ,N
+daviscu01,Player,BBWAA,0.2645,3.4219,480.0576,0.9732, ,N
+ellioju01,Player,BBWAA,0.2188,4.2439,415.1088,0.9231, ,N
+grantge01,Player,BBWAA,0.4612, , ,0.9683, ,N
+keltnke01,Player,BBWAA,0.4408, , ,0.9645, ,N
+kressre01,Player,BBWAA,0.4197,12.5356,7.3928,0.9529, ,N
+mancugu01,Player,BBWAA,0.3512, , ,0.9775, ,N
+millebi02,Player,BBWAA,0.4609, , ,0.9716, ,N
+moseswa01,Player,BBWAA,0.4160, , ,0.9735, ,N
+pearsmo01,Player,BBWAA,0.2904,3.9974,740.9737,0.9720, ,N
+pippwa01,Player,BBWAA,0.4076, , ,0.9916, ,N
+scottja01,Player,BBWAA,0.3544,3.8486,494.0850,0.9565, ,N
+sewelri01,Player,BBWAA,0.2640,3.4780,748.9913,0.9545, ,N
+spahnwa01,Player,BBWAA,0.2869,3.0860,1434.9211,0.9547, ,N
+sukefcl01,Player,BBWAA,0.3314, , ,0.9739,1.0000,N
+walberu01,Player,BBWAA,0.2320,4.1630,1032.0571,0.9477, ,N
+walkeha01,Player,BBWAA,0.3833, , ,0.9691,0.5105,N
+wyattwh01,Player,BBWAA,0.3031,3.7871,642.9563,0.9559, ,N
+youngpe01,Player,BBWAA,0.3800, , ,0.9614, ,N
+zachato01,Player,BBWAA,0.2888,3.7280,915.1451,0.9672, ,N
+wheatza01,Player,Veterans,0.4503, , ,0.9662, ,Y
+mizejo01,Player,BBWAA,0.5620, , ,0.9917, ,N
+brechha01,Player,BBWAA,0.2348,2.9156,536.9074,0.9827, ,N
+newsobo01,Player,BBWAA,0.2169,3.9837,1733.0026,0.9585, ,N
+dimagdo01,Player,BBWAA,0.4190, , ,0.9783, ,N
+whiteha01,Player,BBWAA,0.1725,3.7845,450.9507,0.9464, ,N
+kinerra01,Player,BBWAA,0.5479, , ,0.9749, ,N
+stanked01,Player,BBWAA,0.3478, , ,0.9735,0.5177,N
+edwarha01,Player,BBWAA,0.4400, , ,0.9808, ,N
+elliobo01,Player,BBWAA,0.4399, , ,0.9531,0.3766,N
+leonadu02,Player,BBWAA,0.1926,3.2495,738.0266,0.9654, ,N
+nichobi01,Player,BBWAA,0.4654, , ,0.9787, ,N
+peskyjo01,Player,BBWAA,0.3861, , ,0.9663,0.4509,N
+roepr01,Player,BBWAA,0.1194,3.4320,504.9962,0.9747, ,N
+sistisi01,Player,BBWAA,0.3241, , ,0.9524, ,N
+careyma01,Player,Veterans,0.3858, , ,0.9661,0.4756,Y
+hamilbi01,Player,Veterans,0.4320, , ,0.9264, ,Y
+fellebo01,Player,BBWAA,0.2114,3.2548,1764.8547,0.9633, ,Y
+robinja02,Player,BBWAA,0.4737, , ,0.9829, ,Y
+newhoha01,Player,BBWAA,0.2332,3.0551,1249.8934,0.9714, ,N
+cavarph01,Player,BBWAA,0.4156, , ,0.9889,0.4424,N
+coxbi02,Player,BBWAA,0.3798, , ,0.9616, ,N
+hutchfr01,Player,BBWAA,0.3262,3.7254,389.0157,0.9701,0.5009,N
+raschvi01,Player,BBWAA,0.2171,3.7207,727.9159,0.9772, ,N
+sainjo01,Player,BBWAA,0.3036,3.4888,620.0091,0.9632, ,N
+walkedi02,Player,BBWAA,0.4372, , ,0.9717, ,N
+yorkru01,Player,BBWAA,0.4833, , ,0.9886,0.0000,N
+mckecbi01,Manager,Veterans,0.3127, , ,0.9539,0.5239,Y
+roushed01,Player,Veterans,0.4459, , ,0.9723, ,Y
+clarkjo01,Player,Veterans,0.3186,2.8113,1191.9468,0.8865, ,Y
+flickel01,Player,Veterans,0.4452, , ,0.9472, ,Y
+ricesa01,Player,Veterans,0.4267,2.5170,19.7881,0.9648, ,Y
+rixeyep01,Player,Veterans,0.2240,3.1477,1083.0308,0.9779, ,Y
+applilu01,Player,Run Off,0.3984, , ,0.9479,0.2500,Y
+camparo01,Player,Run Off,0.4996, , ,0.9881, ,N
+medwijo01,Player,Run Off,0.5045, , ,0.9804, ,N
+camparo01,Player,BBWAA,0.4996, , ,0.9881, ,N
+reesepe01,Player,BBWAA,0.3770, , ,0.9618, ,N
+reesepe01,Player,Run Off,0.3770, , ,0.9618, ,N
+boudrlo01,Player,Run Off,0.4147, , ,0.9725,0.4870,N
+lopezal01,Player,Run Off,0.3367, , ,0.9844,0.5841,N
+kellge01,Player,BBWAA,0.4138, , ,0.9714, ,N
+lemonbo01,Player,BBWAA,0.3863,3.2337,1251.8979,0.9684,0.5162,N
+vandejo01,Player,Run Off,0.1796,3.4424,1132.8548,0.9437, ,N
+kleinch01,Player,Run Off,0.5430, , ,0.9623, ,N
+marioma01,Player,Run Off,0.3454, , ,0.9688,0.4890,N
+hardeme01,Player,Run Off,0.2153,3.8009,1119.0816,0.9545,1.0000,N
+maglisa01,Player,BBWAA,0.1581,3.1497,562.9234,0.9741, ,N
+mizejo01,Player,Run Off,0.5620, , ,0.9917, ,N
+wanerll01,Player,Run Off,0.3933, , ,0.9830, ,N
+rizzuph01,Player,Run Off,0.3551, , ,0.9677, ,N
+hermabi01,Player,Run Off,0.4069, , ,0.9676,0.4082,N
+lombaer01,Player,Run Off,0.4599, , ,0.9786, ,N
+kellge01,Player,Run Off,0.4138, , ,0.9714, ,N
+waltebu01,Player,Run Off,0.3444,3.3018,1121.9631,0.9597,0.3971,N
+reynoal01,Player,Run Off,0.1984,3.3041,1261.8799,0.9350, ,N
+vaughar01,Player,Run Off,0.4535, , ,0.9528, ,N
+doerrbo01,Player,Run Off,0.4610, , ,0.9803, ,N
+martipe01,Player,Run Off,0.4430,2.2500,2.5000,0.9521, ,N
+truckvi01,Player,BBWAA,0.2129,3.3855,1088.9007,0.9552, ,N
+kindeel01,Player,BBWAA,0.1689,3.4305,539.9604,0.9617, ,N
+kinerra01,Player,Run Off,0.5479, , ,0.9749, ,N
+lemonbo01,Player,Run Off,0.3863,3.2337,1251.8979,0.9684,0.5162,N
+newhoha01,Player,Run Off,0.2332,3.0551,1249.8934,0.9714, ,N
+houttar01,Player,BBWAA,0.2320,4.1383,517.0585,0.9631, ,N
+westrwe01,Player,BBWAA,0.3730, , ,0.9849,0.4153,N
+durocle01,Player,Run Off,0.3204, , ,0.9607,0.5402,N
+gromest01,Player,BBWAA,0.2175,3.4088,630.9396,0.9664, ,N
+kuzavbo01,Player,BBWAA,0.1016,4.0510,415.9849,0.9416, ,N
+miksied01,Player,BBWAA,0.3220, , ,0.9648, ,N
+northro01,Player,BBWAA,0.4496, , ,0.9712, ,N
+smallro01,Player,BBWAA,0.3604, , ,0.9480, ,N
+troutdi01,Player,BBWAA,0.3195,3.2326,1046.9689,0.9437, ,N
+bridgto01,Player,Run Off,0.2233,3.5728,1192.9465,0.9623, ,N
+cavarph01,Player,Run Off,0.4156, , ,0.9889,0.4424,N
+gordojo01,Player,Run Off,0.4656, , ,0.9701,0.4976,N
+newsobo01,Player,Run Off,0.2169,3.9837,1733.0026,0.9585, ,N
+faberre01,Player,Veterans,0.1608,3.1493,1214.0047,0.9458, ,Y
+grimebu01,Player,Veterans,0.3062,3.5268,1296.0555,0.9541,0.4338,Y
+huggimi01,Manager,Veterans,0.3143, , ,0.9556,0.5548,Y
+keefeti01,Player,Veterans,0.2698,2.6246,1220.8794,0.8877, ,Y
+manushe01,Player,Veterans,0.4788, , ,0.9794, ,Y
+wardjo01,Player,Veterans,0.3407,2.1022,253.9412,0.8969,0.5628,Y
+galvipu01,Player,Veterans,0.2606,2.8634,746.0669,0.9085,0.2917,Y
+willite01,Player,BBWAA,0.6338,4.5000,1.5000,0.9744,0.4286,Y
+slaugen01,Player,BBWAA,0.4529, , ,0.9803, ,N
+vernomi01,Player,BBWAA,0.4285, , ,0.9901,0.3729,N
+darkal01,Player,BBWAA,0.4113,18.0000,2.0000,0.9591,0.5103,N
+thomsbo01,Player,BBWAA,0.4619, , ,0.9730, ,N
+dobyla01,Player,BBWAA,0.4901, , ,0.9831,0.4253,N
+newcodo01,Player,BBWAA,0.3667,3.5588,490.9756,0.9633, ,N
+erskica01,Player,BBWAA,0.1803,3.9955,646.9525,0.9483, ,N
+heganji01,Player,BBWAA,0.3441, , ,0.9896, ,N
+mcdougi01,Player,BBWAA,0.4098, , ,0.9746, ,N
+hattogr01,Player,BBWAA,0.3740, , ,0.9636,0.4260,N
+lockmwh01,Player,BBWAA,0.3906, , ,0.9864,0.4922,N
+sauerha01,Player,BBWAA,0.4962, , ,0.9747, ,N
+ennisde01,Player,BBWAA,0.4719, , ,0.9690, ,N
+furilca01,Player,BBWAA,0.4581, , ,0.9791, ,N
+grissma01,Player,BBWAA,0.1587,3.4111,343.9519,0.9709, ,N
+martimo01,Player,BBWAA,0.1818,4.2867,250.0039,0.9640, ,N
+pafkoan01,Player,BBWAA,0.4487, , ,0.9762, ,N
+ricede01,Player,BBWAA,0.3560, , ,0.9874,0.4839,N
+adamsbo03,Player,BBWAA,0.3680, , ,0.9621, ,N
+carrach01,Player,BBWAA,0.3415, , ,0.9691, ,N
+hearnji01,Player,BBWAA,0.2099,3.8088,655.9750,0.9545, ,N
+hemusso01,Player,BBWAA,0.4113, , ,0.9655,0.4974,N
+portebo01,Player,BBWAA,0.2519,3.7891,553.0021,0.9600, ,N
+stengca01,Manager,Veterans,0.4102, , ,0.9638,0.5084,Y
+ruffire01,Player,Run Off,0.3887,3.7977,1541.9862,0.9686, ,Y
+slaugen01,Player,Run Off,0.4529, , ,0.9803, ,N
+bauerha01,Player,BBWAA,0.4391, , ,0.9819,0.5220,N
+kluszte01,Player,BBWAA,0.4977, , ,0.9928, ,N
+bauerha01,Player,Run Off,0.4391, , ,0.9819,0.5220,N
+darkal01,Player,Run Off,0.4113,18.0000,2.0000,0.9591,0.5103,N
+jenseja01,Player,BBWAA,0.4601, , ,0.9768, ,N
+torgeea01,Player,BBWAA,0.4170, , ,0.9886, ,N
+valoel01,Player,BBWAA,0.3913, , ,0.9770, ,N
+newcodo01,Player,Run Off,0.3667,3.5588,490.9756,0.9633, ,N
+vernomi01,Player,Run Off,0.4285, , ,0.9901,0.3729,N
+courtcl01,Player,BBWAA,0.3662, , ,0.9875, ,N
+dropowa01,Player,BBWAA,0.4319, , ,0.9915, ,N
+garvene01,Player,BBWAA,0.2830,3.7310,881.9974,0.9614, ,N
+martibi02,Player,BBWAA,0.3691, , ,0.9751,0.5530,N
+dobyla01,Player,Run Off,0.4901, , ,0.9831,0.4253,N
+thomsbo01,Player,Run Off,0.4619, , ,0.9730, ,N
+rickebr01,Pioneer/Executive,Veterans,0.3236, , ,0.9381,0.4734,Y
+wanerll01,Player,Veterans,0.3933, , ,0.9830, ,Y
+medwijo01,Player,BBWAA,0.5045, , ,0.9804, ,Y
+coopewa01,Player,BBWAA,0.4636, , ,0.9766, ,N
+ashburi01,Player,BBWAA,0.3821, , ,0.9826, ,N
+blackew01,Player,BBWAA,0.2122,3.2975,562.8706,0.9495, ,N
+galanau01,Player,BBWAA,0.4194, , ,0.9784, ,N
+lopated01,Player,BBWAA,0.2683,3.2062,651.0101,0.9676,0.4206,N
+cuyleki01,Player,Veterans,0.4735, , ,0.9722, ,Y
+gosligo01,Player,Veterans,0.4997, , ,0.9599, ,Y
+musiast01,Player,BBWAA,0.5591, , ,0.9894, ,Y
+camparo01,Player,BBWAA,0.4996, , ,0.9881, ,Y
+wynnea01,Player,BBWAA,0.2846,3.5416,1775.9402,0.9675, ,N
+hodgegi01,Player,BBWAA,0.4868, , ,0.9916,0.4671,N
+schoere01,Player,BBWAA,0.3873, , ,0.9821,0.5215,N
+minosmi01,Player,BBWAA,0.4595, , ,0.9710, ,N
+covelst01,Player,Veterans,0.2051,2.8910,802.9912,0.9725, ,Y
+hoytwa01,Player,Veterans,0.2354,3.5882,1004.0730,0.9660, ,Y
+boudrlo01,Player,BBWAA,0.4147, , ,0.9725,0.4870,Y
+snidedu01,Player,BBWAA,0.5397, , ,0.9846, ,N
+shantbo01,Player,BBWAA,0.2445,3.3756,643.9273,0.9757, ,N
+piercbi02,Player,BBWAA,0.2033,3.2689,1178.9039,0.9562, ,N
+wertzvi01,Player,BBWAA,0.4694, , ,0.9849, ,N
+combsea01,Player,Veterans,0.4624, , ,0.9737, ,Y
+frickfo99,Pioneer/Executive,Veterans, , , , , ,Y
+haineje01,Player,Veterans,0.2180,3.6408,872.0783,0.9656, ,Y
+berrayo01,Player,BBWAA,0.4822, , ,0.9877,0.5216,N
+foxne01,Player,BBWAA,0.3625, , ,0.9835, ,N
+haddiha01,Player,BBWAA,0.2957,3.6282,601.9638,0.9575, ,N
+sievero01,Player,BBWAA,0.4749, , ,0.9888, ,N
+moonwa01,Player,BBWAA,0.4454, , ,0.9799, ,N
+powervi01,Player,BBWAA,0.4105, , ,0.9923, ,N
+brutobi01,Player,BBWAA,0.3927, , ,0.9812, ,N
+bancrda01,Player,Veterans,0.3584, , ,0.9442,0.4069,Y
+becklja01,Player,Veterans,0.4353,6.7500,3.2500,0.9811, ,Y
+hafeych01,Player,Veterans,0.5261, , ,0.9705, ,Y
+hoopeha01,Player,Veterans,0.3870,0.0000,2.0000,0.9663, ,Y
+kellejo01,Player,Veterans,0.4512, , ,0.9646,0.5129,Y
+marquru01,Player,Veterans,0.2023,3.0756,858.9777,0.9512, ,Y
+paigesa01,Player,Negro League,0.0968,3.2899,180.9013,1.0000, ,Y
+weissge99,Pioneer/Executive,Veterans, , , , , ,Y
+koufasa01,Player,BBWAA,0.1160,2.7608,817.7546,0.9542, ,Y
+berrayo01,Player,BBWAA,0.4822, , ,0.9877,0.5216,Y
+wynnea01,Player,BBWAA,0.2846,3.5416,1775.9402,0.9675, ,Y
+mcmilro01,Player,BBWAA,0.3208, , ,0.9715,0.4909,N
+richabo01,Player,BBWAA,0.3349, , ,0.9781, ,N
+gibsojo99,Player,Negro League, , , , , ,Y
+gomezle01,Player,Veterans,0.1593,3.3440,1095.9149,0.9574, ,Y
+harriwi99,Pioneer/Executive,Veterans, , , , , ,Y
+leonabu99,Player,Negro League, , , , , ,Y
+youngro01,Player,Veterans,0.4407, , ,0.9520, ,Y
+spahnwa01,Player,BBWAA,0.2869,3.0860,1434.9211,0.9547, ,Y
+fordwh01,Player,BBWAA,0.2004,2.7451,1086.8725,0.9605, ,N
+roberro01,Player,BBWAA,0.2262,3.4052,902.9773,0.9673, ,N
+burdele01,Player,BBWAA,0.2532,3.6559,629.0387,0.9698, ,N
+lawve01,Player,BBWAA,0.3092,3.7657,598.0603,0.9723, ,N
+groatdi01,Player,BBWAA,0.3662, , ,0.9615, ,N
+simmocu01,Player,BBWAA,0.1956,3.5427,1063.9894,0.9654, ,N
+burgesm01,Player,BBWAA,0.4455, , ,0.9876, ,N
+clemero01,Player,Special Election,0.4751, , ,0.9722, ,Y
+evansbi99,Umpire,Veterans, , , , , ,Y
+irvinmo01,Player,Negro League,0.4750, , ,0.9812, ,Y
+kellyge01,Player,Veterans,0.4524,0.0000,1.8000,0.9906, ,Y
+welchmi01,Player,Veterans,0.2967,2.7120,1297.9552,0.8648, ,Y
+mantlmi01,Player,BBWAA,0.5568, , ,0.9850, ,Y
+fordwh01,Player,BBWAA,0.2004,2.7451,1086.8725,0.9605, ,Y
+matheed01,Player,BBWAA,0.5094, , ,0.9592,0.4806,N
+marisro01,Player,BBWAA,0.4762, , ,0.9823, ,N
+larsedo01,Player,BBWAA,0.3708,3.7791,725.9315,0.9522, ,N
+howarel01,Player,BBWAA,0.4270, , ,0.9917, ,N
+virdobi01,Player,BBWAA,0.3793, , ,0.9815,0.5193,N
+colavro01,Player,BBWAA,0.4885,0.0000,5.1765,0.9795, ,N
+bellco99,Player,Negro League, , , , , ,Y
+bottoji01,Player,Veterans,0.5002, , ,0.9885,0.2727,Y
+conlajo01,Umpire,Veterans,0.3342, , ,0.9571, ,Y
+thompsa01,Player,Veterans,0.5047, , ,0.9346, ,Y
+kinerra01,Player,BBWAA,0.5479, , ,0.9749, ,Y
+drysddo01,Player,BBWAA,0.2951,2.9476,855.8986,0.9368, ,N
+boyerke01,Player,BBWAA,0.4618, , ,0.9571,0.4663,N
+whitewi01,Player,BBWAA,0.2138,2.2763,496.9710,0.8871,0.6197,N
+podrejo01,Player,BBWAA,0.2257,3.6755,743.9885,0.9562, ,N
+averiea01,Player,Veterans,0.5336, , ,0.9701, ,Y
+harribu01,Manager,Veterans,0.3539, , ,0.9649,0.4930,Y
+hermabi01,Player,Veterans,0.4069, , ,0.9676,0.4082,Y
+johnsju99,Player,Negro League, , , , , ,Y
+roberro01,Player,BBWAA,0.2262,3.4052,902.9773,0.9673, ,Y
+lemonbo01,Player,BBWAA,0.3863,3.2337,1251.8979,0.9684,0.5162,Y
+facero01,Player,BBWAA,0.1753,3.4756,362.9796,0.9576, ,N
+crandde01,Player,BBWAA,0.4035, , ,0.9892,0.4370,N
+charlos99,Player,Negro League, , , , , ,Y
+connoro01,Player,Veterans,0.4860, , ,0.9702,0.1778,Y
+hubbaca99,Umpire,Veterans, , , , , ,Y
+lindsfr01,Player,Veterans,0.4489, , ,0.9655, ,Y
+bankser01,Player,BBWAA,0.4995, , ,0.9861, ,Y
+bunniji01,Player,BBWAA,0.2063,3.2694,1000.9130,0.9617, ,N
+kuennha01,Player,BBWAA,0.4081, , ,0.9657,0.5755,N
+floodcu01,Player,BBWAA,0.3893, , ,0.9871, ,N
+pascuca02,Player,BBWAA,0.2637,3.6330,1069.9223,0.9729, ,N
+dihigma99,Player,Negro League, , , , , ,Y
+lloydpo99,Player,Negro League, , , , , ,Y
+lopezal01,Manager,Veterans,0.3367, , ,0.9844,0.5841,Y
+rusieam01,Player,Veterans,0.3191,3.0727,1704.8977,0.8949, ,Y
+seweljo01,Player,Veterans,0.4129, , ,0.9542, ,Y
+matheed01,Player,BBWAA,0.5094, , ,0.9592,0.4806,Y
+wilheho01,Player,BBWAA,0.1065,2.5231,778.7794,0.9779, ,N
+willsma01,Player,BBWAA,0.3312, , ,0.9616,0.3171,N
+mazerbi01,Player,BBWAA,0.3672, , ,0.9828, ,N
+malonji01,Player,BBWAA,0.2803,3.1882,810.8210,0.9569, ,N
+boyercl02,Player,BBWAA,0.3716, , ,0.9665, ,N
+mclaide01,Player,BBWAA,0.1526,3.3929,548.8727,0.9657, ,N
+grantmu01,Player,BBWAA,0.2398,3.6307,849.9387,0.9659, ,N
+ramospe01,Player,BBWAA,0.2404,4.0804,725.0035,0.9773, ,N
+jossad01,Player,Veterans,0.1885,1.8874,364.8113,0.9663, ,Y
+macphla99,Pioneer/Executive,Veterans, , , , , ,Y
+mayswi01,Player,BBWAA,0.5575, , ,0.9808, ,Y
+aparilu01,Player,BBWAA,0.3425, , ,0.9717, ,N
+howarfr01,Player,BBWAA,0.4986, , ,0.9783,0.4115,N
+perraro01,Player,BBWAA,0.1138,2.7889,468.9339,0.9368, ,N
+pappami01,Player,BBWAA,0.1966,3.3983,858.9561,0.9695, ,N
+callijo01,Player,BBWAA,0.4411, , ,0.9841, ,N
+lanieha01,Player,BBWAA,0.2749, , ,0.9750,0.5226,N
+shortch02,Player,BBWAA,0.1392,3.4297,806.9527,0.9652, ,N
+ageeto01,Player,BBWAA,0.4123, , ,0.9755, ,N
+allenbe01,Player,BBWAA,0.3572, , ,0.9777, ,N
+alleyge01,Player,BBWAA,0.3545, , ,0.9708, ,N
+beaucji01,Player,BBWAA,0.3343, , ,0.9792, ,N
+bolinbo01,Player,BBWAA,0.2317,3.4036,597.8655,0.9486, ,N
+culpra01,Player,BBWAA,0.1478,3.5795,752.8834,0.9442, ,N
+fisheed02,Player,BBWAA,0.1504,3.4101,438.9086,0.9560, ,N
+gladdfr01,Player,BBWAA,0.0159,3.1298,223.9418,0.9302, ,N
+mayje01,Player,BBWAA,0.3176, , ,0.9901, ,N
+paganjo01,Player,BBWAA,0.3437, , ,0.9602, ,N
+pepitjo01,Player,BBWAA,0.4316, , ,0.9917, ,N
+reeseri01,Player,BBWAA,0.3837, , ,0.9918, ,N
+stahlla01,Player,BBWAA,0.3510, , ,0.9859, ,N
+stephjo03,Player,BBWAA, ,6.0923,23.0462,0.9231, ,N
+stewaji01,Player,BBWAA,0.3049, , ,0.9717, ,N
+torboje01,Player,BBWAA,0.2653, , ,0.9901,0.4689,N
+gileswa99,Pioneer/Executive,Veterans, , , , , ,Y
+wilsoha01,Player,Veterans,0.5447, , ,0.9645, ,Y
+kalinal01,Player,BBWAA,0.4796, , ,0.9869, ,Y
+snidedu01,Player,BBWAA,0.5397, , ,0.9846, ,Y
+cepedor01,Player,BBWAA,0.4994, , ,0.9890, ,N
+santoro01,Player,BBWAA,0.4641, , ,0.9542, ,N
+cashno01,Player,BBWAA,0.4883, , ,0.9921, ,N
+alouma01,Player,BBWAA,0.3811,0.0000,2.5000,0.9824, ,N
+aloufe01,Player,BBWAA,0.4328, , ,0.9862,0.5029,N
+stottme01,Player,BBWAA,0.2216,2.9692,809.9150,0.9690, ,N
+blassst01,Player,BBWAA,0.2015,3.6285,597.9754,0.9604, ,N
+hickmji02,Player,BBWAA,0.4258,4.5000,1.0000,0.9828, ,N
+jacksso01,Player,BBWAA,0.3028, , ,0.9531, ,N
+mcmahdo02,Player,BBWAA,0.1607,2.9596,579.8042,0.9643, ,N
+akerja01,Player,BBWAA,0.0978,3.2815,274.9102,0.9667, ,N
+barbest01,Player,BBWAA,0.1581,3.3632,950.9095,0.9264, ,N
+bartobo01,Player,BBWAA,0.2869, , ,0.9873, ,N
+boccajo01,Player,BBWAA,0.3174, , ,0.9887, ,N
+brownla01,Player,BBWAA,0.3126, , ,0.9659, ,N
+cannich01,Player,BBWAA,0.3087, , ,0.9826, ,N
+casanpa01,Player,BBWAA,0.3187, , ,0.9847, ,N
+clarkho01,Player,BBWAA,0.3131, , ,0.9813, ,N
+edwarjo01,Player,BBWAA,0.3529, , ,0.9916, ,N
+gagliph01,Player,BBWAA,0.3133, , ,0.9694, ,N
+gosgeji01,Player,BBWAA,0.3306, , ,0.9852, ,N
+huntro01,Player,BBWAA,0.3467, , ,0.9729, ,N
+kennejo03,Player,BBWAA,0.3232, , ,0.9532, ,N
+koscoan01,Player,BBWAA,0.3943, , ,0.9825, ,N
+krausle02,Player,BBWAA,0.2147,4.0034,493.9387,0.9634, ,N
+linzyfr01,Player,BBWAA,0.1901,2.8543,282.9673,0.9696, ,N
+menkede01,Player,BBWAA,0.3703, , ,0.9689, ,N
+millebo04,Player,BBWAA,0.1271,3.3706,608.9585,0.9525, ,N
+milleno01,Player,BBWAA,0.3556, , ,0.9705, ,N
+murreiv01,Player,BBWAA,0.3660, , ,0.9747, ,N
+pizarju01,Player,BBWAA,0.2720,3.4331,888.8883,0.9688, ,N
+rayji01,Player,BBWAA,0.1368,3.5990,271.8759,0.9796, ,N
+reichri01,Player,BBWAA,0.4140, , ,0.9824, ,N
+richepe01,Player,BBWAA,0.1785,3.1887,424.8227,0.9247, ,N
+ryanmi02,Player,BBWAA,0.2802, , ,0.9911, ,N
+schaapa01,Player,BBWAA,0.3443, , ,0.9435, ,N
+selmadi01,Player,BBWAA,0.2167,3.6214,381.8738,0.9676, ,N
+simsdu01,Player,BBWAA,0.4013, , ,0.9845, ,N
+vealebo01,Player,BBWAA,0.1286,3.0748,858.8744,0.9360, ,N
+kleinch01,Player,Veterans,0.5430, , ,0.9623, ,Y
+yawketo99,Pioneer/Executive,Veterans, , , , , ,Y
+gibsobo01,Player,BBWAA,0.3012,2.9148,1336.8442,0.9486, ,Y
+killeha01,Player,BBWAA,0.5085, , ,0.9805, ,N
+maricju01,Player,BBWAA,0.2023,2.8894,709.8990,0.9486, ,N
+munsoth01,Player,BBWAA,0.4098, , ,0.9820, ,N
+pinsova01,Player,BBWAA,0.4421, , ,0.9814, ,N
+perryji01,Player,BBWAA,0.2475,3.4459,998.9517,0.9601, ,N
+mcnalda01,Player,BBWAA,0.2011,3.2374,826.9114,0.9607, ,N
+osteecl01,Player,BBWAA,0.2493,3.2979,941.0031,0.9706, ,N
+beckegl01,Player,BBWAA,0.3450, , ,0.9729, ,N
+brownga01,Player,BBWAA,0.4200, , ,0.9768, ,N
+cardele01,Player,BBWAA,0.3671, , ,0.9703, ,N
+mcdanli01,Player,BBWAA,0.2011,3.4539,623.9811,0.9631, ,N
+northji01,Player,BBWAA,0.4295, , ,0.9807, ,N
+siebeso01,Player,BBWAA,0.2697,3.2077,692.8917,0.9494, ,N
+berryke01,Player,BBWAA,0.3441, , ,0.9894, ,N
+briggjo02,Player,BBWAA,0.4163, , ,0.9800, ,N
+handsbi01,Player,BBWAA,0.0911,3.3537,492.9713,0.9479, ,N
+lockebo01,Player,BBWAA,0.3061,4.0176,166.0368,0.9683, ,N
+maxvida01,Player,BBWAA,0.2594, , ,0.9737, ,N
+mcauldi01,Player,BBWAA,0.4032, , ,0.9665, ,N
+mcdowsa01,Player,BBWAA,0.1757,3.1741,1312.7816,0.9252, ,N
+fosteru99,Manager,Veterans, , , , , ,Y
+mizejo01,Player,Veterans,0.5620, , ,0.9917, ,Y
+aaronha01,Player,BBWAA,0.5545, , ,0.9820, ,Y
+robinfr02,Player,BBWAA,0.5370, , ,0.9844,0.4752,Y
+willibi01,Player,BBWAA,0.4919, , ,0.9760, ,N
+olivato01,Player,BBWAA,0.4764, , ,0.9752, ,N
+davisto02,Player,BBWAA,0.4045, , ,0.9643, ,N
+petrori01,Player,BBWAA,0.4199, , ,0.9697, ,N
+breweji01,Player,BBWAA,0.1643,3.0701,360.8629,0.9474, ,N
+freehbi01,Player,BBWAA,0.4120, , ,0.9933, ,N
+harpeto01,Player,BBWAA,0.3788, , ,0.9730, ,N
+johnsal01,Player,BBWAA,0.3917, , ,0.9530, ,N
+johnsde01,Player,BBWAA,0.4200, , ,0.9872, ,N
+jonescl01,Player,BBWAA,0.4044, , ,0.9789, ,N
+tayloto02,Player,BBWAA,0.3518, , ,0.9761, ,N
+tovarce01,Player,BBWAA,0.3676,0.0000,1.0000,0.9678, ,N
+chandha99,Pioneer/Executive,Veterans, , , , , ,Y
+jackstr01,Player,Veterans,0.4331, , ,0.9518, ,Y
+robinbr01,Player,BBWAA,0.4008, , ,0.9713, ,Y
+maricju01,Player,BBWAA,0.2023,2.8894,709.8990,0.9486, ,Y
+torrejo01,Player,BBWAA,0.4521, , ,0.9875,0.5381,N
+allendi01,Player,BBWAA,0.5336, , ,0.9745, ,N
+powelbo01,Player,BBWAA,0.4618, , ,0.9904, ,N
+sadecra01,Player,BBWAA,0.2471,3.7826,922.9821,0.8779, ,N
+giustda01,Player,BBWAA,0.2500,3.6017,570.9635,0.9637, ,N
+helmsto01,Player,BBWAA,0.3420, , ,0.9805,0.4375,N
+millafe01,Player,BBWAA,0.3433, , ,0.9799, ,N
+cuellmi01,Player,BBWAA,0.1710,3.1378,822.9038,0.9492, ,N
+dierkla01,Player,BBWAA,0.1686,3.3051,711.9127,0.9502,0.5556,N
+dobsopa01,Player,BBWAA,0.1356,3.5358,665.9635,0.9578, ,N
+downial01,Player,BBWAA,0.1604,3.2178,933.8579,0.9607, ,N
+hoernjo01,Player,BBWAA,0.1695,2.9911,181.9224,0.9048, ,N
+hundlra01,Player,BBWAA,0.3495, , ,0.9903, ,N
+mayca01,Player,BBWAA,0.3920, , ,0.9858, ,N
+mcmulke01,Player,BBWAA,0.3830, , ,0.9650, ,N
+meltobi01,Player,BBWAA,0.4190, , ,0.9563, ,N
+nolanga01,Player,BBWAA,0.1758,3.0794,413.8987,0.9895, ,N
+raderdo02,Player,BBWAA,0.4030, , ,0.9567,0.4820,N
+rojasco01,Player,BBWAA,0.3370,0.0000,1.0000,0.9823,0.4903,N
+seguidi01,Player,BBWAA,0.2005,3.8088,786.9161,0.9562, ,N
+singebi01,Player,BBWAA,0.1356,3.3905,781.8979,0.9226, ,N
+wynnji01,Player,BBWAA,0.4360, , ,0.9799, ,N
+alstowa01,Manager,Veterans,0.0000, , ,0.5000,0.5584,Y
+kellge01,Player,Veterans,0.4138, , ,0.9714, ,Y
+aparilu01,Player,BBWAA,0.3425, , ,0.9717, ,Y
+killeha01,Player,BBWAA,0.5085, , ,0.9805, ,Y
+drysddo01,Player,BBWAA,0.2951,2.9476,855.8986,0.9368, ,Y
+woodwi01,Player,BBWAA,0.0901,3.2358,724.9620,0.9775, ,N
+fregoji01,Player,BBWAA,0.3984, , ,0.9664,0.4842,N
+boutoji01,Player,BBWAA,0.1095,3.5748,435.9131,0.9507, ,N
+johnsda02,Player,BBWAA,0.4040, , ,0.9807,0.5616,N
+stanlmi01,Player,BBWAA,0.3765, , ,0.9887, ,N
+bailebo01,Player,BBWAA,0.4030, , ,0.9568, ,N
+brilene01,Player,BBWAA,0.2004,3.4395,548.0139,0.9657, ,N
+carrocl02,Player,BBWAA,0.1442,2.9394,442.9576,0.9711, ,N
+colboji01,Player,BBWAA,0.1091,3.8032,476.0136,0.9580, ,N
+fairlro01,Player,BBWAA,0.4080, , ,0.9895, ,N
+ferreri01,Player,Veterans,0.3633, , ,0.9841, ,Y
+reesepe01,Player,Veterans,0.3770, , ,0.9618, ,Y
+wilheho01,Player,BBWAA,0.1065,2.5231,778.7794,0.9779, ,Y
+brocklo01,Player,BBWAA,0.4102, , ,0.9586, ,Y
+hunteca01,Player,BBWAA,0.2872,3.2563,954.8576,0.9594, ,N
+lolicmi01,Player,BBWAA,0.1206,3.4384,1099.9251,0.9352, ,N
+holtzke01,Player,BBWAA,0.2076,3.4872,910.9720,0.9577, ,N
+lonboji01,Player,BBWAA,0.1753,3.8566,823.9739,0.9541, ,N
+messean01,Player,BBWAA,0.2318,2.8610,831.7707,0.9172, ,N
+kessido01,Player,BBWAA,0.3120, , ,0.9653,0.4340,N
+alouje01,Player,BBWAA,0.3530, , ,0.9680, ,N
+cartyri01,Player,BBWAA,0.4640, , ,0.9740, ,N
+ellisdo01,Player,BBWAA,0.1411,3.4559,674.9715,0.9524, ,N
+kraneed01,Player,BBWAA,0.3766, , ,0.9931, ,N
+scottge02,Player,BBWAA,0.4347, , ,0.9884, ,N
+tolanbo01,Player,BBWAA,0.3823, , ,0.9811, ,N
+whitero01,Player,BBWAA,0.4038, , ,0.9856, ,N
+slaugen01,Player,Veterans,0.4529, , ,0.9803, ,Y
+vaughar01,Player,Veterans,0.4535, , ,0.9528, ,Y
+mccovwi01,Player,BBWAA,0.5147, , ,0.9866, ,Y
+mccarti01,Player,BBWAA,0.3885, , ,0.9893, ,N
+hillejo01,Player,BBWAA,0.1188,2.8333,535.8374,0.9577, ,N
+blairpa01,Player,BBWAA,0.3818, , ,0.9874, ,N
+richajr01,Player,BBWAA,0.2518,3.1494,770.7640,0.9390, ,N
+hortowi01,Player,BBWAA,0.4566, , ,0.9716, ,N
+cashda01,Player,BBWAA,0.3581, , ,0.9833, ,N
+sanguma01,Player,BBWAA,0.3979, , ,0.9857, ,N
+billija01,Player,BBWAA,0.1252,3.8289,751.0185,0.9656, ,N
+cardejo02,Player,BBWAA,0.3952, , ,0.9775, ,N
+harrebu01,Player,BBWAA,0.2882, , ,0.9694,0.5292,N
+davalvi01,Player,BBWAA,0.3645, , ,0.9856, ,N
+knowlda01,Player,BBWAA,0.1360,3.1154,480.9212,0.9185, ,N
+doerrbo01,Player,Veterans,0.4610, , ,0.9803, ,Y
+lombaer01,Player,Veterans,0.4599, , ,0.9786, ,Y
+willibi01,Player,BBWAA,0.4919, , ,0.9760, ,Y
+hunteca01,Player,BBWAA,0.2872,3.2563,954.8576,0.9594, ,Y
+bondsbo01,Player,BBWAA,0.4708, , ,0.9770, ,N
+marshmi01,Player,BBWAA,0.2179,3.1413,514.9238,0.9628, ,N
+bandosa01,Player,BBWAA,0.4081,6.0000,1.0000,0.9599, ,N
+groteje01,Player,BBWAA,0.3257, , ,0.9907, ,N
+stonest01,Player,BBWAA,0.1096,3.9657,716.9545,0.9451, ,N
+dandrra99,Player,Veterans, , , , , ,Y
+stargwi01,Player,BBWAA,0.5286, , ,0.9848, ,Y
+tiantlu01,Player,BBWAA,0.2242,3.3043,1104.8820,0.9457, ,N
+lylesp01,Player,BBWAA,0.2179,2.8806,481.9293,0.9231, ,N
+motama01,Player,BBWAA,0.3893, , ,0.9781, ,N
+belanma01,Player,BBWAA,0.2796, , ,0.9768, ,N
+leebi03,Player,BBWAA,0.2640,3.6244,532.0914,0.9468, ,N
+mayle01,Player,BBWAA,0.4593, , ,0.9936, ,N
+smithre06,Player,BBWAA,0.4890, , ,0.9781, ,N
+hraboal01,Player,BBWAA,0.1786,3.1039,315.8573,0.9070, ,N
+bahnsst01,Player,BBWAA,0.1482,3.6050,924.9648,0.9420, ,N
+grimsro02,Player,BBWAA,0.1388,3.8086,560.0322,0.9698, ,N
+hislela01,Player,BBWAA,0.4521, , ,0.9777, ,N
+jacksgr01,Player,BBWAA,0.1780,3.4644,511.9362,0.9336, ,N
+jonesra01,Player,BBWAA,0.1452,3.4221,503.9907,0.9698, ,N
+maybejo01,Player,BBWAA,0.4393, , ,0.9938, ,N
+mcgloly01,Player,BBWAA,0.2105,3.9842,573.0369,0.9749, ,N
+medicdo01,Player,BBWAA,0.0926,3.7689,625.0199,0.9501, ,N
+milnejo01,Player,BBWAA,0.4133, , ,0.9890, ,N
+montawi01,Player,BBWAA,0.4022, , ,0.9910, ,N
+rudijo01,Player,BBWAA,0.4266, , ,0.9906, ,N
+spencji01,Player,BBWAA,0.3867, , ,0.9949, ,N
+unserde01,Player,BBWAA,0.3582, , ,0.9857, ,N
+wiseri01,Player,BBWAA,0.3084,3.6869,805.0320,0.9820, ,N
+benchjo01,Player,BBWAA,0.4758, , ,0.9872, ,Y
+yastrca01,Player,BBWAA,0.4620, , ,0.9881, ,Y
+perryga01,Player,BBWAA,0.1636,3.1052,1379.9229,0.9699, ,N
+jenkife01,Player,BBWAA,0.2522,3.3375,997.9203,0.9543, ,N
+kaatji01,Player,BBWAA,0.2670,3.4527,1084.0198,0.9473, ,N
+campabe01,Player,BBWAA,0.3421,9.0000,3.0000,0.9630, ,N
+murcebo01,Player,BBWAA,0.4447, , ,0.9759, ,N
+moneydo01,Player,BBWAA,0.4063, , ,0.9754, ,N
+tenacge01,Player,BBWAA,0.4287, , ,0.9892,0.5758,N
+barrji01,Player,BBWAA,0.2047,3.5558,470.0507,0.9537, ,N
+crowlte01,Player,BBWAA,0.3748, , ,0.9869, ,N
+fergujo01,Player,BBWAA,0.4092, , ,0.9855, ,N
+frymawo01,Player,BBWAA,0.1576,3.7697,890.9816,0.9878, ,N
+geronce01,Player,BBWAA,0.3680, , ,0.9884, ,N
+goltzda01,Player,BBWAA,0.1064,3.6888,647.0315,0.9543, ,N
+matlajo01,Player,BBWAA,0.1361,3.1803,638.9632,0.9517, ,N
+mayru01,Player,BBWAA,0.1496,3.4565,958.8825,0.9269, ,N
+mcbriba01,Player,BBWAA,0.4202, , ,0.9889, ,N
+robinbi02,Player,BBWAA,0.4381, , ,0.9801, ,N
+ziskri01,Player,BBWAA,0.4656, , ,0.9815, ,N
+barlial99,Umpire,Veterans, , , , , ,Y
+schoere01,Player,Veterans,0.3873, , ,0.9821,0.5215,Y
+palmeji01,Player,BBWAA,0.2147,2.8564,1311.8483,0.9623, ,Y
+morgajo02,Player,BBWAA,0.4271, , ,0.9811, ,Y
+mcgratu01,Player,BBWAA,0.2290,3.1373,582.8702,0.9274, ,N
+dentbu01,Player,BBWAA,0.3211, , ,0.9764,0.4045,N
+watsobo01,Player,BBWAA,0.4474, , ,0.9897, ,N
+mondari01,Player,BBWAA,0.4430, , ,0.9806, ,N
+pinielo01,Player,BBWAA,0.4087, , ,0.9808,0.5172,N
+rivermi01,Player,BBWAA,0.3965, , ,0.9815, ,N
+bibbyji01,Player,BBWAA,0.2488,3.7564,723.9085,0.9383, ,N
+luzingr01,Player,BBWAA,0.4778, , ,0.9750, ,N
+remyje01,Player,BBWAA,0.3284, , ,0.9805, ,N
+torremi01,Player,BBWAA,0.1796,3.9619,1371.9997,0.9443, ,N
+caldwmi01,Player,BBWAA,0.1898,3.8112,598.0715,0.9762, ,N
+howelro02,Player,BBWAA,0.3893, , ,0.9452, ,N
+moraljo01,Player,BBWAA,0.4084, , ,0.9823, ,N
+otisam01,Player,BBWAA,0.4254, , ,0.9906, ,N
+scottto01,Player,BBWAA,0.3271, , ,0.9857, ,N
+singlke01,Player,BBWAA,0.4359, , ,0.9798, ,N
+splitpa01,Player,BBWAA,0.2066,3.8118,781.0350,0.9746, ,N
+stearjo01,Player,BBWAA,0.3752, , ,0.9839, ,N
+summech01,Player,BBWAA,0.4252, , ,0.9725, ,N
+tidrodi01,Player,BBWAA,0.0947,3.6842,579.9761,0.9626, ,N
+carewro01,Player,BBWAA,0.4292, , ,0.9851, ,Y
+perryga01,Player,BBWAA,0.1636,3.1052,1379.9229,0.9699, ,Y
+jenkife01,Player,BBWAA,0.2522,3.3375,997.9203,0.9543, ,Y
+fingero01,Player,BBWAA,0.2222,2.9042,492.8664,0.9627, ,N
+staubru01,Player,BBWAA,0.4306, , ,0.9803, ,N
+oliveal01,Player,BBWAA,0.4512, , ,0.9865, ,N
+bowala01,Player,BBWAA,0.3203, , ,0.9797,0.4900,N
+koosmje01,Player,BBWAA,0.1410,3.3592,1198.9468,0.9432, ,N
+burroje01,Player,BBWAA,0.4395, , ,0.9742, ,N
+hargrmi01,Player,BBWAA,0.3911, , ,0.9904,0.5032,N
+hebneri01,Player,BBWAA,0.4378, , ,0.9708, ,N
+hootobu01,Player,BBWAA,0.1631,3.3801,799.9416,0.9711, ,N
+jorgemi01,Player,BBWAA,0.3730, , ,0.9929,0.4375,N
+lowenjo01,Player,BBWAA,0.4033, , ,0.9806, ,N
+valenel01,Player,BBWAA,0.4577, , ,0.9724, ,N
+bailobo01,Player,BBWAA,0.3252,7.7144,2.7143,0.9739, ,N
+bumbral01,Player,BBWAA,0.3776, , ,0.9857, ,N
+dauerri01,Player,BBWAA,0.3426, , ,0.9850, ,N
+gamblos01,Player,BBWAA,0.4542, , ,0.9768, ,N
+gurala01,Player,BBWAA,0.0909,3.7592,600.9868,0.9855, ,N
+howear01,Player,BBWAA,0.3793, , ,0.9799,0.4982,N
+kisonbr01,Player,BBWAA,0.2475,3.6603,662.9355,0.9647, ,N
+rogerst01,Player,BBWAA,0.1521,3.1748,876.9229,0.9575, ,N
+wathajo01,Player,BBWAA,0.3429, , ,0.9860,0.5046,N
+zachrpa01,Player,BBWAA,0.1132,3.5241,495.9742,0.9478, ,N
+zahnge01,Player,BBWAA,0.1395,3.7431,527.0698,0.9451, ,N
+lazzeto01,Player,Veterans,0.4666, , ,0.9649, ,Y
+veeckbi99,Pioneer/Executive,Veterans, , , , , ,Y
+seaveto01,Player,BBWAA,0.2099,2.8622,1390.8303,0.9605, ,Y
+fingero01,Player,BBWAA,0.2222,2.9042,492.8664,0.9627, ,Y
+perezto01,Player,BBWAA,0.4635, , ,0.9865,0.4684,N
+rosepe01,Player,BBWAA,0.4093, , ,0.9867,0.5248,N
+fostege01,Player,BBWAA,0.4799, , ,0.9845, ,N
+bluevi01,Player,BBWAA,0.1445,3.2653,1185.8791,0.9668, ,N
+grichbo01,Player,BBWAA,0.4237, , ,0.9828, ,N
+bakerdu01,Player,BBWAA,0.4318, , ,0.9862,0.5292,N
+kingmda01,Player,BBWAA,0.4779,9.0000,6.7500,0.9740, ,N
+russebi01,Player,BBWAA,0.3377, , ,0.9613,0.5373,N
+cedence01,Player,BBWAA,0.4432, , ,0.9855, ,N
+yeagest01,Player,BBWAA,0.3549, , ,0.9872, ,N
+harrato01,Player,BBWAA,0.3953, , ,0.9641,0.4211,N
+leonade01,Player,BBWAA, ,3.6955,622.9771,0.9468, ,N
+dennyjo01,Player,BBWAA,0.1930,3.5855,778.9741,0.9517, ,N
+forscke01,Player,BBWAA,0.1514,3.3676,586.9735,0.9441, ,N
+maddoga01,Player,BBWAA,0.4129, , ,0.9831, ,N
+oglivbe01,Player,BBWAA,0.4504, , ,0.9794, ,N
+thomago01,Player,BBWAA,0.4475, , ,0.9833, ,N
+vuckope01,Player,BBWAA,0.1923,3.6610,545.9991,0.9364, ,N
+mcgowbi99,Umpire,Veterans, , , , , ,Y
+newhoha01,Player,Veterans,0.2332,3.0551,1249.8934,0.9714, ,Y
+jacksre01,Player,BBWAA,0.4901, , ,0.9673, ,Y
+niekrph01,Player,BBWAA,0.2115,3.3506,1809.9333,0.9716, ,N
+garvest01,Player,BBWAA,0.4461, , ,0.9937, ,N
+madlobi01,Player,BBWAA,0.4418, , ,0.9551, ,N
+ceyro01,Player,BBWAA,0.4448, , ,0.9614, ,N
+decindo01,Player,BBWAA,0.4452, , ,0.9591, ,N
+lopesda01,Player,BBWAA,0.3884, , ,0.9769,0.4248,N
+thornan01,Player,BBWAA,0.4515, , ,0.9923, ,N
+campbbi02,Player,BBWAA,0.1538,3.5434,495.9265,0.9572, ,N
+burleri01,Player,BBWAA,0.3606, , ,0.9716, ,N
+coopece01,Player,BBWAA,0.4659, , ,0.9916,0.5015,N
+matthga01,Player,BBWAA,0.4385, , ,0.9678, ,N
+mcraeha01,Player,BBWAA,0.4544, , ,0.9595,0.4576,N
+porteda02,Player,BBWAA,0.4091, , ,0.9825, ,N
+carltst01,Player,BBWAA,0.2595,3.2154,1833.8955,0.9520, ,Y
+suttodo01,Player,BBWAA,0.1566,3.2611,1343.8882,0.9683, ,N
+suttebr01,Player,BBWAA,0.0882,2.8321,309.8433,0.9631, ,N
+nettlgr01,Player,BBWAA,0.4205, , ,0.9613, ,N
+conceda01,Player,BBWAA,0.3570,0.0000,1.5000,0.9719, ,N
+guidrro01,Player,BBWAA, ,3.2885,633.9189,0.9810, ,N
+simmote01,Player,BBWAA,0.4370, , ,0.9857, ,N
+baylodo01,Player,BBWAA,0.4356, , ,0.9799,0.4764,N
+niekrjo01,Player,BBWAA,0.1881,3.5935,1262.9671,0.9691, ,N
+cruzjo01,Player,BBWAA,0.4200, , ,0.9742, ,N
+garneph01,Player,BBWAA,0.3885, , ,0.9648,0.4831,N
+parrila01,Player,BBWAA,0.4392, , ,0.9497,0.4409,N
+knighra01,Player,BBWAA,0.3899, , ,0.9768,0.4771,N
+chambch01,Player,BBWAA,0.4147, , ,0.9932, ,N
+hendrge01,Player,BBWAA,0.4458, , ,0.9871, ,N
+hornebo01,Player,BBWAA,0.4993, , ,0.9775, ,N
+mcgresc01,Player,BBWAA, ,3.9899,519.0487,0.9798, ,N
+sotoma01,Player,BBWAA,0.1660,3.4693,657.8062,0.9313, ,N
+durocle01,Manager,Veterans,0.3204, , ,0.9607,0.5402,Y
+rizzuph01,Player,Veterans,0.3551, , ,0.9677, ,Y
+schmimi01,Player,BBWAA,0.5273, , ,0.9608, ,Y
+riceji01,Player,BBWAA,0.5020, , ,0.9800, ,N
+johnto01,Player,BBWAA,0.1878,3.3418,1260.0154,0.9627, ,N
+bellbu01,Player,BBWAA,0.4062, , ,0.9649,0.4175,N
+evansda01,Player,BBWAA,0.4308, , ,0.9731, ,N
+tekulke01,Player,BBWAA,0.0826,2.8510,491.9086,0.9700, ,N
+forscbo01,Player,BBWAA,0.3214,3.7647,832.9937,0.9726, ,N
+hernawi01,Player,BBWAA,0.2381,3.3772,349.9113,0.9827, ,N
+krukomi01,Player,BBWAA,0.2438,3.8994,767.9989,0.9492, ,N
+speiech01,Player,BBWAA,0.3489, , ,0.9708, ,N
+sundbji01,Player,BBWAA,0.3476, , ,0.9925, ,N
+alexado01,Player,BBWAA,0.1962,3.7575,979.0025,0.9608, ,N
+grossgr01,Player,BBWAA,0.3514,10.7998,4.4000,0.9837, ,N
+rhoderi01,Player,BBWAA,0.3233,3.5949,802.0048,0.9894, ,N
+trillma01,Player,BBWAA,0.3445, , ,0.9812, ,N
+ashburi01,Player,Veterans,0.3821, , ,0.9826, ,Y
+dayle99,Player,Veterans, , , , , ,Y
+hulbewi99,Pioneer/Executive,Veterans, , , , , ,Y
+willivi01,Player,Veterans,0.1862,2.6284,1212.9062,0.9548, ,Y
+boonebo01,Player,BBWAA,0.3462, , ,0.9856,0.4552,N
+lynnfr01,Player,BBWAA,0.4840, , ,0.9884, ,N
+hernake01,Player,BBWAA,0.4361, , ,0.9942, ,N
+quiseda01,Player,BBWAA,0.1667,2.7604,163.0198,0.9652, ,N
+whitefr01,Player,BBWAA,0.3829, , ,0.9826, ,N
+bucknbi01,Player,BBWAA,0.4079, , ,0.9912, ,N
+reussje01,Player,BBWAA,0.1953,3.6371,1128.0175,0.9485, ,N
+tudorjo01,Player,BBWAA,0.1823,3.1202,475.9332,0.9736, ,N
+lemonch01,Player,BBWAA,0.4423, , ,0.9842, ,N
+kneppbo01,Player,BBWAA,0.1964,3.6758,858.0107,0.9486, ,N
+leonaje01,Player,BBWAA,0.4105, , ,0.9734, ,N
+rayjo01,Player,BBWAA,0.3907, , ,0.9817, ,N
+washicl01,Player,BBWAA,0.4196, , ,0.9732, ,N
+bunniji01,Player,Veterans,0.2063,3.2694,1000.9130,0.9617, ,Y
+fostebi99,Player,Veterans, , , , , ,Y
+hanlone01,Manager,Veterans,0.3398, , ,0.8884,0.5301,Y
+weaveea99,Manager,Veterans, , , , ,0.5827,Y
+niekrph01,Player,BBWAA,0.2115,3.3506,1809.9333,0.9716, ,Y
+parkeda01,Player,BBWAA,0.4707, , ,0.9661, ,N
+evansdw01,Player,BBWAA,0.4702, , ,0.9864, ,N
+griffke01,Player,BBWAA,0.4312, , ,0.9817, ,N
+reuscri01,Player,BBWAA,0.2170,3.3734,936.0112,0.9717, ,N
+scottmi03,Player,BBWAA,0.1547,3.5371,627.8982,0.9519, ,N
+templga01,Player,BBWAA,0.3687, , ,0.9615, ,N
+kennete02,Player,BBWAA,0.3856, , ,0.9856, ,N
+puhlte01,Player,BBWAA,0.3883, , ,0.9932, ,N
+foxne01,Player,Veterans,0.3625, , ,0.9835, ,Y
+lasorto01,Manager,Veterans,0.0714,6.4800,56.9086,0.9286,0.5263,Y
+wellswi99,Player,Veterans, , , , , ,Y
+suttodo01,Player,BBWAA,0.1566,3.2611,1343.8882,0.9683, ,Y
+cartega01,Player,BBWAA,0.4387, , ,0.9908, ,N
+blylebe01,Player,BBWAA,0.1463,3.3139,1322.9320,0.9694, ,N
+clarkja01,Player,BBWAA,0.4755, , ,0.9863, ,N
+guerrpe01,Player,BBWAA,0.4800, , ,0.9773, ,N
+randowi01,Player,BBWAA,0.3515, , ,0.9793,0.5441,N
+lansfca01,Player,BBWAA,0.4106, , ,0.9700, ,N
+downibr01,Player,BBWAA,0.4253, , ,0.9904, ,N
+flanami01,Player,BBWAA, ,3.8957,891.0130,0.9792, ,N
+dempsri01,Player,BBWAA,0.3470,4.5000,2.5000,0.9879, ,N
+davisge01,Player,Veterans,0.4048,15.7500,5.0000,0.9355,0.4350,Y
+dobyla01,Player,Veterans,0.4901, , ,0.9831,0.4253,Y
+macphle99,Pioneer/Executive,Veterans, , , , , ,Y
+roganbu99,Player,Veterans, , , , , ,Y
+ryanno01,Player,BBWAA,0.1338,3.1933,2795.7284,0.8950, ,Y
+brettge01,Player,BBWAA,0.4874, , ,0.9701, ,Y
+yountro01,Player,BBWAA,0.4297, , ,0.9723, ,Y
+fiskca01,Player,BBWAA,0.4567, , ,0.9872, ,N
+murphda05,Player,BBWAA,0.4690, , ,0.9818, ,N
+bellge02,Player,BBWAA,0.4692, , ,0.9643, ,N
+candejo01,Player,BBWAA,0.2232,3.3318,592.9498,0.9730, ,N
+boddimi01,Player,BBWAA, ,3.8014,721.9804,0.9502, ,N
+leibrch01,Player,BBWAA,0.1461,3.7123,657.0355,0.9610, ,N
+tananfr01,Player,BBWAA,0.2034,3.6616,1255.9701,0.9785, ,N
+wittmi01,Player,BBWAA, ,3.8334,713.9799,0.9509, ,N
+cepedor01,Player,Veterans,0.4994, , ,0.9890, ,Y
+chylane99,Umpire,Veterans, , , , , ,Y
+seleefr99,Manager,Veterans, , , , ,0.5983,Y
+willijo99,Player,Veterans, , , , , ,Y
+fiskca01,Player,BBWAA,0.4567, , ,0.9872, ,Y
+perezto01,Player,BBWAA,0.4635, , ,0.9865,0.4684,Y
+gossari01,Player,BBWAA,0.1176,3.0094,732.8274,0.9247, ,N
+morrija02,Player,BBWAA,0.0000,3.8998,1390.9328,0.9650, ,N
+reardje01,Player,BBWAA,0.1053,3.1554,358.8831,0.9154, ,N
+wilsowi02,Player,BBWAA,0.3758, , ,0.9871, ,N
+sutclri01,Player,BBWAA,0.2456,4.0802,1081.9868,0.9731, ,N
+hrbekke01,Player,BBWAA,0.4806, , ,0.9941, ,N
+houghch01,Player,BBWAA,0.1770,3.7455,1665.8636,0.9737, ,N
+hendeda01,Player,BBWAA,0.4357, , ,0.9842, ,N
+saxst01,Player,BBWAA,0.3578, , ,0.9780, ,N
+gullibi01,Player,BBWAA,0.1840,3.9305,623.0387,0.9665, ,N
+hurstbr01,Player,BBWAA,0.1314,3.9167,741.0189,0.9679, ,N
+smithlo01,Player,BBWAA,0.4199, , ,0.9644, ,N
+welchbo01,Player,BBWAA,0.1770,3.4667,1034.9360,0.9608, ,N
+brookhu01,Player,BBWAA,0.4029, , ,0.9529, ,N
+andersp01,Manager,Veterans,0.2495, , ,0.9842,0.5447,Y
+mcphebi01,Player,Veterans,0.3725, , ,0.9442,0.3892,Y
+steartu99,Player,Veterans, , , , , ,Y
+winfida01,Player,BBWAA,0.4745, , ,0.9820, ,Y
+puckeki01,Player,BBWAA,0.4767, , ,0.9889, ,Y
+mattido01,Player,BBWAA,0.4714, , ,0.9956,0.5412,N
+stewada01,Player,BBWAA,0.2549,3.9496,1034.9503,0.9429, ,N
+whitalo01,Player,BBWAA,0.4260, , ,0.9837, ,N
+gibsoki01,Player,BBWAA,0.4633, , ,0.9760,0.4849,N
+parrila02,Player,BBWAA,0.4405, , ,0.9910, ,N
+henketo01,Player,BBWAA,0.0000,2.6669,255.7687,0.9821, ,N
+righeda01,Player,BBWAA,0.1818,3.4624,591.9169,0.9391, ,N
+bedrost01,Player,BBWAA,0.0980,3.3778,518.8615,0.9490, ,N
+brownto05,Player,BBWAA,0.1884,3.9401,512.0052,0.9417, ,N
+darliro01,Player,BBWAA,0.2034,3.8740,906.9507,0.9388, ,N
+deshaji01,Player,BBWAA,0.0885,4.1430,575.9403,0.9470, ,N
+krukjo01,Player,BBWAA,0.4457, , ,0.9935, ,N
+rijojo01,Player,BBWAA,0.2337,3.2362,663.9096,0.9655, ,N
+johnsho01,Player,BBWAA,0.4462, , ,0.9404, ,N
+vanslan01,Player,BBWAA,0.4428, , ,0.9870, ,N
+mazerbi01,Player,Veterans,0.3672, , ,0.9828, ,Y
+smithhi99,Player,Veterans, , , , , ,Y
+smithoz01,Player,BBWAA,0.3282, , ,0.9782, ,Y
+dawsoan01,Player,BBWAA,0.4822, , ,0.9828, ,N
+trammal01,Player,BBWAA,0.4153, , ,0.9764,0.3824,N
+greenmi01,Player,BBWAA,0.4631, , ,0.9807, ,N
+violafr01,Player,BBWAA,0.1568,3.7284,864.9967,0.9343, ,N
+dykstle01,Player,BBWAA,0.4185, , ,0.9872, ,N
+wallati01,Player,BBWAA,0.4160,4.5000,1.5000,0.9640, ,N
+hennemi01,Player,BBWAA,0.0000,3.2061,271.9363,0.9388, ,N
+russeje01,Player,BBWAA,0.2152,3.7484,415.9685,0.9634, ,N
+sandesc02,Player,BBWAA,0.2403,4.8587,276.9888,0.9381, ,N
+thompro01,Player,BBWAA,0.4033, , ,0.9829, ,N
+murraed02,Player,BBWAA,0.4761, , ,0.9928, ,Y
+cartega01,Player,BBWAA,0.4387, , ,0.9908, ,Y
+sandbry01,Player,BBWAA,0.4516, , ,0.9887,0.4281,N
+smithle02,Player,BBWAA,0.0938,3.0295,486.8787,0.9760, ,N
+valenfe01,Player,BBWAA,0.2618,3.5447,1151.9276,0.9633, ,N
+kileda01,Player,BBWAA,0.1766,4.1232,918.9860,0.9400, ,N
+colemvi01,Player,BBWAA,0.3446, , ,0.9741, ,N
+butlebr01,Player,BBWAA,0.3760, , ,0.9925, ,N
+fernasi01,Player,BBWAA,0.2226,3.3557,715.7613,0.9686, ,N
+honeyri01,Player,BBWAA,0.1484,3.7208,658.0106,0.9428, ,N
+penato01,Player,BBWAA,0.3637, , ,0.9905,0.4099,N
+daultda01,Player,BBWAA,0.4267, , ,0.9884, ,N
+davisma01,Player,BBWAA,0.2395,4.1659,534.9328,0.9184, ,N
+tartada01,Player,BBWAA,0.4959, , ,0.9675, ,N
+jacksda02,Player,BBWAA,0.1636,4.0079,817.0180,0.9286, ,N
+tettlmi01,Player,BBWAA,0.4489, , ,0.9898, ,N
+willimi02,Player,BBWAA,0.3750,3.6451,544.7768,0.8396, ,N
+worreto01,Player,BBWAA,0.1481,3.0879,247.8765,0.9655, ,N
+molitpa01,Player,BBWAA,0.4480, , ,0.9701,0.4383,Y
+eckerde01,Player,BBWAA,0.1989,3.5007,738.9362,0.9487, ,Y
+cartejo01,Player,BBWAA,0.4643, , ,0.9812, ,N
+martide01,Player,BBWAA,0.1654,3.6971,1165.9743,0.9626, ,N
+stiebda01,Player,BBWAA,0.0000,3.4379,1034.8883,0.9720, ,N
+eisenji01,Player,BBWAA,0.4043, , ,0.9880, ,N
+keyji01,Player,BBWAA,0.0000,3.5074,668.9716,0.9659, ,N
+drabedo01,Player,BBWAA,0.2067,3.7349,704.9657,0.9545, ,N
+mitchke01,Player,BBWAA,0.5198, , ,0.9630, ,N
+samueju01,Player,BBWAA,0.4197, , ,0.9733,0.3333,N
+fieldce01,Player,BBWAA,0.4817, , ,0.9914, ,N
+myersra01,Player,BBWAA,0.2333,3.1944,396.8568,0.9597, ,N
+pendlte01,Player,BBWAA,0.3912, , ,0.9568, ,N
+darwida01,Player,BBWAA,0.1967,3.8367,874.9782,0.9530, ,N
+tewksbo01,Player,BBWAA,0.1500,3.9198,293.1306,0.9797, ,N
+boggswa01,Player,BBWAA,0.4427,3.8572,2.2857,0.9651, ,Y
+sandbry01,Player,BBWAA,0.4516, , ,0.9887,0.4281,Y
+mcgeewi01,Player,BBWAA,0.3960, , ,0.9762, ,N
+abbotji01,Player,BBWAA,0.0952,4.2527,621.0627,0.9764, ,N
+strawda01,Player,BBWAA,0.5054, , ,0.9766, ,N
+mcdowja01,Player,BBWAA, ,3.8544,606.9815,0.9673, ,N
+davisch01,Player,BBWAA,0.4513,0.0000,0.0000,0.9706, ,N
+candito01,Player,BBWAA,0.1338,3.7321,883.9769,0.9737, ,N
+montgje01,Player,BBWAA,0.0000,3.2740,296.9037,0.9692, ,N
+phillto02,Player,BBWAA,0.3890, , ,0.9676, ,N
+steinte01,Player,BBWAA,0.4198, , ,0.9884, ,N
+langsma01,Player,BBWAA,0.1848,3.9674,1289.9191,0.9408, ,N
+nixonot01,Player,BBWAA,0.3144, , ,0.9894, ,N
+suttebr01,Player,BBWAA,0.0882,2.8321,309.8433,0.9631, ,Y
+hershor01,Player,BBWAA,0.2420,3.4817,1007.9389,0.9464, ,N
+belleal01,Player,BBWAA,0.5638, , ,0.9764, ,N
+clarkwi02,Player,BBWAA,0.4966, , ,0.9925, ,N
+goodedw01,Player,BBWAA,0.2618,3.5060,954.9155,0.9501, ,N
+guilloz01,Player,BBWAA,0.3382, , ,0.9740,0.5127,N
+morriha02,Player,BBWAA,0.4332, , ,0.9935, ,N
+gaettga01,Player,BBWAA,0.4336,7.7144,3.1429,0.9683, ,N
+wettejo01,Player,BBWAA,0.2857,2.9294,252.8052,0.8788, ,N
+aguilri01,Player,BBWAA,0.2878,3.5684,351.9548,0.9822, ,N
+jeffegr01,Player,BBWAA,0.4212, , ,0.9841, ,N
+jonesdo01,Player,BBWAA,0.1429,3.3022,248.0236,0.9099, ,N
+weisswa01,Player,BBWAA,0.3257, , ,0.9696,0.4367,N
+disarga01,Player,BBWAA,0.3408, , ,0.9737, ,N
+fernaal01,Player,BBWAA,0.3095,3.7374,552.9617,0.9657, ,N
+brownra99,Player,Negro League, , , , , ,Y
+brownwi02,Player,Negro League,0.2687, , ,1.0000, ,Y
+coopean99,Player,Negro League, , , , , ,Y
+grantfr99,Player,Negro League, , , , , ,Y
+hillpe99,Player,Negro League, , , , , ,Y
+mackebi99,Player,Negro League, , , , , ,Y
+manleef99,Pioneer/Executive,Negro League, , , , , ,Y
+mendejo99,Player,Negro League, , , , , ,Y
+pompeal99,Pioneer/Executive,Negro League, , , , , ,Y
+poseycu99,Pioneer/Executive,Negro League, , , , , ,Y
+santolo99,Player,Negro League, , , , , ,Y
+suttlmu99,Player,Negro League, , , , , ,Y
+taylobe99,Player,Negro League, , , , , ,Y
+torricr99,Player,Negro League, , , , , ,Y
+whiteso99,Pioneer/Executive,Negro League, , , , , ,Y
+wilkijl99,Pioneer/Executive,Negro League, , , , , ,Y
+wilsoju99,Player,Negro League, , , , , ,Y
+ripkeca01,Player,BBWAA,0.4474, , ,0.9767, ,Y
+gwynnto01,Player,BBWAA,0.4585, , ,0.9869, ,Y
+mcgwima01,Player,BBWAA,0.5882, , ,0.9928, ,N
+baineha01,Player,BBWAA,0.4647, , ,0.9781, ,N
+oneilpa01,Player,BBWAA,0.4702,13.5000,5.0000,0.9882, ,N
+saberbr01,Player,BBWAA,0.1421,3.3434,471.9568,0.9626, ,N
+cansejo01,Player,BBWAA,0.5145,27.0000,5.0000,0.9709, ,N
+fernato01,Player,BBWAA,0.3989, , ,0.9781, ,N
+bicheda01,Player,BBWAA,0.4988, , ,0.9736, ,N
+daviser01,Player,BBWAA,0.4824, , ,0.9845, ,N
+bonilbo01,Player,BBWAA,0.4715,18.0000,4.0000,0.9553, ,N
+caminke01,Player,BBWAA,0.4467, , ,0.9478, ,N
+buhneja01,Player,BBWAA,0.4935, , ,0.9876, ,N
+brosisc01,Player,BBWAA,0.4217, , ,0.9623, ,N
+joynewa01,Player,BBWAA,0.4396, , ,0.9944, ,N
+whitede03,Player,BBWAA,0.4191, , ,0.9855, ,N
+wittbo01,Player,BBWAA,0.2344,4.8341,1376.0114,0.9364, ,N
+gossari01,Player,BBWAA,0.1176,3.0094,732.8274,0.9247, ,Y
+raineti01,Player,BBWAA,0.4250, , ,0.9868, ,N
+beckro01,Player,BBWAA,0.2105,3.3047,191.9154,0.9712, ,N
+frymatr01,Player,BBWAA,0.4428, , ,0.9653, ,N
+nenro01,Player,BBWAA,0.0667,2.9832,260.8490,0.9417, ,N
+dunstsh01,Player,BBWAA,0.4156, , ,0.9681, ,N
+finlech01,Player,BBWAA,0.0755,3.8451,1332.9599,0.9067, ,N
+justida01,Player,BBWAA,0.5003, , ,0.9783, ,N
+knoblch01,Player,BBWAA,0.4057, , ,0.9817, ,N
+stottto01,Player,BBWAA,0.2562,4.2789,817.0038,0.9596, ,N
+anderbr01,Player,BBWAA,0.4251, , ,0.9890, ,N
+dreyfba99,Pioneer/Executive,Veterans, , , , , ,Y
+kuhnbo99,Pioneer/Executive,Veterans, , , , , ,Y
+omallwa99,Pioneer/Executive,Veterans, , , , , ,Y
+southbi01,Manager,Veterans,0.4145, , ,0.9652,0.5973,Y
+willidi02,Manager,Veterans,0.3917, , ,0.9817,0.5199,Y
+henderi01,Player,BBWAA,0.4186, , ,0.9791, ,Y
+riceji01,Player,BBWAA,0.5020, , ,0.9800, ,Y
+gracema01,Player,BBWAA,0.4420,9.0000,1.0000,0.9946, ,N
+coneda01,Player,BBWAA,0.1772,3.4619,1137.8638,0.9461, ,N
+willima04,Player,BBWAA,0.4886, , ,0.9645,0.5525,N
+vaughmo01,Player,BBWAA,0.5231, , ,0.9882, ,N
+bellja01,Player,BBWAA,0.4158, , ,0.9756, ,N
+oroscje01,Player,BBWAA,0.1695,3.1613,581.8145,0.9843, ,N
+gantro01,Player,BBWAA,0.4677, , ,0.9712, ,N
+plesada01,Player,BBWAA,0.0667,3.6353,402.9114,0.9732, ,N
+vaughgr01,Player,BBWAA,0.4703, , ,0.9856, ,N
+gordojo01,Player,Veterans,0.4656, , ,0.9701,0.4976,Y
+dawsoan01,Player,BBWAA,0.4822, , ,0.9828, ,Y
+alomaro01,Player,BBWAA,0.4429, , ,0.9836, ,N
+larkiba01,Player,BBWAA,0.4444, , ,0.9746, ,N
+martied01,Player,BBWAA,0.5155, , ,0.9516, ,N
+mcgrifr01,Player,BBWAA,0.5091, , ,0.9919, ,N
+galaran01,Player,BBWAA,0.4988, , ,0.9911, ,N
+venturo01,Player,BBWAA,0.4435,0.0000,1.0000,0.9625,0.4643,N
+karroer01,Player,BBWAA,0.4537, , ,0.9929, ,N
+burksel01,Player,BBWAA,0.5104, , ,0.9832, ,N
+hentgpa01,Player,BBWAA,0.1071,4.3193,776.0172,0.9634, ,N
+appieke01,Player,BBWAA,0.0964,3.7382,933.9344,0.9727, ,N
+seguida01,Player,BBWAA,0.4425, , ,0.9950, ,N
+reynosh01,Player,BBWAA,0.1960,4.0889,420.0800,0.9784, ,N
+lankfra01,Player,BBWAA,0.4766, , ,0.9828, ,N
+zeileto01,Player,BBWAA,0.4233,22.5000,4.5000,0.9680, ,N
+jacksmi02,Player,BBWAA,0.2500,3.4157,464.8272,0.9612, ,N
+herzowh01,Manager,Veterans,0.3649, , ,0.9794,0.5324,Y
+harvedo99,Umpire,Veterans, , , , , ,Y
+alomaro01,Player,BBWAA,0.4429, , ,0.9836, ,Y
+blylebe01,Player,BBWAA,0.1463,3.3139,1322.9320,0.9694, ,Y
+bagweje01,Player,BBWAA,0.5403, , ,0.9933, ,N
+walkela01,Player,BBWAA,0.5652, , ,0.9866, ,N
+palmera01,Player,BBWAA,0.5145, , ,0.9940, ,N
+gonzaju03,Player,BBWAA,0.5607, , ,0.9831, ,N
+francjo01,Player,BBWAA,0.0882,2.8900,495.9360,0.9643, ,N
+brownke01,Player,BBWAA,0.1616,3.2752,901.9455,0.9510, ,N
+martiti02,Player,BBWAA,0.4710, , ,0.9951, ,N
+grissma02,Player,BBWAA,0.4145, , ,0.9879, ,N
+leiteal01,Player,BBWAA,0.1019,3.8018,1163.9000,0.9608, ,N
+olerujo01,Player,BBWAA,0.4650, , ,0.9954, ,N
+surhobj01,Player,BBWAA,0.4134, , ,0.9858, ,N
+boonebr01,Player,BBWAA,0.4419, , ,0.9857, ,N
+santibe01,Player,BBWAA,0.4152, , ,0.9874, ,N
+baergca01,Player,BBWAA,0.4225, , ,0.9732, ,N
+harrile01,Player,BBWAA,0.3489,0.0000,0.0000,0.9588, ,N
+higgibo02,Player,BBWAA,0.4548, , ,0.9766, ,N
+johnsch04,Player,BBWAA,0.4327, , ,0.9935, ,N
+mondera01,Player,BBWAA,0.4849, , ,0.9757, ,N
+rueteki01,Player,BBWAA,0.1672,4.2748,583.0907,0.9880, ,N
+gillipa99,Pioneer/Executive,Veterans, , , , , ,Y
+larkiba01,Player,BBWAA,0.4444, , ,0.9746, ,Y
+willibe02,Player,BBWAA,0.4773, , ,0.9900, ,N
+castivi02,Player,BBWAA,0.4763, , ,0.9665, ,N
+salmoti01,Player,BBWAA,0.4985, , ,0.9773, ,N
+muellbi02,Player,BBWAA,0.4246, , ,0.9584, ,N
+radkebr01,Player,BBWAA,0.1034,4.2228,446.0783,0.9869, ,N
+lopezja01,Player,BBWAA,0.4911, , ,0.9925, ,N
+younger01,Player,BBWAA,0.3901, , ,0.9765, ,N
+nevinph01,Player,BBWAA,0.4718, , ,0.9773, ,N
+jordabr01,Player,BBWAA,0.4548, , ,0.9882, ,N
+sierrru01,Player,BBWAA,0.4495, , ,0.9702, ,N
+burnije01,Player,BBWAA,0.4813, , ,0.9769, ,N
+mulhote01,Player,BBWAA,0.1454,4.4097,682.0999,0.9073, ,N
+womacto01,Player,BBWAA,0.3564, , ,0.9730, ,N
+santoro01,Player,Veterans,0.4641, , ,0.9542, ,Y
+biggicr01,Player,BBWAA,0.4332, , ,0.9846, ,N
+piazzmi01,Player,BBWAA,0.5452, , ,0.9892, ,N
+schilcu01,Player,BBWAA,0.1708,3.4581,711.9193,0.9562, ,N
+clemero02,Player,BBWAA,0.2067,3.1247,1580.8512,0.9728, ,N
+bondsba01,Player,BBWAA,0.6069, , ,0.9836, ,N
+sosasa01,Player,BBWAA,0.5338, , ,0.9733, ,N
+loftoke01,Player,BBWAA,0.4228, , ,0.9845, ,N
+alomasa02,Player,BBWAA,0.4064, , ,0.9895,0.5000,N
+francju02,Player,BBWAA,0.4388, , ,0.9655, ,N
+wellsda01,Player,BBWAA,0.1404,4.1297,720.0570,0.9524, ,N
+finlest01,Player,BBWAA,0.4424,0.0000,1.0000,0.9877, ,N
+greensh01,Player,BBWAA,0.4945, , ,0.9882, ,N
+seleaa01,Player,BBWAA,0.1897,4.6066,799.1208,0.9437, ,N
+cirilje01,Player,BBWAA,0.4298,0.0000,2.0000,0.9700, ,N
+coninje01,Player,BBWAA,0.4429, , ,0.9899, ,N
+mesajo01,Player,BBWAA,0.0000,4.3586,652.0519,0.9479, ,N
+stantmi01,Player,BBWAA,0.2500,4.6132,183.0356,0.9524, ,N
+sandere02,Player,BBWAA,0.4874, , ,0.9806, ,N
+hernaro01,Player,BBWAA,0.5000,3.4527,462.9353,0.9137, ,N
+whitero02,Player,BBWAA,0.4624, , ,0.9868, ,N
+claytro01,Player,BBWAA,0.3669, , ,0.9738, ,N
+kleskry01,Player,BBWAA,0.5003, , ,0.9892, ,N
+walketo04,Player,BBWAA,0.4350, , ,0.9811, ,N
+williwo02,Player,BBWAA,0.2667,4.1866,712.0003,0.9580, ,N
+ruperja99,Pioneer/Executive,Veterans, , , , , ,Y
+odayha01,Umpire,Veterans,0.2240,3.7442,581.0028,0.9072,0.4984,Y
+whitede01,Player,Veterans,0.3918,7.2000,3.9000,0.8729,0.4500,Y
+coxbo01,Manager,Veterans,0.3089, , ,0.9533,0.5558,Y
+larusto01,Manager,Veterans,0.2500, , ,0.9598,0.5356,Y
+torrejo01,Manager,Veterans,0.4521, , ,0.9875,0.5381,Y
+maddugr01,Player,BBWAA,0.2049,3.1555,999.9436,0.9704, ,Y
+glavito02,Player,BBWAA,0.2101,3.5361,1500.9739,0.9773, ,Y
+thomafr04,Player,BBWAA,0.5549, , ,0.9906, ,Y
+mussimi01,Player,BBWAA,0.1923,3.6832,785.9712,0.9798, ,N
+kentje01,Player,BBWAA,0.4996, , ,0.9785, ,N
+aloumo01,Player,BBWAA,0.5157, , ,0.9802, ,N
+nomohi01,Player,BBWAA,0.1918,4.2442,908.8946,0.9578, ,N
+gonzalu01,Player,BBWAA,0.4789, , ,0.9864, ,N
+gagneer01,Player,BBWAA,0.2209,3.4676,226.8048,0.9903, ,N
+snowjt01,Player,BBWAA,0.4267, , ,0.9955, ,N
+benitar01,Player,BBWAA,0.0000,3.1309,403.6996,0.9103, ,N
+rogerke01,Player,BBWAA,0.1818,4.2729,1176.0467,0.9579, ,N
+jonesja05,Player,BBWAA,0.3551, , ,0.9792, ,N
+timlimi01,Player,BBWAA,0.0000,3.6319,377.9698,0.9538, ,N
+loducpa01,Player,BBWAA,0.4085, , ,0.9900, ,N
+sexsori01,Player,BBWAA,0.5069, , ,0.9944, ,N
+caseyse01,Player,BBWAA,0.4475, , ,0.9954, ,N
+jonesto02,Player,BBWAA,0.2632,3.9711,444.0000,0.9579, ,N
+durhara01,Player,BBWAA,0.4357, , ,0.9790, ,N
+johnsra05,Player,BBWAA,0.1520,3.2928,1497.8091,0.9042, ,Y
+martipe02,Player,BBWAA,0.1221,2.9254,760.7855,0.9478, ,Y
+smoltjo01,Player,BBWAA,0.2068,3.3274,1010.8851,0.9641, ,Y
+biggicr01,Player,BBWAA,0.4332, , ,0.9846, ,Y
+sheffga01,Player,BBWAA,0.5139, , ,0.9635, ,N
+garcino01,Player,BBWAA,0.5206, , ,0.9749, ,N
+delgaca01,Player,BBWAA,0.5459, , ,0.9920, ,N
+percitr01,Player,BBWAA,0.0000,3.1750,306.6759,0.9630, ,N
+gordoto01,Player,BBWAA,0.0000,3.9578,977.8961,0.9577, ,N
+booneaa01,Player,BBWAA,0.4250, , ,0.9605, ,N
+erstada01,Player,BBWAA,0.4069, , ,0.9955, ,N
+clarkto02,Player,BBWAA,0.4846, , ,0.9926, ,N
+gilesbr02,Player,BBWAA,0.5024, , ,0.9803, ,N
+aurilri01,Player,BBWAA,0.4333, , ,0.9765, ,N
+guarded01,Player,BBWAA,0.0000,4.3158,348.9464,0.9661, ,N
+schmija01,Player,BBWAA,0.1558,3.9583,792.9247,0.9585, ,N
+dyeje01,Player,BBWAA,0.4882, , ,0.9811, ,N
+floydcl01,Player,BBWAA,0.4820, , ,0.9795, ,N
+griffke02,Player,BBWAA,0.5378, , ,0.9848, ,Y
+piazzmi01,Player,BBWAA,0.5452, , ,0.9892, ,Y
+hoffmtr01,Player,BBWAA,0.1765,2.8669,307.7766,0.9739, ,N
+wagnebi02,Player,BBWAA,0.1000,2.3123,300.6656,0.9597, ,N
+edmonji01,Player,BBWAA,0.5271, , ,0.9887, ,N
+sweenmi01,Player,BBWAA,0.4857, , ,0.9894, ,N
+kendaja01,Player,BBWAA,0.3781, , ,0.9895, ,N
+eckstda01,Player,BBWAA,0.3553, , ,0.9818, ,N
+anderga01,Player,BBWAA,0.4611, , ,0.9886, ,N
+glaustr01,Player,BBWAA,0.4895, , ,0.9615, ,N
+winnra01,Player,BBWAA,0.4161, , ,0.9918, ,N
+grudzma01,Player,BBWAA,0.3932, , ,0.9772, ,N
+ausmubr01,Player,BBWAA,0.3435, , ,0.9942,0.5165,N
+hamptmi01,Player,BBWAA,0.3559,4.0629,902.0448,0.9583, ,N
+castilu01,Player,BBWAA,0.3510, , ,0.9843, ,N
+lowelmi01,Player,BBWAA,0.4638, , ,0.9758, ,N
+bagweje01,Player,BBWAA,0.5403, , ,0.9933, ,Y
+raineti01,Player,BBWAA,0.4250, , ,0.9868, ,Y
+rodriiv01,Player,BBWAA,0.4640, , ,0.9912, ,Y
+guerrvl01,Player,BBWAA,0.5525, , ,0.9635, ,N
+ramirma02,Player,BBWAA,0.5854, , ,0.9780, ,N
+posadjo01,Player,BBWAA,0.4741, , ,0.9916, ,N
+ordonma01,Player,BBWAA,0.5024, , ,0.9869, ,N
+varitja01,Player,BBWAA,0.4354, , ,0.9936, ,N
+renteed01,Player,BBWAA,0.3981, , ,0.9696, ,N
+wakefti01,Player,BBWAA,0.1622,4.4131,1205.9770,0.9488, ,N
+morame01,Player,BBWAA,0.4310, , ,0.9662, ,N
+camermi01,Player,BBWAA,0.4438, , ,0.9861, ,N
+rhodear01,Player,BBWAA,0.1667,4.0769,516.8698,0.9477, ,N
+sanchfr01,Player,BBWAA,0.4130, , ,0.9875, ,N
+cabreor01,Player,BBWAA,0.3897, , ,0.9772, ,N
+drewj.01,Player,BBWAA, , , , , ,N
+leede02,Player,BBWAA,0.4947, , ,0.9940, ,N
+blakeca01,Player,BBWAA,0.4416, , ,0.9651, ,N
+guillca01,Player,BBWAA,0.4432, , ,0.9672, ,N
+burrepa01,Player,BBWAA,0.4725, , ,0.9777, ,N
+stairma01,Player,BBWAA,0.4767, , ,0.9883, ,N
+seligbu99,Pioneer/Executive,Veterans, , , , , ,Y
+schurjo99,Pioneer/Executive,Veterans, , , , , ,Y
