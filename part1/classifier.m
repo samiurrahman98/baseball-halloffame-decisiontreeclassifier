@@ -17,11 +17,11 @@ for i = 1:5
     tf(1:round(N*0.8)) = true;
     tf = tf(randperm(N));
 
-    DT = fitctree(T(tf,2:end-1), T(tf,end), 'SplitCriterion', 'gdi');
+    DT = fitctree(T(tf,2:end-1),T(tf,end),'SplitCriterion','gdi');
 
     classifications = char(T(~tf,:).('classification'));
-    predictions = char(predict(DT, T(~tf,2:end-1)));
-    c = confusionmat(classifications, predictions);
+    predictions = char(predict(DT,T(~tf,2:end-1)));
+    [c,a] = confusionmat(classifications,predictions);
 
     M = size(predictions,1);
     for j = 1:M
@@ -38,11 +38,11 @@ for i = 1:5
     tf(1:round(N*0.8)) = true;
     tf = tf(randperm(N));
 
-    DT = fitctree(T(tf,2:end-1), T(tf,end), 'SplitCriterion', 'deviance');
+    DT = fitctree(T(tf,2:end-1),T(tf,end),'SplitCriterion','deviance');
 
     classifications = char(T(~tf,:).('classification'));
-    predictions = char(predict(DT, T(~tf,2:end-1)));
-    c = confusionmat(classifications, predictions);
+    predictions = char(predict(DT,T(~tf,2:end-1)));
+    [c,a] = confusionmat(classifications,predictions);
 
     M = size(predictions,1);
     for j = 1:M
