@@ -1,13 +1,13 @@
 T = readtable('data.csv');
 N = size(T,1);
 
-F_gini_accuracy = fopen('g_4_DT_gini_accuracy.csv','w');
-F_gini_predictions = fopen('g_4_DT_gini_predictions.csv','w');
+F_gini_accuracy = fopen('output_files/g_4_DT_gini_accuracy.csv','w');
+F_gini_predictions = fopen('output_files/g_4_DT_gini_predictions.csv','w');
 fprintf(F_gini_accuracy,'"Dataset number","Accuracy"\n');
 fprintf(F_gini_predictions,'"Iteration","Classification","Predictions"\n');
 
-F_entropy_accuracy = fopen('g_4_DT_entropy_accuracy.csv','w');
-F_entropy_predictions = fopen('g_4_DT_entropy_predictions.csv','w');
+F_entropy_accuracy = fopen('output_files/g_4_DT_entropy_accuracy.csv','w');
+F_entropy_predictions = fopen('output_files/g_4_DT_entropy_predictions.csv','w');
 fprintf(F_entropy_accuracy,'"Dataset number","Accuracy"\n');
 fprintf(F_entropy_predictions,'"Iteration","Classification","Predictions"\n');
 
